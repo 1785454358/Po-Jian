@@ -12,19 +12,19 @@ RSS_SOURCES = [
     # ========== 科技（3个RSS + HN）==========
     ("https://sspai.com/feed", "少数派", "科技"),
     ("https://www.ifanr.com/feed", "爱范儿", "科技"),
-    ("http://www.solidot.org/feed", "Solidot", "科技"),
+    ("https://www.solidot.org/index.rss", "Solidot", "科技"),
     # ========== 经济（2个）==========
-    ("https://www.ftchinese.com/rss.xml", "FT中文网", "经济"),
-    ("https://rsshub.app/36kr/newsflashes", "36氪", "经济"),
+    ("https://rsshub.rssforever.com/36kr/newsflashes", "36氪", "经济"),
+    ("https://rsshub.rssforever.com/huxiu/article", "虎嗅", "经济"),
     # ========== 国内（2个）==========
-    ("https://www.zaobao.com/rss.xml", "联合早报", "国内"),
-    ("https://rsshub.app/thepaper/featured", "澎湃新闻", "国内"),
-    # ========== 娱乐（2个）==========
-    ("https://www.lifeweek.com.cn/feed", "三联生活周刊", "娱乐"),
-    ("https://rsshub.app/pingwest/status", "品玩", "娱乐"),
+    ("https://plink.anyfeeder.com/zaobao/realtime/china", "联合早报-中国", "国内"),
+    ("https://rsshub.rssforever.com/thepaper/featured", "澎湃新闻", "国内"),
+    # ========== 文娱（2个）==========
+    ("https://www.gcores.com/rss", "机核", "文娱"),
+    ("https://rsshub.rssforever.com/pingwest/status", "品玩", "文娱"),
     # ========== 国际（2个）==========
     ("http://feeds.bbci.co.uk/news/world/rss.xml", "BBC", "国际"),
-    ("https://www.reutersagency.com/feed/?best-topics=tech", "Reuters", "国际"),
+    ("https://feeds.reuters.com/reuters/topNews", "Reuters", "国际"),
 ]
 
 # 每个 RSS 源最多抓取条目数（避免超大 feed 拖慢管线）
@@ -49,7 +49,7 @@ DOMAIN_KEYWORDS = {
             "inflation", "rate", "bond", "dollar", "crypto", "bitcoin"],
     "国内": ["国务院", "政策", "政府", "就业", "城市", "乡村", "铁路", "规划",
             "基层", "改革", "全国", "人大", "部委", "省委", "社会"],
-    "娱乐": ["电影", "票房", "音乐", "节", "博物馆", "视频", "健身",
+    "文娱": ["电影", "票房", "音乐", "节", "博物馆", "视频", "健身",
             "夜经济", "文旅", "演出", "综艺", "剧集",
             "movie", "music", "video", "game", "social", "culture",
             "entertainment", "streaming", "celebrity"],

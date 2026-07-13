@@ -10,7 +10,7 @@ dist/
 
 # 环境变量
 .env
-*.local
+news-pipeline/.env
 
 # 编辑器
 .idea/
@@ -22,6 +22,5 @@ dist/
 Thumbs.db
 
 # 临时文件
-*.txt
-!env.example.txt
 pipeline_output.txt
+check_result.txt

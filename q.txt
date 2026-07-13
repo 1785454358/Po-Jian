@@ -1,0 +1,90 @@
+ModuleBuildError: Module build failed (from ../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/sass-loader@14.2.1_sass@1.101.0_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/sass-loader/dist/cjs.js):
+Undefined variable.
+   ╷
+29 │   box-shadow: $shadow-soft;
+   │               ^^^^^^^^^^^^
+   ╵
+  src/pages/news-detail/index.module.scss 29:15  root stylesheet
+
+{
+  "content": "🙅   编译失败. 7/9/2026, 3:10:42 PM\n\n",
+  "timestamp": 1783581042105
+}
+ModuleBuildError: Module build failed (from ../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/sass-loader@14.2.1_sass@1.101.0_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/sass-loader/dist/cjs.js):
+Undefined variable.
+   ╷
+29 │   box-shadow: $shadow-soft;
+   │               ^^^^^^^^^^^^
+   ╵
+  src/pages/news-detail/index.module.scss 29:15  root stylesheet
+
+ERROR in ./src/pages/news-detail/index.module.scss (../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/css-loader@7.1.4_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].oneOf[0].use[0]!../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/postcss-loader@8.2.1_postcss@8.5.16_typescript@5.9.3_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[0]!../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/resolve-url-loader@5.0.0/node_modules/resolve-url-loader/index.js!../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/sass-loader@14.2.1_sass@1.101.0_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[5].use[1]!./src/pages/news-detail/index.module.scss)
+Module build failed (from ../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/sass-loader@14.2.1_sass@1.101.0_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/sass-loader/dist/cjs.js):
+Undefined variable.
+   ╷
+29 │   box-shadow: $shadow-soft;
+   │               ^^^^^^^^^^^^
+   ╵
+  src/pages/news-detail/index.module.scss 29:15  root stylesheet
+   @ ./src/pages/news-detail/index.module.scss
+   @ ./src/pages/news-detail/index.tsx
+   @ ./src/app.config.ts
+
+ERROR in ./src/pages/news/index.module.scss (../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/css-loader@7.1.4_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].oneOf[0].use[0]!../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/postcss-loader@8.2.1_postcss@8.5.16_typescript@5.9.3_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[0]!../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/resolve-url-loader@5.0.0/node_modules/resolve-url-loader/index.js!../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/sass-loader@14.2.1_sass@1.101.0_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[5].use[1]!./src/pages/news/index.module.scss)
+Module build failed (from ../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/sass-loader@14.2.1_sass@1.101.0_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/sass-loader/dist/cjs.js):
+Undefined variable.
+   ╷
+33 │   box-shadow: $shadow-soft;
+   │               ^^^^^^^^^^^^
+   ╵
+  src/pages/news/index.module.scss 33:15  root stylesheet
+   @ ./src/pages/news/index.module.scss
+   @ ./src/pages/news/index.tsx
+   @ ./src/app.config.ts
+{
+  "content": "<i> [webpack-dev-middleware] wait until bundle finished: /\n",
+  "timestamp": 1783581042162
+}
+ModuleBuildError: Module build failed (from ../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/sass-loader@14.2.1_sass@1.101.0_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/sass-loader/dist/cjs.js):
+Undefined variable.
+   ╷
+29 │   box-shadow: $shadow-soft;
+   │               ^^^^^^^^^^^^
+   ╵
+  src/pages/news-detail/index.module.scss 29:15  root stylesheet
+
+{
+  "content": "🙅   编译失败. 7/9/2026, 3:10:43 PM\n\n",
+  "timestamp": 1783581043227
+}
+ModuleBuildError: Module build failed (from ../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/sass-loader@14.2.1_sass@1.101.0_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/sass-loader/dist/cjs.js):
+Undefined variable.
+   ╷
+29 │   box-shadow: $shadow-soft;
+   │               ^^^^^^^^^^^^
+   ╵
+  src/pages/news-detail/index.module.scss 29:15  root stylesheet
+
+ERROR in ./src/pages/news-detail/index.module.scss (../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/css-loader@7.1.4_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].oneOf[0].use[0]!../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/postcss-loader@8.2.1_postcss@8.5.16_typescript@5.9.3_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[0]!../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/resolve-url-loader@5.0.0/node_modules/resolve-url-loader/index.js!../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/sass-loader@14.2.1_sass@1.101.0_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[5].use[1]!./src/pages/news-detail/index.module.scss)
+Module build failed (from ../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/sass-loader@14.2.1_sass@1.101.0_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/sass-loader/dist/cjs.js):
+Undefined variable.
+   ╷
+29 │   box-shadow: $shadow-soft;
+   │               ^^^^^^^^^^^^
+   ╵
+  src/pages/news-detail/index.module.scss 29:15  root stylesheet
+   @ ./src/pages/news-detail/index.module.scss
+   @ ./src/pages/news-detail/index.tsx
+   @ ./src/app.config.ts
+
+ERROR in ./src/pages/news/index.module.scss (../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/css-loader@7.1.4_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].oneOf[0].use[0]!../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/postcss-loader@8.2.1_postcss@8.5.16_typescript@5.9.3_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[0]!../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/resolve-url-loader@5.0.0/node_modules/resolve-url-loader/index.js!../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/sass-loader@14.2.1_sass@1.101.0_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[5].use[1]!./src/pages/news/index.module.scss)
+Module build failed (from ../../../var/cache/pai-dev-server/prewarm/taro/0432e9adac405f3a05e1ffc58a9ab755/node_modules/.pnpm/sass-loader@14.2.1_sass@1.101.0_webpack@5.78.0_@swc+core@1.3.96_postcss@8.5.16_/node_modules/sass-loader/dist/cjs.js):
+Undefined variable.
+   ╷
+33 │   box-shadow: $shadow-soft;
+   │               ^^^^^^^^^^^^
+   ╵
+  src/pages/news/index.module.scss 33:15  root stylesheet
+   @ ./src/pages/news/index.module.scss
+   @ ./src/pages/news/index.tsx
+   @ ./src/app.config.ts

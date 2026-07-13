@@ -1,10 +1,10 @@
 // 新闻相关类型定义
 
 /** 新闻领域 */
-export type Domain = '科技' | '经济' | '国内' | '娱乐' | '国际';
+export type Domain = '科技' | '经济' | '国内' | '文娱' | '国际';
 
 /** 领域列表（顺序固定） */
-export const DOMAIN_LIST: Domain[] = ['科技', '经济', '国内', '娱乐', '国际'];
+export const DOMAIN_LIST: Domain[] = ['科技', '经济', '国内', '文娱', '国际'];
 
 /** 单条新闻（前端渲染结构） */
 export interface NewsItem {

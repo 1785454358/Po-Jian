@@ -37,7 +37,7 @@ export const mockNewsData: NewsData = {
     ],
     "经济": [],
     "国内": [],
-    "娱乐": [],
+    "文娱": [],
     "国际": [],
   }
 }

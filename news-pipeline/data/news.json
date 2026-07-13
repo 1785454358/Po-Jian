@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T17:48:52.910095+00:00",
+  "updated_at": "2026-07-13T18:12:59.673895+00:00",
   "domains": {
     "科技": [
       {
@@ -25,6 +25,16 @@
       {
         "source": "Hacker News",
         "publish_time": "2026-07-13",
+        "origin_title": "LAPD lets contract with surveillance giant Flock expire",
+        "show_content": "LAPD lets contract with surveillance giant Flock expire",
+        "tags": [],
+        "hot_score": 100,
+        "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+        "domain": "科技"
+      },
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
         "origin_title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
         "show_content": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
         "tags": [],
@@ -35,11 +45,11 @@
       {
         "source": "Hacker News",
         "publish_time": "2026-07-13",
-        "origin_title": "LAPD lets contract with surveillance giant Flock expire",
-        "show_content": "LAPD lets contract with surveillance giant Flock expire",
+        "origin_title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+        "show_content": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
         "tags": [],
         "hot_score": 100,
-        "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+        "link": "https://github.com/floodtide/dom-docx",
         "domain": "科技"
       },
       {
@@ -53,59 +63,352 @@
         "domain": "科技"
       },
       {
-        "source": "Hacker News",
+        "source": "Solidot",
         "publish_time": "2026-07-13",
-        "origin_title": "The Graph That Should Be Front-Page News",
-        "show_content": "The Graph That Should Be Front-Page News",
+        "origin_title": "蒋方舟因论文存在抄袭行为被撤销硕士学位",
+        "show_content": "人民大学宣布决定撤销蒋方舟的硕士学位。中国人民大学星期一（7月13日）晚在微博通报称，近日，网上出现关于中国人民大学文学院2019届硕士毕业生蒋方舟学位论文涉嫌学术不端的新线索。学",
         "tags": [],
-        "hot_score": 100,
-        "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+        "hot_score": 96,
+        "link": "https://www.solidot.org/story?sid=84821",
         "domain": "科技"
       },
       {
-        "source": "Hacker News",
+        "source": "Solidot",
         "publish_time": "2026-07-13",
-        "origin_title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-        "show_content": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+        "origin_title": "Vinton Cerf 退休",
+        "show_content": "Vinton Cerf 上周卸任 Google 首席互联网布道官一职，标志这其职业生涯的落幕。现年 83 岁的 Cerf 与 Robert Kahn 合作设计了 TCP/IP 协议",
         "tags": [],
-        "hot_score": 100,
-        "link": "https://nebusec.ai/research/ionstack-part-2/",
+        "hot_score": 95,
+        "link": "https://www.solidot.org/story?sid=84820",
         "domain": "科技"
       },
       {
-        "source": "Hacker News",
+        "source": "Solidot",
         "publish_time": "2026-07-13",
-        "origin_title": "Ask HN: What Are You Working On? (July 2026)",
-        "show_content": "Ask HN: What Are You Working On? (July 2026)",
+        "origin_title": "逃脱死亡命运的类木星行星",
+        "show_content": "天文学家利用韦伯望远镜观测了一颗逃脱死亡命运的类木星行星 WD 1856 b。天文学家是在利用 TESS 望远镜观测白矮星时发现 WD 1856 b 的。白矮星是类太阳恒星的残骸，",
         "tags": [],
-        "hot_score": 100,
-        "link": "https://news.ycombinator.com/item?id=48884984",
+        "hot_score": 95,
+        "link": "https://www.solidot.org/story?sid=84819",
         "domain": "科技"
       },
       {
-        "source": "Hacker News",
+        "source": "Solidot",
         "publish_time": "2026-07-13",
-        "origin_title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
-        "show_content": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+        "origin_title": "数据中心用电量占到了爱尔兰用电量的 23%",
+        "show_content": "爱尔兰中央统计局 (CSO) 的数据显示，2025 年数据中心用电量占到了爱尔兰用电量的 23%。而在 2015 年这一比例仅为 5%。大型数据中心的用电量在 2025 年增长了 ",
         "tags": [],
-        "hot_score": 98,
-        "link": "https://github.com/floodtide/dom-docx",
-        "domain": "科技"
-      },
-      {
-        "source": "爱范儿",
-        "publish_time": "2026-07-13",
-        "origin_title": "68 万元起！腾势 Z 开启国内预售，海外网友已吵翻",
-        "show_content": "百万级的易三方，有着百万级的表现。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-        "tags": [],
-        "hot_score": 89,
-        "link": "https://www.ifanr.com/1671949?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "hot_score": 92,
+        "link": "https://www.solidot.org/story?sid=84818",
         "domain": "科技"
       }
     ],
-    "经济": [],
-    "国内": [],
-    "娱乐": [],
+    "经济": [
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-13",
+        "origin_title": "曾被樊路远批“没有阿里血脉”的灵犀互娱，要被卖了？",
+        "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/14/28667-prod-nb2ep-",
+        "tags": [],
+        "hot_score": 100,
+        "link": "https://www.huxiu.com/article/4874981.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-13",
+        "origin_title": "千亿环保设备更新市场：4道坎和4条路",
+        "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/14/28666-prod-nb2ep-",
+        "tags": [],
+        "hot_score": 96,
+        "link": "https://www.huxiu.com/article/4874980.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-13",
+        "origin_title": "一个台州厂二代的自述：我为什么不接班",
+        "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/14/28665-prod-kl-gen",
+        "tags": [],
+        "hot_score": 96,
+        "link": "https://www.huxiu.com/article/4874979.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-13",
+        "origin_title": "韩国生育率又反弹了，股市暴涨能“催生”吗？",
+        "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/14/28664-prod-db-gen",
+        "tags": [],
+        "hot_score": 96,
+        "link": "https://www.huxiu.com/article/4874978.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-13",
+        "origin_title": "南威软件被立案背后：超2亿交易，被曝与实控人的“万石系”有多处交集，公司此前撇清关系",
+        "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/13/28663-prod-db-gen",
+        "tags": [],
+        "hot_score": 95,
+        "link": "https://www.huxiu.com/article/4874977.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-13",
+        "origin_title": "战魔田默｜电影《四渡》大火：创业者最难的一仗，是推翻昨天的正确",
+        "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/13/28661-prod-kl-gen",
+        "tags": [],
+        "hot_score": 95,
+        "link": "https://www.huxiu.com/article/4874974.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-13",
+        "origin_title": "短剧演员大撤退：日薪踝斩、百人解约，有人转型AI导演",
+        "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/13/28660-prod-kl-gen",
+        "tags": [],
+        "hot_score": 94,
+        "link": "https://www.huxiu.com/article/4874972.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-13",
+        "origin_title": "GDP缩水、地铁烂尾……这些副中心城市怎么了",
+        "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/13/28658-prod-nb2ep-",
+        "tags": [],
+        "hot_score": 93,
+        "link": "https://www.huxiu.com/article/4874970.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-13",
+        "origin_title": "05后斩获全球票房TOP10，它抓住了年轻人没有出路的无力感",
+        "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/13/28657-prod-kl-gen",
+        "tags": [],
+        "hot_score": 93,
+        "link": "https://www.huxiu.com/article/4874967.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-13",
+        "origin_title": "算法代理不对称：当AI替你决策时，你连反对的权利都没有",
+        "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/13/28655-prod-nb2ep-",
+        "tags": [],
+        "hot_score": 93,
+        "link": "https://www.huxiu.com/article/4874964.html",
+        "domain": "经济"
+      }
+    ],
+    "国内": [
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-13",
+        "origin_title": "英国加入欧盟援乌贷款计划",
+        "show_content": "<img alt=\"\" class=\"ait_item_box img_default\" height=\"683\" src=\"https://imgpai.thepaper.cn/",
+        "tags": [],
+        "hot_score": 98,
+        "link": "https://m.thepaper.cn/detail/33579424",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-13",
+        "origin_title": "首次使用海上无人艇，美军公布打击伊朗最新画面",
+        "show_content": "<video class=\"cont_video\" controls=\"controls\" poster=\"https://imgpai.thepaper.cn/newpai/im",
+        "tags": [],
+        "hot_score": 97,
+        "link": "https://m.thepaper.cn/detail/33579319",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-13",
+        "origin_title": "著名电影人施南生辞世，享年75岁",
+        "show_content": "<video class=\"cont_video\" controls=\"controls\" poster=\"https://imgpai.thepaper.cn/newpai/im",
+        "tags": [],
+        "hot_score": 96,
+        "link": "https://m.thepaper.cn/detail/33579316",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-13",
+        "origin_title": "钙钛矿-有机叠层太阳能电池研究取得新突破",
+        "show_content": "<p>北京时间7月13日，中国科学院化学研究所李永舫、孟磊团队在国际学术期刊《自然》上发表新研究成果，团队提出“全阶段调控”策略，通过引入一种可光转换的添加剂分子，成功制备出稳态光",
+        "tags": [],
+        "hot_score": 96,
+        "link": "https://m.thepaper.cn/detail/33579317",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-13",
+        "origin_title": "香港资深电影制作人施南生离世，享年75岁",
+        "show_content": "<video class=\"cont_video\" controls=\"controls\" poster=\"https://imgpai.thepaper.cn/newpai/im",
+        "tags": [],
+        "hot_score": 96,
+        "link": "https://m.thepaper.cn/detail/33578951",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-13",
+        "origin_title": "最新｜长沙市体育局负责人回应澎湃：有些情况还在核实",
+        "show_content": "<p>一起“占车位”的纠纷，经过长达10天的“拉锯”，发酵成引起广泛关注的舆情事件。</p><p>7月13日下午，长沙市体育局党组书记谭果向澎湃新闻表示，有些情况还在进一步核实中。",
+        "tags": [],
+        "hot_score": 96,
+        "link": "https://m.thepaper.cn/detail/33578685",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-13",
+        "origin_title": "光明网评论员：“手搓”防汛APP的新闻，为何让人耳目一新？",
+        "show_content": "<p><u>透过这款APP，人们看到，AI不仅在基层工作中大有可为，也能成为党员干部干事创业的重要平台。接下来，如何让更多的创新实践“冒”出来，这中间还有很多问题需要回答。</u>",
+        "tags": [],
+        "hot_score": 95,
+        "link": "https://m.thepaper.cn/detail/33578947",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-13",
+        "origin_title": "百名中学生在江西会昌小镇过“戏剧的夏天”",
+        "show_content": "<p>7月12日，江西会昌戏剧小镇迎来了第四届麦浪中学生戏剧大赛。未来十天，这里将成为一百多位中学生戏剧爱好者的创作营地。他们来自全国不同省份，也有从中国香港、马来西亚、美国专程赶",
+        "tags": [],
+        "hot_score": 94,
+        "link": "https://m.thepaper.cn/detail/33577429",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-13",
+        "origin_title": "直面蒋方舟学术不端，证据到哪查处就要到哪",
+        "show_content": "<video class=\"cont_video\" controls=\"controls\" poster=\"https://imgpai.thepaper.cn/newpai/im",
+        "tags": [],
+        "hot_score": 94,
+        "link": "https://m.thepaper.cn/detail/33578717",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-13",
+        "origin_title": "《侏罗纪公园》《钢琴课》主演山姆•尼尔去世，享年78岁",
+        "show_content": "<p>澳大利亚当地时间7月13日，以《着魔》《侏罗纪公园》《钢琴课》等作品蜚声影坛的演员山姆·尼尔（Sam Neill）的死讯，突然发布于他的个人社交媒体账号上。</p><p>“山",
+        "tags": [],
+        "hot_score": 94,
+        "link": "https://m.thepaper.cn/detail/33578262",
+        "domain": "国内"
+      }
+    ],
+    "文娱": [
+      {
+        "source": "机核",
+        "publish_time": "2026-07-13",
+        "origin_title": "白话三国 第二回 曹孟德相府相马",
+        "show_content": "<img src=\"https://image.gcores.com/9584f54f9b300ffb99ed60bf72d13f93-1600-900.jpg?x-oss-pro",
+        "tags": [],
+        "hot_score": 90,
+        "link": "https://www.gcores.com/radios/216321",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-13",
+        "origin_title": "活动预告 | 二十世纪的乐器",
+        "show_content": "<img src=\"https://image.gcores.com/869b924ed0520dd0616f33a3e77e31ad-3024-1800.jpg?x-oss-pr",
+        "tags": [],
+        "hot_score": 89,
+        "link": "https://www.gcores.com/articles/217108",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-13",
+        "origin_title": "一个镜头，一个道具，看穿 007 隐藏六十多年的秘密",
+        "show_content": "<img src=\"https://image.gcores.com/27d12f179bcad43845ac96bf4006c541-1600-900.jpg?x-oss-pro",
+        "tags": [],
+        "hot_score": 84,
+        "link": "https://www.gcores.com/videos/217000",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-13",
+        "origin_title": "第三阵营单人战役来袭,《风暴崛起》全新维提战役Demo与地图编辑器同步上线",
+        "show_content": "<img src=\"https://image.gcores.com/e2dc9ab00af4705aed95509a5c9fc15a-1920-1080.png?x-oss-pr",
+        "tags": [],
+        "hot_score": 83,
+        "link": "https://www.gcores.com/articles/217107",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-13",
+        "origin_title": "《零秒：时光的归途》现已发售 首发折后38.4元",
+        "show_content": "<img src=\"https://image.gcores.com/da574f5c65c252f39085f36242629a43-1385-779.png?x-oss-pro",
+        "tags": [],
+        "hot_score": 83,
+        "link": "https://www.gcores.com/articles/217106",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-13",
+        "origin_title": "谁是好人，录音笔 VOL.740",
+        "show_content": "<img src=\"https://image.gcores.com/c8c6daef1d3045c4a7e5d8d7cb967d69-1600-900.jpg?x-oss-pro",
+        "tags": [],
+        "hot_score": 82,
+        "link": "https://www.gcores.com/radios/217105",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-13",
+        "origin_title": "电影《侏罗纪公园》系列博士演员山姆·尼尔去世，享年78岁",
+        "show_content": "<img src=\"https://image.gcores.com/a36516e759664bea2059b32307287b4f-476-240.png?x-oss-proc",
+        "tags": [],
+        "hot_score": 82,
+        "link": "https://www.gcores.com/articles/217104",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-13",
+        "origin_title": "纪念《女神异闻录3》发售20周年&《女神异闻录3 Reload》销量破300万份，Atlus公布副岛成记贺图",
+        "show_content": "<img src=\"https://image.gcores.com/ef3305467bae009a53b30f165f18997b-1920-1080.jpg?x-oss-pr",
+        "tags": [],
+        "hot_score": 80,
+        "link": "https://www.gcores.com/articles/217102",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-13",
+        "origin_title": "【抽奖】土耳其教授单人研发5年，历史4X游戏《帝国的夙愿》今日正式发售",
+        "show_content": "<img src=\"https://image.gcores.com/94daa1ad3bfbfb185baa7993f1aac918-2300-1080.png?x-oss-pr",
+        "tags": [],
+        "hot_score": 78,
+        "link": "https://www.gcores.com/articles/217095",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-13",
+        "origin_title": "【抽奖】双主角幻想 ARPG《星之旅》将于7 月 29 日登陆 PC，一同踏上星之旅",
+        "show_content": "<img src=\"https://image.gcores.com/bc263a05c0b068a1f5da8f6e8a401ca5-1920-1080.jpg?x-oss-pr",
+        "tags": [],
+        "hot_score": 77,
+        "link": "https://www.gcores.com/articles/217091",
+        "domain": "文娱"
+      }
+    ],
     "国际": [
       {
         "source": "BBC",
@@ -113,7 +416,7 @@
         "origin_title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
         "show_content": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn ",
         "tags": [],
-        "hot_score": 97,
+        "hot_score": 96,
         "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
@@ -123,7 +426,7 @@
         "origin_title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
         "show_content": "Firefighters arrived at the scene in the Chatuchak district to find patrons running throug",
         "tags": [],
-        "hot_score": 95,
+        "hot_score": 94,
         "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
@@ -140,36 +443,6 @@
       {
         "source": "BBC",
         "publish_time": "2026-07-13",
-        "origin_title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
-        "show_content": "The actor, who has died aged 78, built up a long string of screen credits over a five-deca",
-        "tags": [],
-        "hot_score": 89,
-        "link": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-        "show_content": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpe",
-        "tags": [],
-        "hot_score": 88,
-        "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "German court convicts Iraqi couple of enslaving Yazidi girls",
-        "show_content": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and becam",
-        "tags": [],
-        "hot_score": 88,
-        "link": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
         "origin_title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
         "show_content": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
         "tags": [],
@@ -180,21 +453,41 @@
       {
         "source": "BBC",
         "publish_time": "2026-07-13",
-        "origin_title": "The SpaceX IPO made history. One month on has it lost momentum?",
-        "show_content": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes m",
+        "origin_title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
+        "show_content": "The actor, who has died aged 78, built up a long string of screen credits over a five-deca",
         "tags": [],
         "hot_score": 88,
-        "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
         "source": "BBC",
         "publish_time": "2026-07-13",
-        "origin_title": "Senator Lindsey Graham died of aortic tear, examiner says",
-        "show_content": "Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening",
+        "origin_title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+        "show_content": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpe",
         "tags": [],
-        "hot_score": 85,
-        "link": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
+        "hot_score": 87,
+        "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-13",
+        "origin_title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+        "show_content": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and becam",
+        "tags": [],
+        "hot_score": 87,
+        "link": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-13",
+        "origin_title": "The SpaceX IPO made history. One month on has it lost momentum?",
+        "show_content": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes m",
+        "tags": [],
+        "hot_score": 87,
+        "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
@@ -205,6 +498,16 @@
         "tags": [],
         "hot_score": 85,
         "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-13",
+        "origin_title": "Men disguised as police kill Ecuadorean drug lord's brother",
+        "show_content": "The victim, David Macías, was the brother of drug lord 'El Fito', who is awaiting trial in",
+        "tags": [],
+        "hot_score": 85,
+        "link": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       }
     ]

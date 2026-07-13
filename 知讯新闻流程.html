@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>知讯 - 新闻获取与处理流程</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: #f5f7fa;
+      color: #2c3e50;
+      line-height: 1.7;
+      padding: 40px 20px;
+    }
+    .container { max-width: 1200px; margin: 0 auto; }
+    h1 {
+      text-align: center;
+      font-size: 2em;
+      margin-bottom: 8px;
+      color: #1a1a2e;
+    }
+    .subtitle {
+      text-align: center;
+      color: #7f8c8d;
+      margin-bottom: 40px;
+      font-size: 0.95em;
+    }
+    .section {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      margin-bottom: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    }
+    .section h2 {
+      font-size: 1.4em;
+      color: #1a1a2e;
+      margin-bottom: 8px;
+      padding-bottom: 12px;
+      border-bottom: 2px solid #eef0f4;
+    }
+    .section h2 .num {
+      display: inline-block;
+      width: 32px; height: 32px;
+      line-height: 32px;
+      text-align: center;
+      background: #4A90D9;
+      color: #fff;
+      border-radius: 50%;
+      font-size: 0.75em;
+      margin-right: 10px;
+    }
+    .section .desc {
+      color: #5a6a7a;
+      font-size: 0.9em;
+      margin-bottom: 20px;
+    }
+    .mermaid {
+      display: flex;
+      justify-content: center;
+      overflow-x: auto;
+    }
+    .file-ref {
+      background: #f8f9fb;
+      border-left: 3px solid #4A90D9;
+      padding: 10px 16px;
+      margin: 16px 0;
+      font-size: 0.85em;
+      color: #5a6a7a;
+      border-radius: 0 6px 6px 0;
+    }
+    .file-ref code {
+      color: #e67e22;
+      font-family: "Fira Code", "Consolas", monospace;
+    }
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      margin-top: 16px;
+      font-size: 0.82em;
+      color: #7f8c8d;
+    }
+    .legend span { display: inline-flex; align-items: center; gap: 6px; }
+    .legend .dot {
+      width: 12px; height: 12px; border-radius: 3px; display: inline-block;
+    }
+    .footer {
+      text-align: center;
+      color: #bdc3c7;
+      font-size: 0.8em;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <h1>知讯 - 新闻获取与处理流程</h1>
+  <p class="subtitle">涵盖后端数据管线 (Python) / CI/CD (GitHub Actions) / 前端小程序 (Taro + React)</p>
+
+  <!-- ==================== 总览 ==================== -->
+  <div class="section">
+    <h2><span class="num">0</span>全链路总览</h2>
+    <p class="desc">从数据源到用户浏览的完整链路，包含后端管线产出 news.json 与前端拉取渲染两大阶段。</p>
+    <div class="mermaid">
+flowchart LR
+    subgraph 数据源
+        A1[RSSHub<br/>澎湃/知乎/微博/36氪]
+        A2[Hacker News API<br/>Top 30]
+    end
+
+    subgraph 后端管线["后端管线 (Python)"]
+        B1[数据抓取<br/>fetcher.py]
+        B2[数据清洗<br/>cleaner.py]
+        B3[领域分组<br/>classifier.py]
+        B4[LLM 中立改写<br/>llm.py]
+        B5[输出 JSON<br/>output.py]
+    end
+
+    subgraph CI["CI/CD"]
+        C1[GitHub Actions<br/>每日 09:00 / 21:00]
+        C2[Git 提交<br/>news.json]
+    end
+
+    subgraph 前端["前端小程序 (Taro)"]
+        D1[fetchNews<br/>services/news.ts]
+        D2[useNews Hook<br/>状态管理]
+        D3[知讯列表页<br/>pages/news]
+        D4[新闻详情页<br/>pages/news-detail]
+        D5[阅读奖励<br/>useGameStore]
+    end
+
+    A1 --> B1
+    A2 --> B1
+    B1 --> B2 --> B3 --> B4 --> B5
+    C1 -.触发.-> B1
+    B5 --> C2
+    C2 -.远程JSON.-> D1
+    D1 --> D2 --> D3
+    D3 -->|点击卡片| D4
+    D4 --> D5
+
+    style 数据源 fill:#fff3e0,stroke:#e67e22
+    style 后端管线 fill:#e8f5e9,stroke:#27ae60
+    style CI fill:#f3e5f5,stroke:#8e44ad
+    style 前端 fill:#e3f2fd,stroke:#4A90D9
+    </div>
+    <div class="legend">
+      <span><span class="dot" style="background:#e67e22"></span> 数据源</span>
+      <span><span class="dot" style="background:#27ae60"></span> 后端管线</span>
+      <span><span class="dot" style="background:#8e44ad"></span> CI/CD</span>
+      <span><span class="dot" style="background:#4A90D9"></span> 前端</span>
+    </div>
+  </div>
+
+  <!-- ==================== 后端管线 ==================== -->
+  <div class="section">
+    <h2><span class="num">1</span>后端数据管线 - 新闻获取与处理</h2>
+    <p class="desc">Python 管线负责从多数据源抓取原始新闻，经过清洗、去重、分组、LLM 改写后输出标准化 JSON。</p>
+    <div class="file-ref">核心文件: <code>news-pipeline/news_pipeline/main.py</code> / <code>fetcher.py</code> / <code>cleaner.py</code> / <code>classifier.py</code> / <code>llm.py</code> / <code>output.py</code></div>
+    <div class="mermaid">
+flowchart TD
+    Start([管线启动<br/>python -m news_pipeline]) --> Fetch
+
+    subgraph Fetch["1. 数据抓取 fetcher.py"]
+        direction TB
+        F1[fetch_rss - RSSHub 抓取]
+        F2[fetch_hn - Hacker News API]
+        F3[fetch_all - 合并结果]
+
+        F1 --> F1a[澎湃新闻 - media]
+        F1 --> F1b[知乎热榜 - hotlist]
+        F1 --> F1c[微博热搜 - hotlist]
+        F1 --> F1d[36氪快讯 - media]
+        F2 --> F2a[HN Top Stories 获取 ID 列表]
+        F2a --> F2b[逐条获取详情 - 30条]
+        F1a --> F3
+        F1b --> F3
+        F1c --> F3
+        F1d --> F3
+        F2b --> F3
+    end
+
+    Fetch --> Clean
+
+    subgraph Clean["2. 数据清洗 cleaner.py"]
+        direction TB
+        CL1[垃圾过滤<br/>_is_spam - 关键词匹配]
+        CL2[标题去重<br/>_dedup - SequenceMatcher 相似度 0.8]
+        CL3[热度计算<br/>_calc_hot_score]
+        CL1 --> CL2 --> CL3
+        CL3 -.->|hotlist| CL3a["100 - rank*3"]
+        CL3 -.->|hn| CL3b["min(100, points)"]
+        CL3 -.->|media| CL3c["100 - hours*2 新鲜度加权"]
+    end
+
+    Clean --> Group
+
+    subgraph Group["3. 领域分组 classifier.py"]
+        direction TB
+        G1[classify - 关键词命中评分]
+        G2[group_and_top - 按领域分组]
+        G3[每域按热度降序取 Top 10]
+
+        G1 --> G2 --> G3
+        G1 -.->|5个领域| G1a[科技 / 国际 / 国内时政 / 财经 / 社会文娱]
+        G1 -.->|未命中| G1b[默认归入 社会文娱]
+    end
+
+    Group --> LLM
+
+    subgraph LLM["4. LLM 中立改写 llm.py"]
+        direction TB
+        L1[get_client - 初始化 OpenAI 兼容客户端]
+        L2{API Key<br/>是否配置?}
+        L3[逐条调用 LLM<br/>temperature=0.3]
+        L4[返回 JSON<br/>content + tags]
+        L5[保底: 原文片段前90字]
+
+        L1 --> L2
+        L2 -->|是| L3 --> L4
+        L2 -->|否| L5
+        L4 -.->|失败| L5
+        L4 -.->|输出| L4a["60-90字客观正文"]
+        L4 -.->|输出| L4b["3个中性关键词"]
+    end
+
+    LLM --> Output
+
+    subgraph Output["5. 输出 output.py"]
+        direction TB
+        O1[组装 NewsData 结构]
+        O2[写入 data/news.json]
+        O1 --> O2
+        O1 -.->|结构| O1a["updated_at: ISO时间"]
+        O1 -.->|结构| O1b["domains: 5个领域字典"]
+    end
+
+    Output --> Done([管线完成])
+
+    style Start fill:#4A90D9,stroke:#2c7ac9,color:#fff
+    style Done fill:#27ae60,stroke:#1e8449,color:#fff
+    style Fetch fill:#fff3e0,stroke:#e67e22
+    style Clean fill:#e8f5e9,stroke:#27ae60
+    style Group fill:#f3e5f5,stroke:#8e44ad
+    style LLM fill:#fce4ec,stroke:#e74c3c
+    style Output fill:#e3f2fd,stroke:#4A90D9
+    </div>
+  </div>
+
+  <!-- ==================== CI/CD ==================== -->
+  <div class="section">
+    <h2><span class="num">2</span>CI/CD - 定时触发与自动提交</h2>
+    <p class="desc">GitHub Actions 每天定时运行管线，将产出的 news.json 自动提交到仓库，供前端拉取。</p>
+    <div class="file-ref">配置文件: <code>.github/workflows/news-fetch.yml</code></div>
+    <div class="mermaid">
+flowchart TD
+    T1[定时触发<br/>cron: 09:00 / 21:00 北京时间] --> S1
+    T2[手动触发<br/>workflow_dispatch] --> S1
+
+    S1[检出代码<br/>actions/checkout] --> S2
+    S2[安装 Python 3.11.9<br/>actions/setup-python] --> S3
+    S3[安装 uv<br/>astral-sh/setup-uv] --> S4
+    S4[同步依赖<br/>uv sync] --> S5
+
+    S5[运行管线<br/>uv run python -m news_pipeline] --> S5a
+    S5a{注入环境变量<br/>LLM_API_KEY<br/>RSSHUB_BASE 等}
+
+    S5 --> S6[提交 news.json]
+    S6 --> S6a{数据是否有更新?}
+    S6a -->|是| S6b[git commit + push]
+    S6a -->|否| S6c[跳过提交]
+
+    style T1 fill:#f3e5f5,stroke:#8e44ad
+    style T2 fill:#f3e5f5,stroke:#8e44ad
+    style S5 fill:#e8f5e9,stroke:#27ae60
+    style S6b fill:#4A90D9,stroke:#2c7ac9,color:#fff
+    </div>
+  </div>
+
+  <!-- ==================== 前端获取流程 ==================== -->
+  <div class="section">
+    <h2><span class="num">3</span>前端 - 新闻数据获取流程</h2>
+    <p class="desc">小程序端通过 Taro.request 拉取远程 news.json，使用模块级缓存避免重复请求，失败时回退 Mock 数据。</p>
+    <div class="file-ref">核心文件: <code>src/services/news.ts</code> / <code>src/hooks/useNews.ts</code></div>
+    <div class="mermaid">
+flowchart TD
+    Start([知讯列表页加载]) --> Hook
+
+    subgraph Hook["useNews Hook"]
+        H1[useState: news / loading / activeDomain]
+        H2[useEffect 触发]
+        H1 --> H2
+    end
+
+    Hook --> Fetch
+
+    subgraph Fetch["fetchNews (services/news.ts)"]
+        F1{模块级缓存<br/>_cache 是否存在?}
+        F1 -->|是| F2[返回缓存数据]
+        F1 -->|否| F3
+
+        F3[Taro.request<br/>GET NEWS_REMOTE_URL<br/>timeout: 8s]
+        F3 --> F4{statusCode === 200<br/>且 data.domains 存在?}
+        F4 -->|是| F5[写入 _cache<br/>返回数据]
+        F4 -->|否| F6[抛出异常]
+        F6 --> F7[catch: 回退 mockNewsData<br/>写入 _cache]
+    end
+
+    Fetch --> Result
+
+    subgraph Result["数据处理"]
+        R1[setNews - 设置新闻数据]
+        R2[setLoading false]
+        R3[list 派生值<br/>news.domains activeDomain]
+        R1 --> R2 --> R3
+    end
+
+    Result --> End([渲染新闻列表])
+
+    style Start fill:#4A90D9,stroke:#2c7ac9,color:#fff
+    style End fill:#27ae60,stroke:#1e8449,color:#fff
+    style F2 fill:#e8f5e9,stroke:#27ae60
+    style F5 fill:#e8f5e9,stroke:#27ae60
+    style F7 fill:#fff3e0,stroke:#e67e22
+    </div>
+  </div>
+
+  <!-- ==================== 列表页渲染 ==================== -->
+  <div class="section">
+    <h2><span class="num">4</span>前端 - 知讯列表页渲染流程</h2>
+    <p class="desc">列表页组装领域标签栏、新闻卡片列表，计算每日剩余阅读奖励次数，点击卡片跳转详情页。</p>
+    <div class="file-ref">页面文件: <code>src/pages/news/index.tsx</code> / 组件: <code>DomainTabs</code> / <code>NewsCard</code> / <code>CustomTabBar</code></div>
+    <div class="mermaid">
+flowchart TD
+    Page[知讯列表页 NewsPage] --> GetHook
+    GetHook[useNews 获取<br/>loading / activeDomain / list / changeDomain] --> GetReward
+    GetReward[useGameStore 获取<br/>dailyReward 每日奖励状态] --> CalcRemain
+
+    CalcRemain[计算今日剩余奖励次数<br/>DAILY_REWARD_LIMIT - waterClaimed] --> Render
+
+    subgraph Render["页面渲染"]
+        direction TB
+        R1[标题: 知讯]
+        R2[奖励提示条<br/>阅读领水肥 今日剩余 N 次]
+        R3[DomainTabs 领域标签栏<br/>科技/国际/国内时政/财经/社会文娱]
+        R4{loading?}
+        R4 -->|是| R5[显示: 加载中...]
+        R4 -->|否| R6{list 是否为空?}
+        R6 -->|是| R7[显示: 暂无该领域的新闻]
+        R6 -->|否| R8[ScrollView 渲染 NewsCard 列表]
+        R9[CustomTabBar 底部导航]
+
+        R1 --> R2 --> R3 --> R4
+        R5 --> R9
+        R7 --> R9
+        R8 --> R9
+    end
+
+    R3 -.->|用户切换领域| ChangeDomain[changeDomain<br/>setActiveDomain]
+    ChangeDomain -.->|触发重渲染| R4
+
+    R8 -->|点击卡片| GoDetail[goDetail<br/>Taro.navigateTo<br/>/pages/news-detail/index<br/>?domain=xxx&index=xxx]
+
+    style Page fill:#4A90D9,stroke:#2c7ac9,color:#fff
+    style GoDetail fill:#e74c3c,stroke:#c0392b,color:#fff
+    style Render fill:#e3f2fd,stroke:#4A90D9
+    </div>
+  </div>
+
+  <!-- ==================== 详情页流程 ==================== -->
+  <div class="section">
+    <h2><span class="num">5</span>前端 - 新闻详情页与奖励发放流程</h2>
+    <p class="desc">详情页通过 URL 参数定位单条新闻，进入即发放阅读奖励（水肥），支持复制原文链接。</p>
+    <div class="file-ref">页面文件: <code>src/pages/news-detail/index.tsx</code> / Store: <code>src/store/useGameStore.ts</code></div>
+    <div class="mermaid">
+flowchart TD
+    Enter([进入详情页<br/>URL: domain=xxx&index=xxx]) --> Parse
+    Parse[解析路由参数<br/>domain / index] --> Effect1
+
+    subgraph Effect1["useEffect 1: 加载新闻内容"]
+        E1[fetchNews<br/>确保数据已缓存]
+        E2[findNewsItem<br/>按 domain + index 查找]
+        E3[setItem<br/>setLoading false]
+        E1 --> E2 --> E3
+    end
+
+    Effect1 --> Effect2
+
+    subgraph Effect2["useEffect 2: 发放阅读奖励"]
+        E4{claimedRef<br/>已领取?}
+        E4 -->|是| E5[跳过]
+        E4 -->|否| E6[claimedRef = true<br/>claimNewsReward]
+        E6 --> E7{Taro.showToast<br/>显示领取结果}
+    end
+
+    Effect2 --> Render
+
+    subgraph Reward["claimNewsReward 逻辑 (useGameStore)"]
+        RW1[normalizeDaily<br/>跨天重置计数]
+        RW2{今日已领<br/>< 上限?}
+        RW3[发放奖励<br/>water +1000 / fertilizer +1000]
+        RW4[返回: 今日已达上限]
+        RW1 --> RW2
+        RW2 -->|是| RW3
+        RW2 -->|否| RW4
+    end
+
+    Effect2 -.-> Reward
+
+    subgraph Render["详情页渲染"]
+        RN1[返回按钮]
+        RN2[来源 + 发布时间]
+        RN3[原始标题]
+        RN4[LLM 精简正文 show_content]
+        RN5[标签 tags]
+        RN6[AI 免责提示]
+        RN7[复制原文链接按钮]
+
+        RN1 --> RN2 --> RN3 --> RN4 --> RN5 --> RN6 --> RN7
+    end
+
+    RN7 -->|点击| CopyLink[Taro.setClipboardData<br/>复制原文链接]
+
+    style Enter fill:#4A90D9,stroke:#2c7ac9,color:#fff
+    style E6 fill:#27ae60,stroke:#1e8449,color:#fff
+    style RW3 fill:#27ae60,stroke:#1e8449,color:#fff
+    style RW4 fill:#e74c3c,stroke:#c0392b,color:#fff
+    style CopyLink fill:#e67e22,stroke:#d35400,color:#fff
+    </div>
+  </div>
+
+  <!-- ==================== 数据结构 ==================== -->
+  <div class="section">
+    <h2><span class="num">6</span>数据结构 - 前后端数据契约</h2>
+    <p class="desc">后端输出的 news.json 与前端 NewsData 类型定义保持一致，是前后端数据契约的核心。</p>
+    <div class="file-ref">类型定义: <code>src/types/news.ts</code> / 输出: <code>news-pipeline/news_pipeline/output.py</code></div>
+    <div class="mermaid">
+classDiagram
+    class NewsData {
+        +updated_at: string  ~ISO时间~
+        +domains: Record~Domain, NewsItem[]~
+    }
+
+    class NewsItem {
+        +source: string  ~来源~
+        +publish_time: string  ~YYYY-MM-DD~
+        +origin_title: string  ~原始标题~
+        +show_content: string  ~LLM精简正文~
+        +tags: string[]  ~3个中性关键词~
+        +hot_score: number  ~热度分~
+        +link: string  ~原文链接~
+        +domain: Domain  ~所属领域~
+    }
+
+    class Domain {
+        <<enumeration>>
+        科技
+        国际
+        国内时政
+        财经
+        社会文娱
+    }
+
+    class DOMAIN_LIST {
+        <<constant>>
+        科技, 国际, 国内时政, 财经, 社会文娱
+    }
+
+    NewsData --> Domain : domains 键
+    NewsData --> NewsItem : 包含
+    NewsItem --> Domain : domain 字段
+    DOMAIN_LIST ..> Domain : 类型来源
+
+    note for NewsItem "后端 output.py 组装\n前端 types/news.ts 定义\n两者字段完全对应"
+    note for Domain "5个固定领域\n顺序由 DOMAIN_LIST 决定\n分类由 classifier.py 关键词匹配"
+    </div>
+  </div>
+
+  <div class="footer">
+    知讯新闻流程文档 - 基于 Po Jian2.0 项目源码生成
+  </div>
+</div>
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'default',
+    themeVariables: {
+      fontSize: '14px',
+      fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif'
+    },
+    flowchart: { curve: 'basis', padding: 20 }
+  });
+</script>
+</body>
+</html>

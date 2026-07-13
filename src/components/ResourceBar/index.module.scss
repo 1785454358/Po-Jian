@@ -1,0 +1,31 @@
+@use '@/styles/variables.scss' as *;
+
+.container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: $spacing-md;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+}
+
+.itemLabel {
+  font-size: 22rpx;
+  color: $color-text-secondary;
+  line-height: 1.2;
+  margin-bottom: 6rpx;
+}
+
+.itemValue {
+  font-size: 56rpx;
+  font-weight: $font-weight-bold;
+  line-height: 1;
+  letter-spacing: -1rpx;
+}

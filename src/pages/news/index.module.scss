@@ -1,0 +1,75 @@
+@use '@/styles/variables.scss' as *;
+
+.page {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0 $spacing-lg;
+  box-sizing: border-box;
+  overflow: hidden;
+  // 与育知页统一的奶油黄绿渐变背景
+  background: linear-gradient(
+    180deg,
+    #F7FBEF 0%,
+    #FDF9E8 40%,
+    #FFF5E6 100%
+  );
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  padding-top: $spacing-md;
+  flex-shrink: 0;
+}
+
+.title {
+  font-size: $font-size-xxl;
+  font-weight: $font-weight-bold;
+  color: $color-text-primary;
+  letter-spacing: 2rpx;
+}
+
+.rewardTip {
+  margin-top: $spacing-sm;
+  background: rgba(255, 255, 255, 0.72);
+  border: 2rpx solid rgba(91, 168, 90, 0.15);
+  border-radius: $radius-button;
+  padding: $spacing-xs $spacing-md;
+  align-self: flex-start;
+  box-shadow: $shadow-soft;
+}
+
+.rewardText {
+  font-size: $font-size-xs;
+  color: $color-primary;
+  font-weight: $font-weight-medium;
+}
+
+.body {
+  flex: 1;
+  min-height: 0;
+  padding-top: $spacing-sm;
+  // 隐藏滚动条
+  &::-webkit-scrollbar {
+    display: none;
+    width: 0;
+    height: 0;
+  }
+}
+
+.list {
+  padding-bottom: $spacing-xl;
+}
+
+.stateBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: $spacing-xl 0;
+}
+
+.stateText {
+  font-size: $font-size-sm;
+  color: $color-text-tertiary;
+}

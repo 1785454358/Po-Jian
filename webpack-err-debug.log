@@ -1,0 +1,13 @@
+[BUILD ERROR] Cannot read properties of undefined (reading 'date')
+TypeError: Cannot read properties of undefined (reading 'date')
+    at extendFormats (D:\Develop\Projects\Po Jian2.0\node_modules\babel-loader\node_modules\ajv-keywords\keywords\_formatLimit.js:63:25)
+    at defFunc (D:\Develop\Projects\Po Jian2.0\node_modules\babel-loader\node_modules\ajv-keywords\keywords\_formatLimit.js:54:5)
+    at defineKeywords (D:\Develop\Projects\Po Jian2.0\node_modules\babel-loader\node_modules\ajv-keywords\index.js:17:22)
+    at Object.<anonymous> (D:\Develop\Projects\Po Jian2.0\node_modules\babel-loader\node_modules\schema-utils\dist\validate.js:58:1)
+    at Module._compile (node:internal/modules/cjs/loader:1830:14)
+    at node:internal/modules/cjs/loader:1961:10
+    at Object.newLoader [as .js] (D:\Develop\Projects\Po Jian2.0\node_modules\pirates\lib\index.js:134:7)
+    at Module.load (node:internal/modules/cjs/loader:1553:32)
+    at Module._load (node:internal/modules/cjs/loader:1355:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+---

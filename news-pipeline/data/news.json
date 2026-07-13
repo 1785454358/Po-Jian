@@ -1,0 +1,434 @@
+{
+  "updated_at": "2026-07-13T13:15:50.026647+00:00",
+  "domains": {
+    "科技": [
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
+        "origin_title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+        "show_content": "一名旅行者完成跨越7周、途经13个国家、总行程6379公里的Interrail铁路旅行。该行程覆盖欧洲多个地区，展示了欧洲铁路网络的连通性。",
+        "tags": [
+          "欧洲铁路旅行",
+          "跨国旅行",
+          "行程记录"
+        ],
+        "hot_score": 100,
+        "link": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+        "domain": "科技"
+      },
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
+        "origin_title": "Cyberpunk Comics, Manga and Graphic Novels",
+        "show_content": "赛博朋克题材在漫画、图像小说及漫画领域持续受到关注，相关作品涵盖多种风格与叙事手法。该题材通常融合未来科技与社会批判元素，通过视觉艺术展现虚构的科技世界。",
+        "tags": [
+          "赛博朋克",
+          "漫画",
+          "图像小说"
+        ],
+        "hot_score": 100,
+        "link": "https://shellzine.net/cyberpunk-comics/",
+        "domain": "科技"
+      },
+      {
+        "source": "TechCrunch",
+        "publish_time": "2026-07-13",
+        "origin_title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+        "show_content": "Uber与Waymo在自动驾驶出租车领域的竞争延伸至政策层面，双方在华盛顿特区就相关监管问题展开游说活动。",
+        "tags": [
+          "自动驾驶",
+          "政策游说",
+          "市场竞争"
+        ],
+        "hot_score": 99,
+        "link": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+        "domain": "科技"
+      },
+      {
+        "source": "爱范儿",
+        "publish_time": "2026-07-13",
+        "origin_title": "英伟达 AIPC 中国首秀，笔记本里装下一座「曼哈顿」",
+        "show_content": "英伟达在中国首次展示AIPC产品，旨在通过定义AIPC标准来获取未来市场更大份额。",
+        "tags": [
+          "英伟达",
+          "AIPC",
+          "中国市场"
+        ],
+        "hot_score": 94,
+        "link": "https://www.ifanr.com/1671945?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "domain": "科技"
+      },
+      {
+        "source": "TheVerge",
+        "publish_time": "2026-07-13",
+        "origin_title": "This free Mac app reveals the truth about your mystery USB-C cables",
+        "show_content": "一款免费Mac应用程序可帮助用户检测USB-C数据线的性能。该应用适用于搭载Apple Silicon芯片的Mac设备，能够识别数据线是否支持高速传输或充电功能，为用户提供了便捷的检测工具。",
+        "tags": [
+          "USB-C数据线检测",
+          "Mac应用程序",
+          "Apple Silicon芯片"
+        ],
+        "hot_score": 94,
+        "link": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+        "domain": "科技"
+      },
+      {
+        "source": "少数派",
+        "publish_time": "2026-07-13",
+        "origin_title": "派评 | 近期值得关注的 App",
+        "show_content": "少数派平台发布了一篇题为《派评 | 近期值得关注的 App》的文章，介绍了部分实用且优质的正版软件。用户可通过下载其客户端或关注公众号来获取完整内容。",
+        "tags": [
+          "少数派",
+          "App推荐",
+          "软件资讯"
+        ],
+        "hot_score": 93,
+        "link": "https://sspai.com/post/112229",
+        "domain": "科技"
+      },
+      {
+        "source": "少数派",
+        "publish_time": "2026-07-13",
+        "origin_title": "具透 Plus：Android 17 的应用内存限制；谈谈 macOS 和 Linux 如何运行可执行文件",
+        "show_content": "Android 17系统对应用内存使用设置了限制，以优化设备性能与资源分配。同时，文章探讨了macOS与Linux操作系统运行可执行文件的机制差异。",
+        "tags": [
+          "Android 17",
+          "内存限制",
+          "操作系统运行机制"
+        ],
+        "hot_score": 93,
+        "link": "https://sspai.com/prime/story/inside-release-notes-260713",
+        "domain": "科技"
+      },
+      {
+        "source": "爱范儿",
+        "publish_time": "2026-07-13",
+        "origin_title": "Codex 不限时了，我先删掉了一堆 Skills ｜附 GPT-5.6 官方指南",
+        "show_content": "OpenAI的Codex模型已取消使用限制，用户因此删除了部分已配置的技能。同时，OpenAI发布了GPT-5.6的官方使用指南。",
+        "tags": [
+          "Codex",
+          "GPT-5.6",
+          "使用指南"
+        ],
+        "hot_score": 92,
+        "link": "https://www.ifanr.com/1671899?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "domain": "科技"
+      },
+      {
+        "source": "TheVerge",
+        "publish_time": "2026-07-13",
+        "origin_title": "Social media limits are coming for teens across Europe",
+        "show_content": "欧盟正在考虑对未成年人使用社交媒体实施全面新限制，包括设定年龄限制、完全禁止或分阶段开放。此外，社交平台可能需证明其服务对青少年无害，方可允许其使用。欧盟委员会主席冯德莱恩对此发表了看法。",
+        "tags": [
+          "欧盟",
+          "社交媒体限制",
+          "未成年人"
+        ],
+        "hot_score": 92,
+        "link": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+        "domain": "科技"
+      },
+      {
+        "source": "TheVerge",
+        "publish_time": "2026-07-13",
+        "origin_title": "Waze is getting a bunch of new AI-powered features",
+        "show_content": "谷歌正将其旗舰AI助手Gemini整合到旗下导航应用Waze中，旨在让用户更好地个性化出行体验。此次更新包含四项新功能，其中两项涉及Gemini。Waze还对其2024年首次推出的会话报告功能进行了升级。",
+        "tags": [
+          "Waze",
+          "Gemini",
+          "AI功能"
+        ],
+        "hot_score": 92,
+        "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+        "domain": "科技"
+      }
+    ],
+    "国际": [
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
+        "origin_title": "The social physics of conversation: Communication patterns matter",
+        "show_content": "研究指出，对话中的社交物理模式具有重要性。该分析基于通信数据，探讨了交流模式如何影响互动效果，强调了客观观察在理解社交动态中的作用。",
+        "tags": [
+          "社交物理",
+          "交流模式",
+          "通信数据"
+        ],
+        "hot_score": 87,
+        "link": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+        "domain": "国际"
+      },
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
+        "origin_title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+        "show_content": "一款名为Beavis Ultrasound PnP的ISA声卡复制品被推出。该产品旨在复制经典ISA声卡的硬件设计，主要面向需要兼容老旧系统或进行复古计算的用户群体。",
+        "tags": [
+          "ISA声卡",
+          "硬件复制品",
+          "复古计算"
+        ],
+        "hot_score": 77,
+        "link": "https://github.com/schlae/BeavisUltrasound",
+        "domain": "国际"
+      },
+      {
+        "source": "TheVerge",
+        "publish_time": "2026-07-13",
+        "origin_title": "How Philips Hue got the smart home right",
+        "show_content": "文章指出，智能家居现状存在改进空间，理想状态应实现跨设备无缝控制、环境自适应用户活动与情绪、无需大规模改造且智能功能隐于无形。这些观点反映了当前技术与用户体验之间的差距。",
+        "tags": [
+          "智能家居",
+          "用户体验",
+          "技术差距"
+        ],
+        "hot_score": 55,
+        "link": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
+        "domain": "国际"
+      },
+      {
+        "source": "TechCrunch",
+        "publish_time": "2026-07-13",
+        "origin_title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+        "show_content": "Even Realities公司推出一款无摄像头的智能眼镜，主要面向频繁参加会议、发表演讲及在不同语言国家出差的人士。",
+        "tags": [
+          "智能眼镜",
+          "无摄像头",
+          "生产力工具"
+        ],
+        "hot_score": 13,
+        "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+        "domain": "国际"
+      },
+      {
+        "source": "爱范儿",
+        "publish_time": "2026-07-13",
+        "origin_title": "腾势 Z 亮相古德伍德，定价超 130.35 万， 背后还藏着比亚迪全面布局欧洲的野心",
+        "show_content": "腾势Z在古德伍德速度节上亮相，其定价超过130.35万元。该车型的发布与比亚迪在欧洲市场的整体战略布局相关。",
+        "tags": [
+          "腾势Z",
+          "古德伍德速度节",
+          "欧洲市场"
+        ],
+        "hot_score": 10,
+        "link": "https://www.ifanr.com/1671486?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "domain": "国际"
+      },
+      {
+        "source": "TechCrunch",
+        "publish_time": "2026-07-13",
+        "origin_title": "China is catching up to Elon Musk’s reusable rockets",
+        "show_content": "中国国有航天公司完成首次轨道级火箭助推器回收。该公司在发射后成功收回了火箭助推器。",
+        "tags": [
+          "中国航天",
+          "火箭回收",
+          "轨道助推器"
+        ],
+        "hot_score": 10,
+        "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+        "domain": "国际"
+      },
+      {
+        "source": "TechCrunch",
+        "publish_time": "2026-07-13",
+        "origin_title": "Disney+ is considering a free streaming tier, report says",
+        "show_content": "据报告，Disney+正考虑推出免费流媒体层级。此举旨在更好地与YouTube和Tubi等免费服务平台竞争，后者正占据消费者日益增长的观看时间。",
+        "tags": [
+          "Disney+",
+          "免费流媒体",
+          "市场竞争"
+        ],
+        "hot_score": 10,
+        "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+        "domain": "国际"
+      },
+      {
+        "source": "TechCrunch",
+        "publish_time": "2026-07-13",
+        "origin_title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
+        "show_content": "Dumb Co推出可与智能手机同步的翻盖手机产品，旨在连接iPhone的无限功能与早期2000年代设备的局限性。",
+        "tags": [
+          "Dumb Co",
+          "翻盖手机",
+          "智能手机同步"
+        ],
+        "hot_score": 10,
+        "link": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
+        "domain": "国际"
+      },
+      {
+        "source": "TechCrunch",
+        "publish_time": "2026-07-13",
+        "origin_title": "Netflix could be planning ‘always-on’ live TV channels",
+        "show_content": "有迹象表明用户参与度放缓，Netflix正考虑推出“始终在线”的直播频道，为订阅用户提供全天候观看内容。",
+        "tags": [
+          "Netflix",
+          "直播频道",
+          "用户参与度"
+        ],
+        "hot_score": 10,
+        "link": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
+        "domain": "国际"
+      }
+    ],
+    "国内时政": [],
+    "财经": [
+      {
+        "source": "TheVerge",
+        "publish_time": "2026-07-13",
+        "origin_title": "Less is more with the Oura Ring 5",
+        "show_content": "The Verge的Oura Ring 5评测指出，该产品适合寻求智能手表替代品的初次使用者或考虑升级的现有用户。评测认为它是目前市场上最好的智能戒指，适合日常健康追踪。",
+        "tags": [
+          "Oura Ring 5",
+          "智能戒指",
+          "健康追踪"
+        ],
+        "hot_score": 54,
+        "link": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
+        "domain": "财经"
+      }
+    ],
+    "社会文娱": [
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
+        "origin_title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+        "show_content": "Zig编程语言的创建者在公开场合对Anthropic公司发表了评论。该评论涉及对Anthropic公司相关表态的看法。",
+        "tags": [
+          "Zig语言创建者",
+          "Anthropic公司",
+          "公开评论"
+        ],
+        "hot_score": 100,
+        "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+        "domain": "社会文娱"
+      },
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
+        "origin_title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+        "show_content": "研究人员发现，名为GhostLock的漏洞已影响所有Linux发行版长达15年。该漏洞属于栈上使用后释放类型，可能导致安全风险。",
+        "tags": [
+          "GhostLock漏洞",
+          "Linux发行版",
+          "栈上使用后释放"
+        ],
+        "hot_score": 100,
+        "link": "https://nebusec.ai/research/ionstack-part-2/",
+        "domain": "社会文娱"
+      },
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
+        "origin_title": "Backtrack-Free Cursive",
+        "show_content": "该技术旨在优化手写识别流程，通过改进算法实现无需回溯的连笔字处理。它能够实时分析书写轨迹，提升识别效率与准确性，适用于多种手写输入场景。",
+        "tags": [
+          "手写识别",
+          "算法优化",
+          "实时分析"
+        ],
+        "hot_score": 100,
+        "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+        "domain": "社会文娱"
+      },
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
+        "origin_title": "Tiny Emulators",
+        "show_content": "Tiny Emulators 是一个专注于小型化游戏模拟器技术的项目，旨在通过优化代码实现更高效的跨平台游戏运行。该项目涉及多个经典游戏平台的模拟支持。",
+        "tags": [
+          "游戏模拟器",
+          "技术优化",
+          "跨平台"
+        ],
+        "hot_score": 100,
+        "link": "https://floooh.github.io/tiny8bit-preview/index.html",
+        "domain": "社会文娱"
+      },
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
+        "origin_title": "The Graph That Should Be Front-Page News",
+        "show_content": "一篇题为《The Graph That Should Be Front-Page News》的新闻报道聚焦于一个数据图表，该图表被认为具有重要新闻价值。报道围绕图表所呈现的信息及其潜在影响展开。",
+        "tags": [
+          "新闻报道",
+          "数据图表",
+          "重要价值"
+        ],
+        "hot_score": 100,
+        "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+        "domain": "社会文娱"
+      },
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
+        "origin_title": "So you want to learn physics (second edition, 2021)",
+        "show_content": "《So you want to learn physics》第二版于2021年出版，这是一本物理学学习指导书籍。",
+        "tags": [
+          "物理学",
+          "学习指导",
+          "2021"
+        ],
+        "hot_score": 100,
+        "link": "https://www.susanrigetti.com/physics",
+        "domain": "社会文娱"
+      },
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
+        "origin_title": "How to read more books",
+        "show_content": "一条关于如何阅读更多书籍的指南提供了相关建议。该指南旨在帮助读者提升阅读效率与数量。",
+        "tags": [
+          "阅读建议",
+          "效率提升",
+          "书籍数量"
+        ],
+        "hot_score": 100,
+        "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+        "domain": "社会文娱"
+      },
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-13",
+        "origin_title": "Designing and assembling my first PCB",
+        "show_content": "报道描述了一名工程师设计并组装其第一块印刷电路板（PCB）的过程，包括从电路设计到最终焊接完成的步骤。",
+        "tags": [
+          "印刷电路板",
+          "工程设计",
+          "组装流程"
+        ],
+        "hot_score": 100,
+        "link": "https://vilkeliskis.com/b/2026/0711.html",
+        "domain": "社会文娱"
+      },
+      {
+        "source": "爱范儿",
+        "publish_time": "2026-07-13",
+        "origin_title": "68 万元起！腾势 Z 开启国内预售，海外网友已吵翻",
+        "show_content": "腾势Z在国内开启预售，起售价68万元。该车型定位百万级别，并搭载易三方技术。",
+        "tags": [
+          "腾势Z",
+          "预售",
+          "易三方"
+        ],
+        "hot_score": 99,
+        "link": "https://www.ifanr.com/1671949?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "domain": "社会文娱"
+      },
+      {
+        "source": "爱范儿",
+        "publish_time": "2026-07-13",
+        "origin_title": "小米澎程 4 款新车公布，纯电续航最高 380km，N90 露营版要做成房车平替",
+        "show_content": "小米澎程推出4款新车，纯电续航最高可达380公里。其中N90露营版定位为房车替代方案。",
+        "tags": [
+          "小米澎程",
+          "新车发布",
+          "纯电续航"
+        ],
+        "hot_score": 94,
+        "link": "https://www.ifanr.com/1671928?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "domain": "社会文娱"
+      }
+    ]
+  }
+}

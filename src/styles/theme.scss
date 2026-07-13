@@ -1,0 +1,55 @@
+// ============================================
+// 知树主题配色变量（自然治愈系）
+// ============================================
+
+// 品牌主题色：成长绿
+$color-primary: #5ba85a;
+$color-primary-light: #7bc97a;
+$color-primary-dark: #4a8a49;
+
+// 功能色
+$color-success: #00b42a;
+$color-warning: #ff7d00;
+$color-error: #f53f3f;
+$color-info: #4a90e2;
+
+// 业务辅助色
+$color-water: #4a90e2; // 水分蓝
+$color-fertilizer: #f5a623; // 肥料橙
+$color-coin: #f7b500; // 金币黄
+
+// 背景色
+$color-bg-page: #f5f9f4; // 浅绿白
+$color-bg-page-gradient-top: #eaf4e8; // 渐变顶部
+$color-bg-card: #ffffff;
+$color-bg-hover: #f2f5f0;
+
+// 文本色
+$color-text-primary: #1d2129;
+$color-text-secondary: #4e5969;
+$color-text-tertiary: #86909c;
+$color-text-disabled: #c9cdd4;
+$color-text-white: #ffffff;
+
+// 边框色
+$color-border: #e5e6eb;
+$color-divider: #f2f3f5;
+
+// ===== 新增：育知页统一渐变背景 =====
+$bg-cultivate-top: #F0F4E8;      // 顶部淡绿
+$bg-cultivate-mid: #FDF8E8;      // 中部奶油黄
+$bg-cultivate-bottom: #FDF0E6;   // 底部淡粉
+
+// 毛玻璃/半透明
+$glass-white: rgba(255, 255, 255, 0.5);
+$glass-white-strong: rgba(255, 255, 255, 0.85);
+
+// 进度条
+$color-progress-start: #AED581;
+$color-progress-end: #7CB342;
+
+// 按钮渐变
+$btn-water-bg: linear-gradient(135deg, #BBDEFB 0%, #90CAF9 100%);
+$btn-fert-bg: linear-gradient(135deg, #FFE0B2 0%, #FFCC80 100%);
+$btn-water-text: #1565C0;
+$btn-fert-text: #E65100;

@@ -1,0 +1,182 @@
+@use '@/styles/variables.scss' as *;
+
+// ========== 页面最外层：整屏渐变背景 ==========
+.page {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0 $spacing-lg;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
+
+  // 奶油黄绿渐变背景
+  background: linear-gradient(
+    180deg,
+    #F7FBEF 0%,
+    #FDF9E8 40%,
+    #FFF5E6 100%
+  );
+}
+
+// ========== 顶部资源栏 ==========
+.topBar {
+  display: flex;
+  align-items: center;
+  gap: $spacing-md;
+  padding-top: $spacing-md;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 1;
+}
+
+.entry {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6rpx;
+  background: rgba(255, 255, 255, 0.7);
+  border: 2rpx solid rgba(91, 168, 90, 0.2);
+  padding: 0 $spacing-md;
+  border-radius: $radius-button;
+  white-space: nowrap;
+  height: $button-height-sm;
+  box-shadow: 0 4rpx 16rpx rgba(91, 168, 90, 0.1);
+  transition: all $transition-fast;
+
+  &:active {
+    opacity: 0.8;
+    transform: scale(0.98);
+  }
+}
+
+.entryIcon {
+  font-size: 32rpx;
+}
+
+.entryText {
+  font-size: 26rpx;
+  color: $color-primary;
+  font-weight: $font-weight-medium;
+}
+
+// ========== 主内容区 ==========
+.body {
+  flex: 1;
+  min-height: 0;
+  padding-top: $spacing-lg;
+  padding-bottom: $spacing-lg;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  z-index: 1;
+}
+
+// 树卡片：用 margin-top 模拟居中，避免 flex 居中在内容变化时重算布局
+.treeCard {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+// 空状态：与有树时样式统一
+.emptyCard {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.emptyEmoji {
+  font-size: 120rpx;
+  margin-bottom: $spacing-md;
+}
+
+.emptyTitle {
+  font-size: 44rpx;
+  font-weight: $font-weight-bold;
+  color: $color-text-primary;
+  margin-bottom: $spacing-sm;
+  letter-spacing: 2rpx;
+}
+
+.emptyDesc {
+  font-size: 26rpx;
+  color: $color-text-secondary;
+  line-height: $line-height-loose;
+  text-align: center;
+  margin-bottom: $spacing-lg;
+  padding: 0 $spacing-xl;
+}
+
+.emptyBtn {
+  width: 320rpx;
+  height: $button-height-md;
+  background: linear-gradient(135deg, $color-primary-light, $color-primary);
+  border-radius: $radius-button;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all $transition-base;
+
+  &:active {
+    opacity: 0.9;
+    transform: scale(0.98);
+  }
+}
+
+.emptyBtnText {
+  font-size: $font-size-md;
+  font-weight: $font-weight-medium;
+  color: $color-text-white;
+}
+
+// ========== 操作按钮栏 ==========
+.actionBar {
+  display: flex;
+  gap: $spacing-md;
+  padding: $spacing-sm 0 $spacing-lg;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 1;
+}
+
+// ========== 轻量自定义 Toast ==========
+.toast {
+  position: fixed;
+  bottom: 280rpx;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: $radius-round;
+  padding: 12rpx 32rpx;
+  z-index: 999;
+  animation: toastIn 0.2s ease;
+}
+
+.toastText {
+  font-size: 24rpx;
+  color: #FFFFFF;
+  line-height: 1.4;
+}
+
+@keyframes toastIn {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(20rpx);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}

@@ -1,0 +1,110 @@
+@use '@/styles/variables.scss' as *;
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+/*
+ * 容器：固定高度，图片水平垂直居中
+ * 下方内容（树名/状态/进度条）位置由容器高度决定，不随图片大小变化
+ */
+.imageBox {
+  width: 100%;
+  height: 440rpx;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin-bottom: 120rpx;
+}
+
+/*
+ * 逐品种微调：
+ * - width: 控制大小
+ * - margin-bottom: 负值把树往下推（补偿 SVG 内部底座离底边太远的问题）
+ *   比如 margin-bottom: -30rpx = 整棵树往下移 30rpx，视觉上底座更贴近文字
+ */
+.treeImage {
+  flex-shrink: 0;
+}
+
+.seedling { width: 300rpx; margin-bottom: -90rpx; }
+.oak      { width: 700rpx; margin-bottom: -200rpx; }
+.ginkgo   { width: 500rpx; margin-bottom: -80rpx; }
+.flame    { width: 600rpx; margin-bottom: -140rpx; }
+.lilac    { width: 600rpx; margin-bottom: -115rpx; }
+
+.meta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: $spacing-md;
+}
+
+.name {
+  font-size: 56rpx;
+  font-weight: $font-weight-bold;
+  color: $color-text-primary;
+  letter-spacing: 4rpx;
+  line-height: 1.2;
+}
+
+.stageRow {
+  display: flex;
+  align-items: center;
+  gap: $spacing-xs;
+  margin-top: 50rpx;
+}
+
+.stageDot {
+  width: 14rpx;
+  height: 14rpx;
+  border-radius: 50%;
+  background: $color-primary;
+}
+
+.stage {
+  font-size: 28rpx;
+  color: $color-primary;
+}
+
+.progressWrap {
+  width: 100%;
+  max-width: 560rpx;
+  margin-top: 24rpx;
+}
+
+.progressTrack {
+  width: 100%;
+  height: 24rpx;
+  background: rgba(0, 0, 0, 0.08);
+  border-radius: $radius-round;
+  overflow: hidden;
+}
+
+.progressFill {
+  height: 100%;
+  background: linear-gradient(90deg, #AED581, $color-primary);
+  border-radius: $radius-round;
+  transition: width $transition-base;
+}
+
+.progressInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 12rpx;
+}
+
+.progressLabel {
+  font-size: 24rpx;
+  color: $color-primary;
+}
+
+.progressText {
+  font-size: 26rpx;
+  color: $color-primary;
+  font-weight: $font-weight-medium;
+}

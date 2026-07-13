@@ -1,13 +1,17 @@
 {
-  "updated_at": "2026-07-13T19:12:51.867997+00:00",
+  "updated_at": "2026-07-13T19:23:32.874308+00:00",
   "domains": {
     "科技": [
       {
         "source": "Hacker News",
         "publish_time": "2026-07-13",
         "origin_title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-        "show_content": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-        "tags": [],
+        "show_content": "苹果公司推出新的SpeechAnalyzer API，并已与Whisper及其前代产品进行了基准测试。",
+        "tags": [
+          "苹果公司",
+          "SpeechAnalyzer API",
+          "基准测试"
+        ],
         "hot_score": 100,
         "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
         "domain": "科技"
@@ -16,8 +20,12 @@
         "source": "Hacker News",
         "publish_time": "2026-07-13",
         "origin_title": "Show HN: Super Dario",
-        "show_content": "Show HN: Super Dario",
-        "tags": [],
+        "show_content": "Show HN 平台出现一个名为 Super Dario 的新项目。该项目的具体功能、技术细节和创始人信息未在提供的片段中说明。",
+        "tags": [
+          "Show HN",
+          "Super Dario",
+          "新项目"
+        ],
         "hot_score": 100,
         "link": "https://superdario.pawb.de",
         "domain": "科技"
@@ -26,8 +34,12 @@
         "source": "Hacker News",
         "publish_time": "2026-07-13",
         "origin_title": "The art and engineering of Sega CD Silpheed",
-        "show_content": "The art and engineering of Sega CD Silpheed",
-        "tags": [],
+        "show_content": "世嘉CD平台游戏《Silpheed》融合了艺术设计与工程技术，该游戏在开发过程中展现了开发者在图形技术、音乐制作和游戏机制上的综合运用。",
+        "tags": [
+          "世嘉CD",
+          "Silpheed",
+          "游戏开发"
+        ],
         "hot_score": 100,
         "link": "https://fabiensanglard.net/silpheed/index.html",
         "domain": "科技"
@@ -36,8 +48,12 @@
         "source": "Hacker News",
         "publish_time": "2026-07-13",
         "origin_title": "LAPD lets contract with surveillance giant Flock expire",
-        "show_content": "LAPD lets contract with surveillance giant Flock expire",
-        "tags": [],
+        "show_content": "洛杉矶警察局与监控公司Flock的合同已到期，双方未续约。该合同涉及监控技术支持服务，合同到期后相关合作将终止。",
+        "tags": [
+          "洛杉矶警察局",
+          "监控合同",
+          "Flock公司"
+        ],
         "hot_score": 100,
         "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
         "domain": "科技"
@@ -46,8 +62,12 @@
         "source": "Hacker News",
         "publish_time": "2026-07-13",
         "origin_title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-        "show_content": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-        "tags": [],
+        "show_content": "日本开发者基于体素技术打造了虚拟东京场景，用户可在其中体验与日本实时同步的山手线列车运行。该项目融合了轨道交通模拟与日语学习功能，旨在提供沉浸式交互体验。",
+        "tags": [
+          "体素技术",
+          "虚拟东京",
+          "日语学习"
+        ],
         "hot_score": 100,
         "link": "https://jivx.com/densha",
         "domain": "科技"
@@ -56,8 +76,12 @@
         "source": "Hacker News",
         "publish_time": "2026-07-13",
         "origin_title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
-        "show_content": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
-        "tags": [],
+        "show_content": "开发者发布了DOM-docx工具，可将HTML内容转换为原生可编辑的Word文档。该工具以MIT许可证开源，旨在简化网页内容到Office文档的转换流程。",
+        "tags": [
+          "DOM-docx",
+          "HTML转Word",
+          "MIT许可"
+        ],
         "hot_score": 100,
         "link": "https://github.com/floodtide/dom-docx",
         "domain": "科技"
@@ -66,9 +90,13 @@
         "source": "Solidot",
         "publish_time": "2026-07-13",
         "origin_title": "蒋方舟因论文存在抄袭行为被撤销硕士学位",
-        "show_content": "人民大学宣布决定撤销蒋方舟的硕士学位。中国人民大学星期一（7月13日）晚在微博通报称，近日，网上出现关于中国人民大学文学院2019届硕士毕业生蒋方舟学位论文涉嫌学术不端的新线索。学",
-        "tags": [],
-        "hot_score": 94,
+        "show_content": "中国人民大学宣布，因硕士毕业论文存在九处与境外期刊论文文字重合且未标注引用，认定蒋方舟构成学术不端，决定撤销其硕士学位。蒋方舟对此表示接受并致歉。",
+        "tags": [
+          "蒋方舟",
+          "硕士学位撤销",
+          "学术不端"
+        ],
+        "hot_score": 93,
         "link": "https://www.solidot.org/story?sid=84821",
         "domain": "科技"
       },
@@ -76,8 +104,12 @@
         "source": "Solidot",
         "publish_time": "2026-07-13",
         "origin_title": "Vinton Cerf 退休",
-        "show_content": "Vinton Cerf 上周卸任 Google 首席互联网布道官一职，标志这其职业生涯的落幕。现年 83 岁的 Cerf 与 Robert Kahn 合作设计了 TCP/IP 协议",
-        "tags": [],
+        "show_content": "互联网之父Vinton Cerf近日卸任Google首席互联网布道官一职，现年83岁。Cerf与Robert Kahn共同设计了TCP/IP协议，该协议是互联网数据传输的核心架构。Cerf自2005年起在Google任职。",
+        "tags": [
+          "Vinton Cerf",
+          "退休",
+          "TCP/IP协议"
+        ],
         "hot_score": 93,
         "link": "https://www.solidot.org/story?sid=84820",
         "domain": "科技"
@@ -86,9 +118,13 @@
         "source": "Solidot",
         "publish_time": "2026-07-13",
         "origin_title": "逃脱死亡命运的类木星行星",
-        "show_content": "天文学家利用韦伯望远镜观测了一颗逃脱死亡命运的类木星行星 WD 1856 b。天文学家是在利用 TESS 望远镜观测白矮星时发现 WD 1856 b 的。白矮星是类太阳恒星的残骸，",
-        "tags": [],
-        "hot_score": 93,
+        "show_content": "天文学家利用韦伯望远镜观测到一颗类木星行星WD 1856 b。该行星位于白矮星WD 1856附近，距离恒星仅0.02天文单位，已存在约60亿年。观测发现行星大气含甲烷，并被气溶胶笼罩，表面温度达400开尔文。",
+        "tags": [
+          "韦伯望远镜",
+          "类木星行星",
+          "白矮星"
+        ],
+        "hot_score": 92,
         "link": "https://www.solidot.org/story?sid=84819",
         "domain": "科技"
       },
@@ -96,214 +132,298 @@
         "source": "Solidot",
         "publish_time": "2026-07-13",
         "origin_title": "数据中心用电量占到了爱尔兰用电量的 23%",
-        "show_content": "爱尔兰中央统计局 (CSO) 的数据显示，2025 年数据中心用电量占到了爱尔兰用电量的 23%。而在 2015 年这一比例仅为 5%。大型数据中心的用电量在 2025 年增长了 ",
-        "tags": [],
-        "hot_score": 90,
+        "show_content": "爱尔兰中央统计局数据显示，2025年数据中心用电量占全国总用电量的23%，较2015年的5%显著上升。2025年数据中心用电量同比增长10%，达到7663 GWh，而其他部门用电量仅增长2%。目前爱尔兰拥有超过80个数据中心。",
+        "tags": [
+          "爱尔兰",
+          "数据中心",
+          "用电量"
+        ],
+        "hot_score": 89,
         "link": "https://www.solidot.org/story?sid=84818",
         "domain": "科技"
       }
     ],
     "经济": [
       {
-        "source": "36氪",
+        "source": "虎嗅",
         "publish_time": "2026-07-13",
-        "origin_title": "*ST岭南：公司股票存在可能因股价低于面值被终止上市的风险",
-        "show_content": "36氪获悉，*ST岭南公告，公司股票于7月13日收盘价为0.96元/股，公司股票收盘价低于1元，公司股票存在可能因股价低于面值被终止上市的风险。",
-        "tags": [],
-        "hot_score": 87,
-        "link": "https://www.36kr.com/newsflashes/3894066901482498",
+        "origin_title": "蒋方舟学位撤销始末：人大那份通报，为何只活了8天？",
+        "show_content": "中国人民大学通报2019届硕士毕业生蒋方舟存在学术不端行为。此前该校曾发布相关处理通报，但在8天后因新证据出现而被推翻。",
+        "tags": [
+          "中国人民大学",
+          "蒋方舟",
+          "学位撤销"
+        ],
+        "hot_score": 99,
+        "link": "https://www.huxiu.com/article/4874982.html",
         "domain": "经济"
       },
       {
-        "source": "36氪",
+        "source": "虎嗅",
         "publish_time": "2026-07-13",
-        "origin_title": "苹果调整Mac芯片路线图，加速AI芯片研发",
-        "show_content": "当地时间7月12日，科技记者马克·古尔曼发文称，苹果正调整Mac芯片路线图，以适应AI发展需求。苹果将在今年秋季推出M6基础版芯片后，首次跳过M6 Pro、M6 Max和M6 Ul",
-        "tags": [],
-        "hot_score": 87,
-        "link": "https://www.36kr.com/newsflashes/3894068327759108",
+        "origin_title": "曾被樊路远批“没有阿里血脉”的灵犀互娱，要被卖了？",
+        "show_content": "近日有消息称，阿里巴巴正计划出售旗下游戏业务灵犀互娱。据悉，本次交易可能为整体打包出售，涉及灵犀互娱的全体系资产、团队与业务，整体估值约70亿至90亿元。目前阿里已接触过多位潜在买家。",
+        "tags": [
+          "灵犀互娱",
+          "业务出售",
+          "阿里巴巴"
+        ],
+        "hot_score": 97,
+        "link": "https://www.huxiu.com/article/4874981.html",
         "domain": "经济"
       },
       {
-        "source": "36氪",
+        "source": "虎嗅",
         "publish_time": "2026-07-13",
-        "origin_title": "热门中概股美股盘前多数下跌，百度跌超3%",
-        "show_content": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，百度跌超3%，哔哩哔哩、名创优品跌超2%，拼多多跌超1%；网易涨超2%，京东涨超1%。",
-        "tags": [],
-        "hot_score": 87,
-        "link": "https://www.36kr.com/newsflashes/3894065940839427",
+        "origin_title": "千亿环保设备更新市场：4道坎和4条路",
+        "show_content": "在污水厂中，膜、滤布、曝气盘、在线仪表、水泵、鼓风机等环保设备各有不同的更换或维修周期。设备周期届满后将形成确定的业务需求，推动千亿级环保设备更新市场发展。",
+        "tags": [
+          "环保设备更新",
+          "设备更换周期",
+          "污水处理厂"
+        ],
+        "hot_score": 94,
+        "link": "https://www.huxiu.com/article/4874980.html",
         "domain": "经济"
       },
       {
-        "source": "36氪",
+        "source": "虎嗅",
         "publish_time": "2026-07-13",
-        "origin_title": "美股大型科技股盘前多数下跌，英特尔跌超3%",
-        "show_content": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，英特尔跌超3%，英伟达、SpaceX跌超1%，特斯拉跌0.94%，Meta跌0.82%，谷歌跌0.47%，亚马逊跌0.21%；微软",
-        "tags": [],
-        "hot_score": 87,
-        "link": "https://www.36kr.com/newsflashes/3894063963290632",
+        "origin_title": "一个台州厂二代的自述：我为什么不接班",
+        "show_content": "浙江台州一位在大学任教十几年的受访者，父母经营工厂超过30年。谈及接班问题，其表示自己接不了也很可能不该接，认为这看上去是家庭选择，其实很难用一句话回答。",
+        "tags": [
+          "台州厂二代",
+          "工厂接班",
+          "家族企业"
+        ],
+        "hot_score": 94,
+        "link": "https://www.huxiu.com/article/4874979.html",
         "domain": "经济"
       },
       {
-        "source": "36氪",
+        "source": "虎嗅",
         "publish_time": "2026-07-13",
-        "origin_title": "广电计量：上半年净利润同比预增18.17%—28.45%",
-        "show_content": "36氪获悉，广电计量披露业绩预告，预计2026年上半年归属于上市公司股东的净利润1.15亿元—1.25亿元，同比增长18.17%—28.45%。",
-        "tags": [],
-        "hot_score": 87,
-        "link": "https://www.36kr.com/newsflashes/3894059354111232",
+        "origin_title": "韩国生育率又反弹了，股市暴涨能“催生”吗？",
+        "show_content": "近期，此前生育率全球垫底的韩国出现出生人口反弹迹象。据新华社报道，韩国国家数据显示，该国在2023年生育率降至0.72的低位后，近期呈现回升趋势。",
+        "tags": [
+          "韩国",
+          "生育率",
+          "出生人口"
+        ],
+        "hot_score": 94,
+        "link": "https://www.huxiu.com/article/4874978.html",
         "domain": "经济"
       },
       {
-        "source": "36氪",
+        "source": "虎嗅",
         "publish_time": "2026-07-13",
-        "origin_title": "迪安诊断：控股股东及其一致行动人拟合计减持不超3%公司股份",
-        "show_content": "36氪获悉，迪安诊断公告，公司控股股东、实际控制人陈海斌及其一致行动人杭州迪控拟以集中竞价、大宗交易方式合计减持公司股份不超过3%。",
-        "tags": [],
-        "hot_score": 87,
-        "link": "https://www.36kr.com/newsflashes/3894045652564998",
+        "origin_title": "南威软件被立案背后：超2亿交易，被曝与实控人的“万石系”有多处交集，公司此前撇清关系",
+        "show_content": "南威软件因被立案调查，7月13日股价一字跌停，报收7.16元/股，市值缩水至41.55亿元，约6.25万名股东受影响。公司控股股东、实际控制人吴志雄此前宣布提前终止股份计划。",
+        "tags": [
+          "南威软件",
+          "立案调查",
+          "股价跌停"
+        ],
+        "hot_score": 93,
+        "link": "https://www.huxiu.com/article/4874977.html",
         "domain": "经济"
       },
       {
-        "source": "36氪",
+        "source": "虎嗅",
         "publish_time": "2026-07-13",
-        "origin_title": "TCL中环：预计上半年亏损30亿元—33亿元 同比减亏",
-        "show_content": "36氪获悉，TCL中环披露业绩预告，预计2026年上半年归属于上市公司股东的净利润亏损30亿元—33亿元，上年同期亏损42.4亿元，同比减亏。",
-        "tags": [],
-        "hot_score": 86,
-        "link": "https://www.36kr.com/newsflashes/3894034613369856",
+        "origin_title": "战魔田默｜电影《四渡》大火：创业者最难的一仗，是推翻昨天的正确",
+        "show_content": "电影《四渡》取得票房成功。影片通过历史事件展现领导人在复杂局势中决策的过程，反映了应对变化与调整策略的主题。",
+        "tags": [
+          "电影《四渡》",
+          "票房成功",
+          "决策过程"
+        ],
+        "hot_score": 93,
+        "link": "https://www.huxiu.com/article/4874974.html",
         "domain": "经济"
       },
       {
-        "source": "36氪",
+        "source": "虎嗅",
         "publish_time": "2026-07-13",
-        "origin_title": "英特尔宣布向爱尔兰工厂追加投资50亿欧元，扩大AI芯片产能",
-        "show_content": "英特尔7月13日宣布，将向爱尔兰莱克斯利普（Leixlip）园区追加投资50亿欧元（约57亿美元），扩大先进芯片制造能力，以满足人工智能和高性能计算需求。英特尔表示，此次投资将用于",
-        "tags": [],
-        "hot_score": 86,
-        "link": "https://www.36kr.com/newsflashes/3894027379899655",
+        "origin_title": "短剧演员大撤退：日薪踝斩、百人解约，有人转型AI导演",
+        "show_content": "近期多位短剧演员因行业调整面临职业转型，部分演员已与公司解约，有演员转向卖菜或开办培训班。此前，#多位演员无戏可演回家卖菜#等话题引发网络关注。",
+        "tags": [
+          "短剧行业",
+          "演员转型",
+          "市场调整"
+        ],
+        "hot_score": 92,
+        "link": "https://www.huxiu.com/article/4874972.html",
         "domain": "经济"
       },
       {
-        "source": "36氪",
+        "source": "虎嗅",
         "publish_time": "2026-07-13",
-        "origin_title": "欧佩克月报：下调2026年全球石油需求增长预测至78万桶/日",
-        "show_content": "欧佩克月报显示，下调2026年全球石油需求增长预测至78万桶/日（此前预测为97万桶/日），上调2027年全球石油需求增长预测至194万桶/日（此前预测为173万桶/日）。（第一财",
-        "tags": [],
-        "hot_score": 86,
-        "link": "https://www.36kr.com/newsflashes/3894024105753857",
+        "origin_title": "GDP缩水、地铁烂尾……这些副中心城市怎么了",
+        "show_content": "云南曲靖耗资4950万元建设的“城市大脑”项目组成部分“曲靖通”政务APP宣布关停，引发关注。该APP于2022年上线，同年曲靖GDP达3802.2亿元峰值。",
+        "tags": [
+          "曲靖",
+          "政务APP关停",
+          "城市大脑项目"
+        ],
+        "hot_score": 91,
+        "link": "https://www.huxiu.com/article/4874970.html",
         "domain": "经济"
       },
       {
-        "source": "36氪",
+        "source": "虎嗅",
         "publish_time": "2026-07-13",
-        "origin_title": "阶跃发布大模型原生AI终端品牌STEPX及Step AOS",
-        "show_content": "36氪获悉，7月13日，阶跃星辰正式发布全球首个大模型原生AI终端品牌STEPX，并同步推出全球首个智能体原生操作系统Step AOS（Step Agentic-native OS",
-        "tags": [],
-        "hot_score": 86,
-        "link": "https://www.36kr.com/newsflashes/3894017412726018",
+        "origin_title": "05后斩获全球票房TOP10，它抓住了年轻人没有出路的无力感",
+        "show_content": "2026年夏天，A24新片《后室》在海外成为恐怖片黑马，票房远超制作成本，近日在大陆上映。影片基于互联网社区中流行的网络怪谈，获得关注。",
+        "tags": [
+          "A24",
+          "后室",
+          "恐怖片"
+        ],
+        "hot_score": 91,
+        "link": "https://www.huxiu.com/article/4874967.html",
         "domain": "经济"
       }
     ],
     "国内": [
       {
-        "source": "联合早报-中国",
+        "source": "澎湃新闻",
         "publish_time": "2026-07-13",
-        "origin_title": "中国多管齐下回击多国联合声明 中国学者：对南中国海裁决开启“新批驳征程”",
-        "show_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/39fce88136f635902a2f20fc",
-        "tags": [],
-        "hot_score": 91,
-        "link": "https://www.zaobao.com/news/china/story20260713-9358726",
+        "origin_title": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁",
+        "show_content": "美国海军联合海上信息中心宣布，美军将于格林尼治时间7月14日20时起对伊朗所有港口及沿海地区实施海上封锁。封锁适用于所有船舶，但不阻碍经霍尔木兹海峡的过境通行，人道主义物资运输需接受检查。",
+        "tags": [
+          "海上封锁",
+          "伊朗",
+          "美军"
+        ],
+        "hot_score": 100,
+        "link": "https://m.thepaper.cn/detail/33579671",
         "domain": "国内"
       },
       {
-        "source": "联合早报-中国",
+        "source": "澎湃新闻",
         "publish_time": "2026-07-13",
-        "origin_title": "下午察：电动车成“快消品”？",
-        "show_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/b323299f9855ffb4b97d95a8",
-        "tags": [],
-        "hot_score": 91,
-        "link": "https://www.zaobao.com/news/china/story20260713-9357393",
+        "origin_title": "美国务院宣布发起行动“削弱国际刑事法院运作能力”",
+        "show_content": "美国国务院7月13日宣布发起一项多部门参与的行动，旨在系统性削弱国际刑事法院的运作能力。美方计划采取的措施包括吊销法院人员签证、加强制裁并敦促部分国家退出该法院，以防止其对美国军人或官员采取行动并维护美国主权。",
+        "tags": [
+          "美国国务院",
+          "国际刑事法院",
+          "削弱运作能力"
+        ],
+        "hot_score": 98,
+        "link": "https://m.thepaper.cn/detail/33579461",
         "domain": "国内"
       },
       {
-        "source": "联合早报-中国",
+        "source": "澎湃新闻",
         "publish_time": "2026-07-13",
-        "origin_title": "台风“巴威”继续影响中国多地 沈阳遭遇百年一遇极端降雨",
-        "show_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/fd83a708a9ec8b17bfd6a511",
-        "tags": [],
-        "hot_score": 90,
-        "link": "https://www.zaobao.com/news/china/story20260713-9358551",
+        "origin_title": "英国加入欧盟援乌贷款计划",
+        "show_content": "7月13日，英国首相斯塔默签署协议，宣布英国加入欧盟援助乌克兰贷款计划，旨在加强防务合作。欧盟委员会此前公告，欧盟与乌克兰已通过向乌提供900亿欧元贷款的相关协议，首批资金计划于6月启动拨付。",
+        "tags": [
+          "英国加入欧盟贷款计划",
+          "欧盟援助乌克兰",
+          "防务合作"
+        ],
+        "hot_score": 96,
+        "link": "https://m.thepaper.cn/detail/33579424",
         "domain": "国内"
       },
       {
-        "source": "联合早报-中国",
+        "source": "澎湃新闻",
         "publish_time": "2026-07-13",
-        "origin_title": "中国副总理调研北京水库 广西六蓝溃坝老旧水库成焦点",
-        "show_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/4e82c542944bd13db6caf9d0",
-        "tags": [],
-        "hot_score": 90,
-        "link": "https://www.zaobao.com/news/china/story20260713-9358001",
+        "origin_title": "首次使用海上无人艇，美军公布打击伊朗最新画面",
+        "show_content": "美军中央司令部称，其部队于7月12日动用无人机打击了伊朗境内一处维修设施，并首次在作战中使用三艘无人水面舰艇袭击了阿巴斯港海军基地。",
+        "tags": [
+          "美军",
+          "伊朗",
+          "无人艇"
+        ],
+        "hot_score": 94,
+        "link": "https://m.thepaper.cn/detail/33579319",
         "domain": "国内"
       },
       {
-        "source": "联合早报-中国",
+        "source": "澎湃新闻",
         "publish_time": "2026-07-13",
-        "origin_title": "香港容许狗只进入获批食肆",
-        "show_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/d0a49c13d4a11e5d1efbc2d6",
-        "tags": [],
-        "hot_score": 88,
-        "link": "https://www.zaobao.com/news/china/story20260713-9358476",
+        "origin_title": "著名电影人施南生辞世，享年75岁",
+        "show_content": "香港著名电影人施南生因细菌感染引发多重器官衰竭，于2026年7月13日晚上20:51在养和医院辞世，享年75岁。",
+        "tags": [
+          "施南生",
+          "电影人",
+          "辞世"
+        ],
+        "hot_score": 94,
+        "link": "https://m.thepaper.cn/detail/33579316",
         "domain": "国内"
       },
       {
-        "source": "联合早报-中国",
+        "source": "澎湃新闻",
         "publish_time": "2026-07-13",
-        "origin_title": "北京密云一副局长自费开发防汛应用",
-        "show_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption><",
-        "tags": [],
-        "hot_score": 86,
-        "link": "https://www.zaobao.com/news/china/story20260713-9358061",
+        "origin_title": "钙钛矿-有机叠层太阳能电池研究取得新突破",
+        "show_content": "北京时间7月13日，中国科学院化学研究所李永舫、孟磊团队在《自然》期刊发表成果，提出“全阶段调控”策略，成功制备出稳态光电转换效率达28.04%的钙钛矿-有机叠层太阳能电池，刷新该类器件世界纪录。",
+        "tags": [
+          "钙钛矿太阳能电池",
+          "光电转换效率",
+          "世界纪录"
+        ],
+        "hot_score": 94,
+        "link": "https://m.thepaper.cn/detail/33579317",
         "domain": "国内"
       },
       {
-        "source": "联合早报-中国",
+        "source": "澎湃新闻",
         "publish_time": "2026-07-13",
-        "origin_title": "李强听取于东来等人发言 吁企业家为稳就业多作贡献",
-        "show_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/acfafa58ee86606710257002",
-        "tags": [],
-        "hot_score": 86,
-        "link": "https://www.zaobao.com/news/china/story20260713-9358158",
+        "origin_title": "香港资深电影制作人施南生离世，享年75岁",
+        "show_content": "据多家香港媒体报道，香港资深电影人施南生于7月13日在养和医院离世，享年75岁。施南生是香港资深电影制作人，曾与导演徐克被誉为“影坛神雕侠侣”。",
+        "tags": [
+          "施南生",
+          "离世",
+          "电影制作人"
+        ],
+        "hot_score": 94,
+        "link": "https://m.thepaper.cn/detail/33578951",
         "domain": "国内"
       },
       {
-        "source": "联合早报-中国",
+        "source": "澎湃新闻",
         "publish_time": "2026-07-13",
-        "origin_title": "中国人民大学撤销蒋方舟硕士学位",
-        "show_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/d8aa666e7171f44cce70350d",
-        "tags": [],
-        "hot_score": 85,
-        "link": "https://www.zaobao.com/news/china/story20260713-9358161",
+        "origin_title": "最新｜长沙市体育局负责人回应澎湃：有些情况还在核实",
+        "show_content": "长沙市体育局干部彭某某因占车位与闵某发生纠纷，经多次调解后于7月10日和解。体育局负责人表示部分情况仍在核实中。",
+        "tags": [
+          "车位纠纷",
+          "调解和解",
+          "情况核实"
+        ],
+        "hot_score": 93,
+        "link": "https://m.thepaper.cn/detail/33578685",
         "domain": "国内"
       },
       {
-        "source": "联合早报-中国",
+        "source": "澎湃新闻",
         "publish_time": "2026-07-13",
-        "origin_title": "山西又一矿山安全监管系统官员落马",
-        "show_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/9c93b61b6a2dec26ca544703",
-        "tags": [],
-        "hot_score": 85,
-        "link": "https://www.zaobao.com/news/china/story20260713-9358117",
+        "origin_title": "光明网评论员：“手搓”防汛APP的新闻，为何让人耳目一新？",
+        "show_content": "北京市一基层干部利用编程特长，自主开发了专属防汛APP。该程序收录了全区地灾隐患点、受威胁险户、包保人员等信息，可实时更新山体预警、雨情变化及群众转移状态，并支持直接跳转导航查看隐患点。",
+        "tags": [
+          "防汛APP",
+          "基层干部",
+          "地灾预警"
+        ],
+        "hot_score": 92,
+        "link": "https://m.thepaper.cn/detail/33578947",
         "domain": "国内"
       },
       {
-        "source": "联合早报-中国",
+        "source": "澎湃新闻",
         "publish_time": "2026-07-13",
-        "origin_title": "气象局称暴雨“百年一遇” 沈阳主城区大面积严重积水",
-        "show_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/86b8f202fe928b0d083e453a",
-        "tags": [],
-        "hot_score": 84,
-        "link": "https://www.zaobao.com/news/china/story20260713-9357989",
+        "origin_title": "麦浪中学生戏剧大赛开幕，百名少年在会昌过戏剧的夏天",
+        "show_content": "第四届麦浪中学生戏剧大赛于7月12日在江西会昌开幕，为期十天，共有来自全国多地及海外的一百多名中学生参与。该赛事由四年前学生自发组织，今年参赛人数和队伍数量均有增加，参与者背景多元。",
+        "tags": [
+          "戏剧大赛",
+          "中学生",
+          "会昌"
+        ],
+        "hot_score": 92,
+        "link": "https://m.thepaper.cn/detail/33577429",
         "domain": "国内"
       }
     ],
@@ -312,9 +432,13 @@
         "source": "机核",
         "publish_time": "2026-07-13",
         "origin_title": "白话三国 第二回 曹孟德相府相马",
-        "show_content": "<img src=\"https://image.gcores.com/9584f54f9b300ffb99ed60bf72d13f93-1600-900.jpg?x-oss-pro",
-        "tags": [],
-        "hot_score": 88,
+        "show_content": "曹操在相府宴请群臣时，关羽因马匹有疾迟到。曹操听闻此事后有所考虑。",
+        "tags": [
+          "曹操",
+          "关羽",
+          "迟到"
+        ],
+        "hot_score": 87,
         "link": "https://www.gcores.com/radios/216321",
         "domain": "文娱"
       },
@@ -322,8 +446,12 @@
         "source": "机核",
         "publish_time": "2026-07-13",
         "origin_title": "活动预告 | 二十世纪的乐器",
-        "show_content": "<img src=\"https://image.gcores.com/869b924ed0520dd0616f33a3e77e31ad-3024-1800.jpg?x-oss-pr",
-        "tags": [],
+        "show_content": "8月1日起，北京Pillbox俱乐部将举办为期五周的现代音乐史系列讲座。活动安排在每周六晚和周日下午，共十场，涵盖十个专题。具体日程、收费及主题详情可通过主办方官方渠道查询。",
+        "tags": [
+          "现代音乐史讲座",
+          "Pillbox俱乐部",
+          "北京"
+        ],
         "hot_score": 87,
         "link": "https://www.gcores.com/articles/217108",
         "domain": "文娱"
@@ -332,9 +460,13 @@
         "source": "机核",
         "publish_time": "2026-07-13",
         "origin_title": "一个镜头，一个道具，看穿 007 隐藏六十多年的秘密",
-        "show_content": "<img src=\"https://image.gcores.com/27d12f179bcad43845ac96bf4006c541-1600-900.jpg?x-oss-pro",
-        "tags": [],
-        "hot_score": 82,
+        "show_content": "视频通过分析007系列电影中的镜头与道具变化，探讨该系列如何随时代发展而演变，展现其在跨越半个世纪中的持续吸引力。",
+        "tags": [
+          "007系列",
+          "时代变化",
+          "IP演变"
+        ],
+        "hot_score": 81,
         "link": "https://www.gcores.com/videos/217000",
         "domain": "文娱"
       },
@@ -342,8 +474,12 @@
         "source": "机核",
         "publish_time": "2026-07-13",
         "origin_title": "第三阵营单人战役来袭,《风暴崛起》全新维提战役Demo与地图编辑器同步上线",
-        "show_content": "<img src=\"https://image.gcores.com/e2dc9ab00af4705aed95509a5c9fc15a-1920-1080.png?x-oss-pr",
-        "tags": [],
+        "show_content": "即时战略游戏《风暴崛起》发布全新内容，维提阵营单人战役Demo与地图编辑器同步上线。该作此前在Steam平台获得特别好评，社区对第三阵营战役内容持续关注。",
+        "tags": [
+          "风暴崛起",
+          "维提战役",
+          "地图编辑器"
+        ],
         "hot_score": 81,
         "link": "https://www.gcores.com/articles/217107",
         "domain": "文娱"
@@ -352,8 +488,12 @@
         "source": "机核",
         "publish_time": "2026-07-13",
         "origin_title": "《零秒：时光的归途》现已发售 首发折后38.4元",
-        "show_content": "<img src=\"https://image.gcores.com/da574f5c65c252f39085f36242629a43-1385-779.png?x-oss-pro",
-        "tags": [],
+        "show_content": "Flyway Games开发的快节奏时停动作Roguelike游戏《零秒：时光的归途》已在Steam平台正式发售。游戏首发两周内可享受8折优惠，折后价格为38.4元，原价48元。此外，同步推出的还有支持者包和原声音乐集两款DLC，均定价22元，包含全部内容的豪华版捆绑包将享有更大折扣。",
+        "tags": [
+          "《零秒：时光的归途》",
+          "Steam发售",
+          "首发优惠"
+        ],
         "hot_score": 81,
         "link": "https://www.gcores.com/articles/217106",
         "domain": "文娱"
@@ -362,8 +502,12 @@
         "source": "机核",
         "publish_time": "2026-07-13",
         "origin_title": "谁是好人，录音笔 VOL.740",
-        "show_content": "<img src=\"https://image.gcores.com/c8c6daef1d3045c4a7e5d8d7cb967d69-1600-900.jpg?x-oss-pro",
-        "tags": [],
+        "show_content": "GPASS推出会员专享节目《录音笔》（VOL.740），内容为机核办公室日常记录，每期约十几分钟，形式包括碎碎念、暴言或日常对话，参与者不固定。",
+        "tags": [
+          "GPASS节目",
+          "会员专享",
+          "办公室记录"
+        ],
         "hot_score": 80,
         "link": "https://www.gcores.com/radios/217105",
         "domain": "文娱"
@@ -372,8 +516,12 @@
         "source": "机核",
         "publish_time": "2026-07-13",
         "origin_title": "电影《侏罗纪公园》系列博士演员山姆·尼尔去世，享年78岁",
-        "show_content": "<img src=\"https://image.gcores.com/a36516e759664bea2059b32307287b4f-476-240.png?x-oss-proc",
-        "tags": [],
+        "show_content": "7月13日，外媒报道，曾在《侏罗纪公园》系列电影中饰演格兰特博士的演员山姆·尼尔于家中离世，享年78岁。",
+        "tags": [
+          "山姆·尼尔",
+          "去世",
+          "侏罗纪公园"
+        ],
         "hot_score": 80,
         "link": "https://www.gcores.com/articles/217104",
         "domain": "文娱"
@@ -382,9 +530,13 @@
         "source": "机核",
         "publish_time": "2026-07-13",
         "origin_title": "纪念《女神异闻录3》发售20周年&《女神异闻录3 Reload》销量破300万份，Atlus公布副岛成记贺图",
-        "show_content": "<img src=\"https://image.gcores.com/ef3305467bae009a53b30f165f18997b-1920-1080.jpg?x-oss-pr",
-        "tags": [],
-        "hot_score": 78,
+        "show_content": "7月13日，Atlus为纪念《女神异闻录3》发售20周年及《女神异闻录3 Reload》全球销量突破300万份，公布了角色设计师副岛成记绘制的贺图及一支特别纪念MV。",
+        "tags": [
+          "女神异闻录3",
+          "Atlus",
+          "贺图"
+        ],
+        "hot_score": 77,
         "link": "https://www.gcores.com/articles/217102",
         "domain": "文娱"
       },
@@ -392,8 +544,12 @@
         "source": "机核",
         "publish_time": "2026-07-13",
         "origin_title": "【抽奖】土耳其教授单人研发5年，历史4X游戏《帝国的夙愿》今日正式发售",
-        "show_content": "<img src=\"https://image.gcores.com/94daa1ad3bfbfb185baa7993f1aac918-2300-1080.png?x-oss-pr",
-        "tags": [],
+        "show_content": "由土耳其教授单人研发的历史4X策略游戏《帝国的夙愿》于7月13日正式发售，国区首发优惠价49.5元。该游戏由电子羊游戏发行。",
+        "tags": [
+          "帝国的夙愿",
+          "历史4X游戏",
+          "正式发售"
+        ],
         "hot_score": 76,
         "link": "https://www.gcores.com/articles/217095",
         "domain": "文娱"
@@ -402,8 +558,12 @@
         "source": "机核",
         "publish_time": "2026-07-13",
         "origin_title": "【抽奖】双主角幻想 ARPG《星之旅》将于7 月 29 日登陆 PC，一同踏上星之旅",
-        "show_content": "<img src=\"https://image.gcores.com/bc263a05c0b068a1f5da8f6e8a401ca5-1920-1080.jpg?x-oss-pr",
-        "tags": [],
+        "show_content": "《星之旅》是一款由月相仪工作室开发、Imperfect Games发行的手绘等距视角ARPG，主打双主角玩法。游戏将于2026年7月29日在Steam平台登陆PC，玩家将扮演两位少女艾芙与卢恩，踏上净化破碎世界的冒险旅途。",
+        "tags": [
+          "《星之旅》",
+          "ARPG",
+          "Steam"
+        ],
         "hot_score": 75,
         "link": "https://www.gcores.com/articles/217091",
         "domain": "文娱"
@@ -413,30 +573,42 @@
       {
         "source": "BBC",
         "publish_time": "2026-07-13",
-        "origin_title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-        "show_content": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wild",
-        "tags": [],
-        "hot_score": 97,
-        "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
         "origin_title": "Trump reinstating naval blockade of Iranian ports",
-        "show_content": "The US president also says Washington will charge a 20% toll on all cargo shipped through ",
-        "tags": [],
-        "hot_score": 96,
+        "show_content": "美国方面表示，将恢复对伊朗港口的海上封锁，并宣布对经霍尔木兹海峡运输的所有货物征收20%的通行费。这一举措可能对地区贸易和能源运输产生直接影响。",
+        "tags": [
+          "伊朗",
+          "海上封锁",
+          "通行费"
+        ],
+        "hot_score": 100,
         "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
         "source": "BBC",
         "publish_time": "2026-07-13",
+        "origin_title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+        "show_content": "一名英国男子描述了在西班牙驾车逃离山火的经历，其妻子和朋友在试图逃跑时遇难。据称，一场毁灭性的山火席卷了他们所在的村庄。",
+        "tags": [
+          "英国男子",
+          "西班牙山火",
+          "人员遇难"
+        ],
+        "hot_score": 96,
+        "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-13",
         "origin_title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "show_content": "The Fontainebleau forest blaze, described by officials as of 'exceptional scale', continue",
-        "tags": [],
-        "hot_score": 95,
+        "show_content": "巴黎附近枫丹白露森林发生大规模火灾，已持续燃烧第二天。当地一家骑术中心在火势逼近时紧急疏散了马匹。官方描述此次火情规模'异常'。",
+        "tags": [
+          "枫丹白露森林火灾",
+          "马匹疏散",
+          "巴黎附近"
+        ],
+        "hot_score": 94,
         "link": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
@@ -444,9 +616,13 @@
         "source": "BBC",
         "publish_time": "2026-07-13",
         "origin_title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
-        "show_content": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn ",
-        "tags": [],
-        "hot_score": 94,
+        "show_content": "英国与瑞士签署了一项新的服务协议。据英方表示，该协议旨在取消漫游费并允许英国公民使用电子通关门，预计长期将使英国每年出口额增加52亿英镑。",
+        "tags": [
+          "英国",
+          "瑞士",
+          "服务协议"
+        ],
+        "hot_score": 93,
         "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
@@ -454,9 +630,13 @@
         "source": "BBC",
         "publish_time": "2026-07-13",
         "origin_title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
-        "show_content": "Firefighters arrived at the scene in the Chatuchak district to find patrons running throug",
-        "tags": [],
-        "hot_score": 92,
+        "show_content": "曼谷乍都乍区一家酒吧发生火灾，消防员抵达时发现顾客正穿过火焰逃生。事件造成至少28人死亡，25人严重受伤。",
+        "tags": [
+          "曼谷酒吧火灾",
+          "人员伤亡",
+          "乍都乍区"
+        ],
+        "hot_score": 91,
         "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
@@ -464,28 +644,26 @@
         "source": "BBC",
         "publish_time": "2026-07-13",
         "origin_title": "Irish police to engage with Jordanian force in murder investigation",
-        "show_content": "The body of Jamey Carney was discovered at a property in Killarney, County Kerry, last wee",
-        "tags": [],
-        "hot_score": 87,
+        "show_content": "爱尔兰警方本周在凯里郡基拉尼一处房产内发现了杰米·卡尼的遗体。目前，爱尔兰警方正就该案与约旦警方展开合作调查。",
+        "tags": [
+          "爱尔兰警方",
+          "凶杀调查",
+          "国际合作"
+        ],
+        "hot_score": 86,
         "link": "https://www.bbc.co.uk/news/articles/c621p1zne6qo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
         "source": "BBC",
         "publish_time": "2026-07-13",
-        "origin_title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
-        "show_content": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
-        "tags": [],
-        "hot_score": 86,
-        "link": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
         "origin_title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
-        "show_content": "The actor, who has died aged 78, built up a long string of screen credits over a five-deca",
-        "tags": [],
+        "show_content": "演员萨姆·尼尔去世，享年78岁。其演艺生涯长达五十年，参演了众多影视作品。",
+        "tags": [
+          "萨姆·尼尔",
+          "去世",
+          "演艺生涯"
+        ],
         "hot_score": 86,
         "link": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
@@ -494,8 +672,12 @@
         "source": "BBC",
         "publish_time": "2026-07-13",
         "origin_title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-        "show_content": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpe",
-        "tags": [],
+        "show_content": "演员萨姆·尼尔去世，享年78岁。他的离世被形容为“突然且出乎意料”。友人、政治人物及电影界同仁纷纷向其表达哀悼与追思。",
+        "tags": [
+          "萨姆·尼尔",
+          "演员去世",
+          "悼念"
+        ],
         "hot_score": 85,
         "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
@@ -504,10 +686,28 @@
         "source": "BBC",
         "publish_time": "2026-07-13",
         "origin_title": "German court convicts Iraqi couple of enslaving Yazidi girls",
-        "show_content": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and becam",
-        "tags": [],
+        "show_content": "德国一家法院裁定一对伊拉克夫妇奴役雅兹迪女孩罪名成立。这对夫妇仅被透露姓名为Twana H.S.和Asia R. A.，于2015年离开德国前往伊拉克，并加入伊斯兰国组织。",
+        "tags": [
+          "德国法院",
+          "伊拉克夫妇",
+          "雅兹迪女孩"
+        ],
         "hot_score": 85,
         "link": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-13",
+        "origin_title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
+        "show_content": "苏丹快速支援部队指挥官穆罕默德·哈姆丹·达加洛被缺席判处死刑，同案还有15名指挥官及盟友因战争罪被定罪。",
+        "tags": [
+          "苏丹快速支援部队",
+          "缺席审判",
+          "战争罪"
+        ],
+        "hot_score": 85,
+        "link": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       }
     ]

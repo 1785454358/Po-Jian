@@ -19,9 +19,8 @@ RSS_SOURCES = [
     # ========== 国内（2个）==========
     ("https://plink.anyfeeder.com/zaobao/realtime/china", "联合早报-中国", "国内"),
     ("https://rsshub.rssforever.com/thepaper/featured", "澎湃新闻", "国内"),
-    # ========== 文娱（2个）==========
+    # ========== 文娱（1个）==========
     ("https://www.gcores.com/rss", "机核", "文娱"),
-    ("https://rsshub.rssforever.com/pingwest/status", "品玩", "文娱"),
     # ========== 国际（2个）==========
     ("http://feeds.bbci.co.uk/news/world/rss.xml", "BBC", "国际"),
     ("https://feeds.reuters.com/reuters/topNews", "Reuters", "国际"),

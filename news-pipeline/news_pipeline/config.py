@@ -21,9 +21,8 @@ RSS_SOURCES = [
     ("https://rsshub.rssforever.com/thepaper/featured", "澎湃新闻", "国内"),
     # ========== 文娱（1个）==========
     ("https://www.gcores.com/rss", "机核", "文娱"),
-    # ========== 国际（2个）==========
+    # ========== 国际（1个）==========
     ("http://feeds.bbci.co.uk/news/world/rss.xml", "BBC", "国际"),
-    ("https://feeds.reuters.com/reuters/topNews", "Reuters", "国际"),
 ]
 
 # 每个 RSS 源最多抓取条目数（避免超大 feed 拖慢管线）

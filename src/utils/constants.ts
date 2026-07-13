@@ -33,7 +33,7 @@ export const HARVEST_COIN = 30;
 
 /** 远程新闻 JSON 地址（需替换为实际仓库地址；真机需在小程序后台配置合法域名） */
 export const NEWS_REMOTE_URL =
-  'https://raw.githubusercontent.com/{owner}/{repo}/main/news-pipeline/data/news.json';
+  'https://raw.githubusercontent.com/1785454358/Po-Jian/main/news-pipeline/data/news.json';
 
 /** 本地存储 key */
 export const STORAGE_KEY = 'zhishu-game-state';

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T18:36:23.279737+00:00",
+  "updated_at": "2026-07-13T18:51:13.374441+00:00",
   "domains": {
     "科技": [
       {
@@ -55,11 +55,11 @@
       {
         "source": "Hacker News",
         "publish_time": "2026-07-13",
-        "origin_title": "Backtrack-Free Cursive",
-        "show_content": "Backtrack-Free Cursive",
+        "origin_title": "Show HN: Super Dario",
+        "show_content": "Show HN: Super Dario",
         "tags": [],
-        "hot_score": 100,
-        "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+        "hot_score": 96,
+        "link": "https://superdario.pawb.de",
         "domain": "科技"
       },
       {
@@ -68,7 +68,7 @@
         "origin_title": "蒋方舟因论文存在抄袭行为被撤销硕士学位",
         "show_content": "人民大学宣布决定撤销蒋方舟的硕士学位。中国人民大学星期一（7月13日）晚在微博通报称，近日，网上出现关于中国人民大学文学院2019届硕士毕业生蒋方舟学位论文涉嫌学术不端的新线索。学",
         "tags": [],
-        "hot_score": 95,
+        "hot_score": 94,
         "link": "https://www.solidot.org/story?sid=84821",
         "domain": "科技"
       },
@@ -78,18 +78,8 @@
         "origin_title": "Vinton Cerf 退休",
         "show_content": "Vinton Cerf 上周卸任 Google 首席互联网布道官一职，标志这其职业生涯的落幕。现年 83 岁的 Cerf 与 Robert Kahn 合作设计了 TCP/IP 协议",
         "tags": [],
-        "hot_score": 95,
+        "hot_score": 94,
         "link": "https://www.solidot.org/story?sid=84820",
-        "domain": "科技"
-      },
-      {
-        "source": "Hacker News",
-        "publish_time": "2026-07-13",
-        "origin_title": "The 'absolute magic' of Morse code that still connects people globally",
-        "show_content": "The 'absolute magic' of Morse code that still connects people globally",
-        "tags": [],
-        "hot_score": 95,
-        "link": "https://www.bbc.com/news/articles/cwye0dlzgejo",
         "domain": "科技"
       },
       {
@@ -98,8 +88,18 @@
         "origin_title": "逃脱死亡命运的类木星行星",
         "show_content": "天文学家利用韦伯望远镜观测了一颗逃脱死亡命运的类木星行星 WD 1856 b。天文学家是在利用 TESS 望远镜观测白矮星时发现 WD 1856 b 的。白矮星是类太阳恒星的残骸，",
         "tags": [],
-        "hot_score": 94,
+        "hot_score": 93,
         "link": "https://www.solidot.org/story?sid=84819",
+        "domain": "科技"
+      },
+      {
+        "source": "Solidot",
+        "publish_time": "2026-07-13",
+        "origin_title": "数据中心用电量占到了爱尔兰用电量的 23%",
+        "show_content": "爱尔兰中央统计局 (CSO) 的数据显示，2025 年数据中心用电量占到了爱尔兰用电量的 23%。而在 2015 年这一比例仅为 5%。大型数据中心的用电量在 2025 年增长了 ",
+        "tags": [],
+        "hot_score": 90,
+        "link": "https://www.solidot.org/story?sid=84818",
         "domain": "科技"
       }
     ],
@@ -110,7 +110,7 @@
         "origin_title": "曾被樊路远批“没有阿里血脉”的灵犀互娱，要被卖了？",
         "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/14/28667-prod-nb2ep-",
         "tags": [],
-        "hot_score": 99,
+        "hot_score": 98,
         "link": "https://www.huxiu.com/article/4874981.html",
         "domain": "经济"
       },
@@ -180,7 +180,7 @@
         "origin_title": "GDP缩水、地铁烂尾……这些副中心城市怎么了",
         "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/13/28658-prod-nb2ep-",
         "tags": [],
-        "hot_score": 93,
+        "hot_score": 92,
         "link": "https://www.huxiu.com/article/4874970.html",
         "domain": "经济"
       },
@@ -200,7 +200,7 @@
         "origin_title": "澜沧古茶“家丑”暴露茶企顽疾",
         "show_content": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202607/13/28654-prod-db-gen",
         "tags": [],
-        "hot_score": 92,
+        "hot_score": 91,
         "link": "https://www.huxiu.com/article/4874963.html",
         "domain": "经济"
       }
@@ -232,7 +232,7 @@
         "origin_title": "首次使用海上无人艇，美军公布打击伊朗最新画面",
         "show_content": "<video class=\"cont_video\" controls=\"controls\" poster=\"https://imgpai.thepaper.cn/newpai/im",
         "tags": [],
-        "hot_score": 96,
+        "hot_score": 95,
         "link": "https://m.thepaper.cn/detail/33579319",
         "domain": "国内"
       },
@@ -242,7 +242,7 @@
         "origin_title": "著名电影人施南生辞世，享年75岁",
         "show_content": "<video class=\"cont_video\" controls=\"controls\" poster=\"https://imgpai.thepaper.cn/newpai/im",
         "tags": [],
-        "hot_score": 96,
+        "hot_score": 95,
         "link": "https://m.thepaper.cn/detail/33579316",
         "domain": "国内"
       },
@@ -270,9 +270,9 @@
         "source": "澎湃新闻",
         "publish_time": "2026-07-13",
         "origin_title": "最新｜长沙市体育局负责人回应澎湃：有些情况还在核实",
-        "show_content": "<p>一起“占车位”引发的纠纷，经过长达10天的“拉锯”，发酵成引起广泛关注的舆情事件。</p><p>7月13日下午，长沙市体育局党组书记谭果向澎湃新闻表示，有些情况还在进一步核实",
+        "show_content": "<p>一起因占车位引发的纠纷，经过长达10天的“拉锯”，发酵成引起广泛关注的舆情事件。</p><p>7月13日下午，长沙市体育局党组书记谭果向澎湃新闻表示，有些情况还在进一步核实中",
         "tags": [],
-        "hot_score": 95,
+        "hot_score": 94,
         "link": "https://m.thepaper.cn/detail/33578685",
         "domain": "国内"
       },
@@ -282,28 +282,28 @@
         "origin_title": "光明网评论员：“手搓”防汛APP的新闻，为何让人耳目一新？",
         "show_content": "<p><u>透过这款APP，人们看到，AI不仅在基层工作中大有可为，也能成为党员干部干事创业的重要平台。接下来，如何让更多的创新实践“冒”出来，这中间还有很多问题需要回答。</u>",
         "tags": [],
-        "hot_score": 94,
+        "hot_score": 93,
         "link": "https://m.thepaper.cn/detail/33578947",
         "domain": "国内"
       },
       {
-        "source": "联合早报-中国",
+        "source": "澎湃新闻",
         "publish_time": "2026-07-13",
-        "origin_title": "中国多管齐下回击多国联合声明 中国学者：对南中国海裁决开启“新批驳征程”",
-        "show_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/39fce88136f635902a2f20fc",
+        "origin_title": "麦浪中学生戏剧大赛开幕，百名少年在会昌过戏剧的夏天",
+        "show_content": "<p>7月12日，江西会昌戏剧小镇迎来了第四届麦浪中学生戏剧大赛。未来十天，这里将成为一百多位中学生戏剧爱好者的创作营地。他们来自全国不同省份，也有从中国香港、马来西亚、美国专程赶",
         "tags": [],
         "hot_score": 93,
-        "link": "https://www.zaobao.com/news/china/story20260713-9358726",
+        "link": "https://m.thepaper.cn/detail/33577429",
         "domain": "国内"
       },
       {
-        "source": "联合早报-中国",
+        "source": "澎湃新闻",
         "publish_time": "2026-07-13",
-        "origin_title": "下午察：电动车成“快消品”？",
-        "show_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/b323299f9855ffb4b97d95a8",
+        "origin_title": "直面蒋方舟学术不端，证据到哪查处就要到哪",
+        "show_content": "<video class=\"cont_video\" controls=\"controls\" poster=\"https://imgpai.thepaper.cn/newpai/im",
         "tags": [],
         "hot_score": 93,
-        "link": "https://www.zaobao.com/news/china/story20260713-9357393",
+        "link": "https://m.thepaper.cn/detail/33578717",
         "domain": "国内"
       }
     ],
@@ -314,7 +314,7 @@
         "origin_title": "白话三国 第二回 曹孟德相府相马",
         "show_content": "<img src=\"https://image.gcores.com/9584f54f9b300ffb99ed60bf72d13f93-1600-900.jpg?x-oss-pro",
         "tags": [],
-        "hot_score": 89,
+        "hot_score": 88,
         "link": "https://www.gcores.com/radios/216321",
         "domain": "文娱"
       },
@@ -334,7 +334,7 @@
         "origin_title": "一个镜头，一个道具，看穿 007 隐藏六十多年的秘密",
         "show_content": "<img src=\"https://image.gcores.com/27d12f179bcad43845ac96bf4006c541-1600-900.jpg?x-oss-pro",
         "tags": [],
-        "hot_score": 83,
+        "hot_score": 82,
         "link": "https://www.gcores.com/videos/217000",
         "domain": "文娱"
       },
@@ -384,7 +384,7 @@
         "origin_title": "纪念《女神异闻录3》发售20周年&《女神异闻录3 Reload》销量破300万份，Atlus公布副岛成记贺图",
         "show_content": "<img src=\"https://image.gcores.com/ef3305467bae009a53b30f165f18997b-1920-1080.jpg?x-oss-pr",
         "tags": [],
-        "hot_score": 79,
+        "hot_score": 78,
         "link": "https://www.gcores.com/articles/217102",
         "domain": "文娱"
       },
@@ -394,7 +394,7 @@
         "origin_title": "【抽奖】土耳其教授单人研发5年，历史4X游戏《帝国的夙愿》今日正式发售",
         "show_content": "<img src=\"https://image.gcores.com/94daa1ad3bfbfb185baa7993f1aac918-2300-1080.png?x-oss-pr",
         "tags": [],
-        "hot_score": 78,
+        "hot_score": 77,
         "link": "https://www.gcores.com/articles/217095",
         "domain": "文娱"
       },
@@ -413,10 +413,30 @@
       {
         "source": "BBC",
         "publish_time": "2026-07-13",
+        "origin_title": "Trump reinstating naval blockade of Iranian ports",
+        "show_content": "The US president also says Washington will charge a 20% toll on all cargo shipped through ",
+        "tags": [],
+        "hot_score": 97,
+        "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-13",
+        "origin_title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+        "show_content": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wild",
+        "tags": [],
+        "hot_score": 97,
+        "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-13",
         "origin_title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
         "show_content": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn ",
         "tags": [],
-        "hot_score": 95,
+        "hot_score": 94,
         "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
@@ -426,7 +446,7 @@
         "origin_title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
         "show_content": "Firefighters arrived at the scene in the Chatuchak district to find patrons running throug",
         "tags": [],
-        "hot_score": 93,
+        "hot_score": 92,
         "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
@@ -436,28 +456,8 @@
         "origin_title": "Irish police to engage with Jordanian force in murder investigation",
         "show_content": "The body of Jamey Carney was discovered at a property in Killarney, County Kerry, last wee",
         "tags": [],
-        "hot_score": 88,
+        "hot_score": 87,
         "link": "https://www.bbc.co.uk/news/articles/c621p1zne6qo?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-        "show_content": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpe",
-        "tags": [],
-        "hot_score": 87,
-        "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
-        "show_content": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
-        "tags": [],
-        "hot_score": 87,
-        "link": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
@@ -473,6 +473,16 @@
       {
         "source": "BBC",
         "publish_time": "2026-07-13",
+        "origin_title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+        "show_content": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpe",
+        "tags": [],
+        "hot_score": 86,
+        "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-13",
         "origin_title": "German court convicts Iraqi couple of enslaving Yazidi girls",
         "show_content": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and becam",
         "tags": [],
@@ -483,31 +493,21 @@
       {
         "source": "BBC",
         "publish_time": "2026-07-13",
+        "origin_title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
+        "show_content": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
+        "tags": [],
+        "hot_score": 86,
+        "link": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-13",
         "origin_title": "The SpaceX IPO made history. One month on has it lost momentum?",
         "show_content": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes m",
         "tags": [],
         "hot_score": 86,
         "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-        "show_content": "It was the first time firefighting planes had been sent up from the normally drier and hot",
-        "tags": [],
-        "hot_score": 84,
-        "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "Men disguised as police kill Ecuadorean drug lord's brother",
-        "show_content": "The victim, David Macías, was the brother of drug lord 'El Fito', who is awaiting trial in",
-        "tags": [],
-        "hot_score": 84,
-        "link": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       }
     ]

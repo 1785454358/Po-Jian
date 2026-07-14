@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-07-13T19:23:32.874308+00:00",
+  "updated_at": "2026-07-14T04:11:50.151171+00:00",
   "domains": {
     "科技": [
       {
         "source": "Hacker News",
-        "publish_time": "2026-07-13",
-        "origin_title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-        "show_content": "苹果公司推出新的SpeechAnalyzer API，并已与Whisper及其前代产品进行了基准测试。",
+        "publish_time": "2026-07-14",
+        "origin_title": "The Git history command deserves more attention",
+        "show_content": "Git历史命令功能在版本控制系统中具有重要作用，该功能可记录代码变更历程，支持开发者追溯修改细节，但目前其实际应用价值尚未得到充分关注与利用。",
         "tags": [
-          "苹果公司",
+          "Git",
+          "版本控制",
+          "代码历史"
+        ],
+        "hot_score": 100,
+        "link": "https://lalitm.com/post/git-history/",
+        "domain": "科技"
+      },
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-14",
+        "origin_title": "Building and shipping Mac and iOS apps without opening Xcode",
+        "show_content": "有技术方案探讨了在不打开Xcode的情况下构建并发布Mac及iOS应用程序的可能性，这为开发者提供了新的工作流程选择。",
+        "tags": [
+          "Mac应用开发",
+          "iOS应用发布",
+          "Xcode替代方案"
+        ],
+        "hot_score": 100,
+        "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+        "domain": "科技"
+      },
+      {
+        "source": "Hacker News",
+        "publish_time": "2026-07-14",
+        "origin_title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+        "show_content": "苹果公司发布了新的SpeechAnalyzer API，并将其性能与开源模型Whisper及其前代产品进行了基准测试。",
+        "tags": [
           "SpeechAnalyzer API",
-          "基准测试"
+          "基准测试",
+          "Whisper"
         ],
         "hot_score": 100,
         "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
@@ -18,567 +46,539 @@
       },
       {
         "source": "Hacker News",
-        "publish_time": "2026-07-13",
-        "origin_title": "Show HN: Super Dario",
-        "show_content": "Show HN 平台出现一个名为 Super Dario 的新项目。该项目的具体功能、技术细节和创始人信息未在提供的片段中说明。",
+        "publish_time": "2026-07-14",
+        "origin_title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+        "show_content": "日本研发出一种可从废旧电动汽车电池中回收高达90%锂元素的新技术方法。该技术旨在提升电池材料的资源再利用效率。",
         "tags": [
-          "Show HN",
-          "Super Dario",
-          "新项目"
+          "日本",
+          "锂回收",
+          "电动汽车电池"
         ],
-        "hot_score": 100,
-        "link": "https://superdario.pawb.de",
+        "hot_score": 94,
+        "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+        "domain": "科技"
+      },
+      {
+        "source": "少数派",
+        "publish_time": "2026-07-14",
+        "origin_title": "派早报：全球智能手机出货量创 13 年来最低水平等",
+        "show_content": "少数派近期启动“角落新声”征文活动并联合AKKO开启灵犀Linx68键盘预售，同时提醒读者关注AI生图时代的信息防伪等相关内容。",
+        "tags": [
+          "征文活动",
+          "键盘预售",
+          "信息防伪"
+        ],
+        "hot_score": 93,
+        "link": "https://sspai.com/post/112286",
+        "domain": "科技"
+      },
+      {
+        "source": "爱范儿",
+        "publish_time": "2026-07-14",
+        "origin_title": "早报｜苹果iPhone 20或迎来大幅设计调整/海南规划2030年禁售燃油车/字节回应探索自动驾驶传闻",
+        "show_content": "腾讯混元Hy3模型登顶OpenRouter周榜，单周处理Token超6万亿。台积电上半年营收同比增长35.6%，6月营收创单月新高。长鑫科技计划募资295亿元，员工每人可分超百万元。",
+        "tags": [
+          "腾讯混元模型",
+          "台积电营收",
+          "长鑫科技募资"
+        ],
+        "hot_score": 92,
+        "link": "https://www.ifanr.com/1671983?utm_source=rss&utm_medium=rss&utm_campaign=",
         "domain": "科技"
       },
       {
         "source": "Hacker News",
-        "publish_time": "2026-07-13",
-        "origin_title": "The art and engineering of Sega CD Silpheed",
-        "show_content": "世嘉CD平台游戏《Silpheed》融合了艺术设计与工程技术，该游戏在开发过程中展现了开发者在图形技术、音乐制作和游戏机制上的综合运用。",
+        "publish_time": "2026-07-14",
+        "origin_title": "Show HN: YouTube Guitar Tab Parser",
+        "show_content": "开发者在Hacker News发布一款开源工具，可解析YouTube视频中的吉他谱信息并转化为标准格式。该工具支持自动识别视频画面中的乐谱内容，帮助音乐爱好者快速获取吉他弹奏参考。",
         "tags": [
-          "世嘉CD",
-          "Silpheed",
-          "游戏开发"
+          "开源工具",
+          "吉他谱解析",
+          "YouTube视频"
         ],
-        "hot_score": 100,
-        "link": "https://fabiensanglard.net/silpheed/index.html",
+        "hot_score": 86,
+        "link": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
         "domain": "科技"
       },
       {
         "source": "Hacker News",
-        "publish_time": "2026-07-13",
-        "origin_title": "LAPD lets contract with surveillance giant Flock expire",
-        "show_content": "洛杉矶警察局与监控公司Flock的合同已到期，双方未续约。该合同涉及监控技术支持服务，合同到期后相关合作将终止。",
+        "publish_time": "2026-07-14",
+        "origin_title": "An Englishwoman who sketched India before photography took hold",
+        "show_content": "在摄影术普及之前，一位英国女性通过素描记录了印度的风貌与景象。她的作品为当时印度的社会文化与建筑景观提供了视觉资料，展现了早期跨文化观察与记录的一种形式。",
         "tags": [
-          "洛杉矶警察局",
-          "监控合同",
-          "Flock公司"
+          "英国女性",
+          "印度素描",
+          "摄影术普及前"
         ],
-        "hot_score": 100,
-        "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-        "domain": "科技"
-      },
-      {
-        "source": "Hacker News",
-        "publish_time": "2026-07-13",
-        "origin_title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-        "show_content": "日本开发者基于体素技术打造了虚拟东京场景，用户可在其中体验与日本实时同步的山手线列车运行。该项目融合了轨道交通模拟与日语学习功能，旨在提供沉浸式交互体验。",
-        "tags": [
-          "体素技术",
-          "虚拟东京",
-          "日语学习"
-        ],
-        "hot_score": 100,
-        "link": "https://jivx.com/densha",
-        "domain": "科技"
-      },
-      {
-        "source": "Hacker News",
-        "publish_time": "2026-07-13",
-        "origin_title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
-        "show_content": "开发者发布了DOM-docx工具，可将HTML内容转换为原生可编辑的Word文档。该工具以MIT许可证开源，旨在简化网页内容到Office文档的转换流程。",
-        "tags": [
-          "DOM-docx",
-          "HTML转Word",
-          "MIT许可"
-        ],
-        "hot_score": 100,
-        "link": "https://github.com/floodtide/dom-docx",
+        "hot_score": 78,
+        "link": "https://www.bbc.com/news/articles/cm2drrv6q54o",
         "domain": "科技"
       },
       {
         "source": "Solidot",
-        "publish_time": "2026-07-13",
+        "publish_time": "2026-07-14",
         "origin_title": "蒋方舟因论文存在抄袭行为被撤销硕士学位",
-        "show_content": "中国人民大学宣布，因硕士毕业论文存在九处与境外期刊论文文字重合且未标注引用，认定蒋方舟构成学术不端，决定撤销其硕士学位。蒋方舟对此表示接受并致歉。",
+        "show_content": "中国人民大学宣布，经核查认定2019届硕士毕业生蒋方舟学位论文存在学术不端行为，其论文有九处与境外期刊论文文字重合且未规范引用，决定撤销其硕士学位。蒋方舟本人回应接受处理并致歉。",
         "tags": [
           "蒋方舟",
-          "硕士学位撤销",
+          "撤销学位",
           "学术不端"
         ],
-        "hot_score": 93,
+        "hot_score": 76,
         "link": "https://www.solidot.org/story?sid=84821",
         "domain": "科技"
       },
       {
         "source": "Solidot",
-        "publish_time": "2026-07-13",
+        "publish_time": "2026-07-14",
         "origin_title": "Vinton Cerf 退休",
-        "show_content": "互联网之父Vinton Cerf近日卸任Google首席互联网布道官一职，现年83岁。Cerf与Robert Kahn共同设计了TCP/IP协议，该协议是互联网数据传输的核心架构。Cerf自2005年起在Google任职。",
+        "show_content": "Vinton Cerf上周卸任Google首席互联网布道官一职，标志其职业生涯落幕。现年83岁的Cerf与Robert Kahn合作设计了TCP/IP协议，被誉为互联网之父。自2005年以来，Cerf一直担任Google副总裁和首席互联网布道官。",
         "tags": [
           "Vinton Cerf",
-          "退休",
-          "TCP/IP协议"
+          "Google",
+          "退休"
         ],
-        "hot_score": 93,
+        "hot_score": 75,
         "link": "https://www.solidot.org/story?sid=84820",
-        "domain": "科技"
-      },
-      {
-        "source": "Solidot",
-        "publish_time": "2026-07-13",
-        "origin_title": "逃脱死亡命运的类木星行星",
-        "show_content": "天文学家利用韦伯望远镜观测到一颗类木星行星WD 1856 b。该行星位于白矮星WD 1856附近，距离恒星仅0.02天文单位，已存在约60亿年。观测发现行星大气含甲烷，并被气溶胶笼罩，表面温度达400开尔文。",
-        "tags": [
-          "韦伯望远镜",
-          "类木星行星",
-          "白矮星"
-        ],
-        "hot_score": 92,
-        "link": "https://www.solidot.org/story?sid=84819",
-        "domain": "科技"
-      },
-      {
-        "source": "Solidot",
-        "publish_time": "2026-07-13",
-        "origin_title": "数据中心用电量占到了爱尔兰用电量的 23%",
-        "show_content": "爱尔兰中央统计局数据显示，2025年数据中心用电量占全国总用电量的23%，较2015年的5%显著上升。2025年数据中心用电量同比增长10%，达到7663 GWh，而其他部门用电量仅增长2%。目前爱尔兰拥有超过80个数据中心。",
-        "tags": [
-          "爱尔兰",
-          "数据中心",
-          "用电量"
-        ],
-        "hot_score": 89,
-        "link": "https://www.solidot.org/story?sid=84818",
         "domain": "科技"
       }
     ],
     "经济": [
       {
         "source": "虎嗅",
-        "publish_time": "2026-07-13",
-        "origin_title": "蒋方舟学位撤销始末：人大那份通报，为何只活了8天？",
-        "show_content": "中国人民大学通报2019届硕士毕业生蒋方舟存在学术不端行为。此前该校曾发布相关处理通报，但在8天后因新证据出现而被推翻。",
+        "publish_time": "2026-07-14",
+        "origin_title": "AI公司的数据中心越建越多，最先紧缺的是沙子",
+        "show_content": "AI数据中心建设需求增加，导致沙子资源紧缺。沙子是全球第二大使用资源，但不同种类的沙子用途不同，沙漠中的圆沙子无法用于建筑等行业。",
         "tags": [
-          "中国人民大学",
-          "蒋方舟",
-          "学位撤销"
+          "沙子资源",
+          "AI数据中心",
+          "资源紧缺"
+        ],
+        "hot_score": 100,
+        "link": "https://www.huxiu.com/article/4875073.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-14",
+        "origin_title": "豆包、WorkBuddy、QoderWork怎么选？我用8个真实办公任务把三家桌面Agent测明白了",
+        "show_content": "近期，国产桌面智能体产品频繁出现在公众视野中。针对用户选择咨询，一篇横评文章选取WorkBuddy、豆包专业版、QoderWork三款产品，从8个维度对它们在真实办公任务中的表现进行了对比测试。",
+        "tags": [
+          "桌面智能体",
+          "产品横评",
+          "办公任务测试"
+        ],
+        "hot_score": 100,
+        "link": "https://www.huxiu.com/article/4875072.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-14",
+        "origin_title": "印奇“蜕变”了",
+        "show_content": "7月13日，阶跃星辰在上海中心大厦举办发布会，展示公司发展新方向。一年前，该公司曾表示不会局限于与其他大模型厂商竞争订单。",
+        "tags": [
+          "阶跃星辰",
+          "发布会",
+          "上海"
+        ],
+        "hot_score": 100,
+        "link": "https://www.huxiu.com/article/4875065.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-14",
+        "origin_title": "OpenAI最新吹哨人：权力博弈和AI 的终局，生存性风险与2040计划",
+        "show_content": "OpenAI前专家Daniel Kokotajlo披露，AI行业内部竞争激烈，超级智能（ASI）可能带来生存性风险，他为保留发言权拒绝签署高额补偿协议。",
+        "tags": [
+          "OpenAI",
+          "人工智能",
+          "生存性风险"
         ],
         "hot_score": 99,
-        "link": "https://www.huxiu.com/article/4874982.html",
+        "link": "https://www.huxiu.com/article/4875069.html",
         "domain": "经济"
       },
       {
         "source": "虎嗅",
-        "publish_time": "2026-07-13",
-        "origin_title": "曾被樊路远批“没有阿里血脉”的灵犀互娱，要被卖了？",
-        "show_content": "近日有消息称，阿里巴巴正计划出售旗下游戏业务灵犀互娱。据悉，本次交易可能为整体打包出售，涉及灵犀互娱的全体系资产、团队与业务，整体估值约70亿至90亿元。目前阿里已接触过多位潜在买家。",
+        "publish_time": "2026-07-14",
+        "origin_title": "造车已经够挤了，楚能偏要来",
+        "show_content": "2026年7月11日，楚能汽车在武汉江夏的试制中心下线了其首台ET工程试制车，首款产品预计于2027年年中上市。该公司此前主要从事动力电池的研发与制造。",
         "tags": [
-          "灵犀互娱",
-          "业务出售",
-          "阿里巴巴"
+          "楚能汽车",
+          "ET工程试制车",
+          "武汉江夏"
+        ],
+        "hot_score": 99,
+        "link": "https://www.huxiu.com/article/4875066.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-14",
+        "origin_title": "AI组织变革，“焦虑感”or“必答题”？穆胜咨询娄珺对话腾讯研究院晓辉博士",
+        "show_content": "穆胜咨询娄珺与腾讯研究院晓辉博士就AI组织变革展开对话。娄珺指出，过去十几年部分大厂将自身管理工具鼓吹为神器，而一些企业盲目跟风引用，导致资源浪费。该对话旨在纠正对管理的误读。",
+        "tags": [
+          "AI组织变革",
+          "管理工具",
+          "企业应用"
+        ],
+        "hot_score": 98,
+        "link": "https://www.huxiu.com/article/4875060.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-14",
+        "origin_title": "欧包现烤变预制，奈雪霸气变仙气",
+        "show_content": "在深圳前海的一场股东会议上，奈雪创始人赵林与彭心面对股东关于领一元年薪的质疑时，回应称股东应冷静，并表示上市后未减持股份，仅靠工资生活，发一元不现实。",
+        "tags": [
+          "股东会议",
+          "薪资质疑",
+          "回应表态"
+        ],
+        "hot_score": 98,
+        "link": "https://www.huxiu.com/article/4875055.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-14",
+        "origin_title": "被00后住爆的青旅，来抢经济型酒店的饭碗了",
+        "show_content": "根据博研咨询统计数据，2022年至2025年间，国内青年旅舍市场规模从52.6亿元增长至180亿元，三年内规模增长超过三倍。",
+        "tags": [
+          "青年旅舍",
+          "市场规模",
+          "增长数据"
+        ],
+        "hot_score": 98,
+        "link": "https://www.huxiu.com/article/4875053.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-14",
+        "origin_title": "泡沫崩溃在即",
+        "show_content": "近期全球资本市场出现极端波动，韩国股市频繁触发熔断机制，A股跌破4000点，纳斯达克指数仍未回升至6月高点。席勒市盈率接近历史高位。同时，苹果公司已对OpenAI提起诉讼。",
+        "tags": [
+          "全球资本市场波动",
+          "席勒市盈率",
+          "苹果诉讼OpenAI"
+        ],
+        "hot_score": 98,
+        "link": "https://www.huxiu.com/article/4874968.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-14",
+        "origin_title": "AI越会回答，人为什么越需要深度思考？复旦发布2026人文社科智能发展蓝皮书",
+        "show_content": "复旦大学发布2026人文社科智能发展蓝皮书，探讨AI能力增强与人类深度思考需求之间的关系。蓝皮书指出，AI从早期的辅助工具逐步发展到能独立完成复杂任务，引发对人类思考方式的讨论。",
+        "tags": [
+          "复旦大学",
+          "人文社科智能发展",
+          "蓝皮书"
         ],
         "hot_score": 97,
-        "link": "https://www.huxiu.com/article/4874981.html",
-        "domain": "经济"
-      },
-      {
-        "source": "虎嗅",
-        "publish_time": "2026-07-13",
-        "origin_title": "千亿环保设备更新市场：4道坎和4条路",
-        "show_content": "在污水厂中，膜、滤布、曝气盘、在线仪表、水泵、鼓风机等环保设备各有不同的更换或维修周期。设备周期届满后将形成确定的业务需求，推动千亿级环保设备更新市场发展。",
-        "tags": [
-          "环保设备更新",
-          "设备更换周期",
-          "污水处理厂"
-        ],
-        "hot_score": 94,
-        "link": "https://www.huxiu.com/article/4874980.html",
-        "domain": "经济"
-      },
-      {
-        "source": "虎嗅",
-        "publish_time": "2026-07-13",
-        "origin_title": "一个台州厂二代的自述：我为什么不接班",
-        "show_content": "浙江台州一位在大学任教十几年的受访者，父母经营工厂超过30年。谈及接班问题，其表示自己接不了也很可能不该接，认为这看上去是家庭选择，其实很难用一句话回答。",
-        "tags": [
-          "台州厂二代",
-          "工厂接班",
-          "家族企业"
-        ],
-        "hot_score": 94,
-        "link": "https://www.huxiu.com/article/4874979.html",
-        "domain": "经济"
-      },
-      {
-        "source": "虎嗅",
-        "publish_time": "2026-07-13",
-        "origin_title": "韩国生育率又反弹了，股市暴涨能“催生”吗？",
-        "show_content": "近期，此前生育率全球垫底的韩国出现出生人口反弹迹象。据新华社报道，韩国国家数据显示，该国在2023年生育率降至0.72的低位后，近期呈现回升趋势。",
-        "tags": [
-          "韩国",
-          "生育率",
-          "出生人口"
-        ],
-        "hot_score": 94,
-        "link": "https://www.huxiu.com/article/4874978.html",
-        "domain": "经济"
-      },
-      {
-        "source": "虎嗅",
-        "publish_time": "2026-07-13",
-        "origin_title": "南威软件被立案背后：超2亿交易，被曝与实控人的“万石系”有多处交集，公司此前撇清关系",
-        "show_content": "南威软件因被立案调查，7月13日股价一字跌停，报收7.16元/股，市值缩水至41.55亿元，约6.25万名股东受影响。公司控股股东、实际控制人吴志雄此前宣布提前终止股份计划。",
-        "tags": [
-          "南威软件",
-          "立案调查",
-          "股价跌停"
-        ],
-        "hot_score": 93,
-        "link": "https://www.huxiu.com/article/4874977.html",
-        "domain": "经济"
-      },
-      {
-        "source": "虎嗅",
-        "publish_time": "2026-07-13",
-        "origin_title": "战魔田默｜电影《四渡》大火：创业者最难的一仗，是推翻昨天的正确",
-        "show_content": "电影《四渡》取得票房成功。影片通过历史事件展现领导人在复杂局势中决策的过程，反映了应对变化与调整策略的主题。",
-        "tags": [
-          "电影《四渡》",
-          "票房成功",
-          "决策过程"
-        ],
-        "hot_score": 93,
-        "link": "https://www.huxiu.com/article/4874974.html",
-        "domain": "经济"
-      },
-      {
-        "source": "虎嗅",
-        "publish_time": "2026-07-13",
-        "origin_title": "短剧演员大撤退：日薪踝斩、百人解约，有人转型AI导演",
-        "show_content": "近期多位短剧演员因行业调整面临职业转型，部分演员已与公司解约，有演员转向卖菜或开办培训班。此前，#多位演员无戏可演回家卖菜#等话题引发网络关注。",
-        "tags": [
-          "短剧行业",
-          "演员转型",
-          "市场调整"
-        ],
-        "hot_score": 92,
-        "link": "https://www.huxiu.com/article/4874972.html",
-        "domain": "经济"
-      },
-      {
-        "source": "虎嗅",
-        "publish_time": "2026-07-13",
-        "origin_title": "GDP缩水、地铁烂尾……这些副中心城市怎么了",
-        "show_content": "云南曲靖耗资4950万元建设的“城市大脑”项目组成部分“曲靖通”政务APP宣布关停，引发关注。该APP于2022年上线，同年曲靖GDP达3802.2亿元峰值。",
-        "tags": [
-          "曲靖",
-          "政务APP关停",
-          "城市大脑项目"
-        ],
-        "hot_score": 91,
-        "link": "https://www.huxiu.com/article/4874970.html",
-        "domain": "经济"
-      },
-      {
-        "source": "虎嗅",
-        "publish_time": "2026-07-13",
-        "origin_title": "05后斩获全球票房TOP10，它抓住了年轻人没有出路的无力感",
-        "show_content": "2026年夏天，A24新片《后室》在海外成为恐怖片黑马，票房远超制作成本，近日在大陆上映。影片基于互联网社区中流行的网络怪谈，获得关注。",
-        "tags": [
-          "A24",
-          "后室",
-          "恐怖片"
-        ],
-        "hot_score": 91,
-        "link": "https://www.huxiu.com/article/4874967.html",
+        "link": "https://www.huxiu.com/article/4875046.html",
         "domain": "经济"
       }
     ],
     "国内": [
       {
         "source": "澎湃新闻",
-        "publish_time": "2026-07-13",
-        "origin_title": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁",
-        "show_content": "美国海军联合海上信息中心宣布，美军将于格林尼治时间7月14日20时起对伊朗所有港口及沿海地区实施海上封锁。封锁适用于所有船舶，但不阻碍经霍尔木兹海峡的过境通行，人道主义物资运输需接受检查。",
+        "publish_time": "2026-07-14",
+        "origin_title": "联合海上信息中心详述美军对伊海上封锁令",
+        "show_content": "联合海上信息中心通报称，美军中央司令部将于7月14日起对伊朗港口及沿海区域实施海上封锁。封锁不区分船旗国，未授权船舶可能被拦截、改道或扣押。中立船舶可经霍尔木兹海峡前往非伊朗目的地，但需接受检查。",
         "tags": [
-          "海上封锁",
+          "美国",
           "伊朗",
-          "美军"
+          "海上封锁"
         ],
         "hot_score": 100,
-        "link": "https://m.thepaper.cn/detail/33579671",
+        "link": "https://m.thepaper.cn/detail/33581173",
         "domain": "国内"
       },
       {
         "source": "澎湃新闻",
-        "publish_time": "2026-07-13",
-        "origin_title": "美国务院宣布发起行动“削弱国际刑事法院运作能力”",
-        "show_content": "美国国务院7月13日宣布发起一项多部门参与的行动，旨在系统性削弱国际刑事法院的运作能力。美方计划采取的措施包括吊销法院人员签证、加强制裁并敦促部分国家退出该法院，以防止其对美国军人或官员采取行动并维护美国主权。",
+        "publish_time": "2026-07-14",
+        "origin_title": "孙一萍评《愤怒的农民》｜一场集体暴行背后的情感自洽",
+        "show_content": "1870年8月16日，法国多尔多涅省奥特法耶镇集市期间，正值普法战争前线失利，谣言蔓延。一名年轻贵族阿兰·德·莫奈伊斯进入集市后，与当地农民发生冲突，引发严重事件。",
         "tags": [
-          "美国国务院",
-          "国际刑事法院",
-          "削弱运作能力"
+          "法国乡村事件",
+          "普法战争背景",
+          "贵族与农民冲突"
         ],
-        "hot_score": 98,
-        "link": "https://m.thepaper.cn/detail/33579461",
+        "hot_score": 100,
+        "link": "https://m.thepaper.cn/detail/33540479",
         "domain": "国内"
       },
       {
         "source": "澎湃新闻",
-        "publish_time": "2026-07-13",
-        "origin_title": "英国加入欧盟援乌贷款计划",
-        "show_content": "7月13日，英国首相斯塔默签署协议，宣布英国加入欧盟援助乌克兰贷款计划，旨在加强防务合作。欧盟委员会此前公告，欧盟与乌克兰已通过向乌提供900亿欧元贷款的相关协议，首批资金计划于6月启动拨付。",
+        "publish_time": "2026-07-14",
+        "origin_title": "国新办发布会丨介绍2026年上半年货币政策执行和金融统计数据情况",
+        "show_content": "2026年7月15日，国务院新闻办公室举行新闻发布会，中国人民银行副行长邹澜介绍2026年上半年货币政策执行和金融统计数据情况，并答记者问。",
         "tags": [
-          "英国加入欧盟贷款计划",
-          "欧盟援助乌克兰",
-          "防务合作"
+          "国新办发布会",
+          "货币政策",
+          "金融统计"
         ],
-        "hot_score": 96,
-        "link": "https://m.thepaper.cn/detail/33579424",
+        "hot_score": 100,
+        "link": "https://m.thepaper.cn/detail/33581416",
         "domain": "国内"
       },
       {
         "source": "澎湃新闻",
-        "publish_time": "2026-07-13",
-        "origin_title": "首次使用海上无人艇，美军公布打击伊朗最新画面",
-        "show_content": "美军中央司令部称，其部队于7月12日动用无人机打击了伊朗境内一处维修设施，并首次在作战中使用三艘无人水面舰艇袭击了阿巴斯港海军基地。",
+        "publish_time": "2026-07-14",
+        "origin_title": "青海同仁市同赛高速一施工路段遭遇强降雨，致2人死亡1人受伤",
+        "show_content": "2026年7月13日，青海黄南州同仁市同赛高速扎毛乡施工路段遭遇强降雨，造成2人死亡、1人受伤。同仁市正在推进各项善后事宜。",
         "tags": [
-          "美军",
-          "伊朗",
-          "无人艇"
+          "强降雨",
+          "施工事故",
+          "伤亡"
         ],
-        "hot_score": 94,
-        "link": "https://m.thepaper.cn/detail/33579319",
+        "hot_score": 100,
+        "link": "https://m.thepaper.cn/detail/33581413",
+        "domain": "国内"
+      },
+      {
+        "source": "联合早报-中国",
+        "publish_time": "2026-07-14",
+        "origin_title": "受AI热潮推动 中国6月份进出口增幅均超预期增长",
+        "show_content": "中国海关总署数据显示，受AI热潮推动数据中心硬件需求及对美“抢出口”效应影响，6月份以美元计价的出口同比增长27%，进口同比增长36%，贸易顺差达1256亿美元，增幅均超预期。",
+        "tags": [
+          "中国进出口",
+          "6月贸易数据",
+          "AI需求推动"
+        ],
+        "hot_score": 99,
+        "link": "https://www.zaobao.com/news/china/story20260714-9360509",
+        "domain": "国内"
+      },
+      {
+        "source": "联合早报-中国",
+        "publish_time": "2026-07-14",
+        "origin_title": "执行主席唐伟据报将在希音赴港上市前卸任",
+        "show_content": "总部位于新加坡的快时尚电商希音正推进赴港上市进程，执行主席唐伟据报将在上市前卸任。路透社引述知情人士称，唐伟过去三年负责公司全球化战略和上市合规工作，其任务已告一段落。创始人许仰天将接替其职务，负责领导上市前投资路演。",
+        "tags": [
+          "希音",
+          "唐伟",
+          "香港上市"
+        ],
+        "hot_score": 99,
+        "link": "https://www.zaobao.com/news/china/story20260714-9360538",
+        "domain": "国内"
+      },
+      {
+        "source": "联合早报-中国",
+        "publish_time": "2026-07-14",
+        "origin_title": "中国6月稀土出口同比降34%",
+        "show_content": "中国海关总署数据显示，6月稀土出口量同比下降34%至5105吨。上半年稀土出口总量为3万483吨，同比减少6.4%。6月未锻轧铝及铝材出口量首次突破70万吨，达71.1万吨。",
+        "tags": [
+          "稀土出口",
+          "中国海关数据",
+          "铝材出口"
+        ],
+        "hot_score": 99,
+        "link": "https://www.zaobao.com/news/china/story20260714-9360521",
         "domain": "国内"
       },
       {
         "source": "澎湃新闻",
-        "publish_time": "2026-07-13",
-        "origin_title": "著名电影人施南生辞世，享年75岁",
-        "show_content": "香港著名电影人施南生因细菌感染引发多重器官衰竭，于2026年7月13日晚上20:51在养和医院辞世，享年75岁。",
+        "publish_time": "2026-07-14",
+        "origin_title": "国新办发布会丨介绍完善自然资源资产管理制度体系有关情况",
+        "show_content": "2026年7月14日，国务院新闻办公室举行新闻发布会，邀请自然资源部副部长张文彤、国家林业和草原局副局长张利明，就完善自然资源资产管理制度体系相关情况进行介绍并答记者问。",
         "tags": [
-          "施南生",
-          "电影人",
-          "辞世"
+          "国务院新闻办",
+          "自然资源资产管理制度",
+          "新闻发布会"
         ],
-        "hot_score": 94,
-        "link": "https://m.thepaper.cn/detail/33579316",
+        "hot_score": 99,
+        "link": "https://m.thepaper.cn/detail/33581410",
         "domain": "国内"
       },
       {
         "source": "澎湃新闻",
-        "publish_time": "2026-07-13",
-        "origin_title": "钙钛矿-有机叠层太阳能电池研究取得新突破",
-        "show_content": "北京时间7月13日，中国科学院化学研究所李永舫、孟磊团队在《自然》期刊发表成果，提出“全阶段调控”策略，成功制备出稳态光电转换效率达28.04%的钙钛矿-有机叠层太阳能电池，刷新该类器件世界纪录。",
+        "publish_time": "2026-07-14",
+        "origin_title": "中共中央批准：刘强任山东省委副书记",
+        "show_content": "日前，中共中央批准刘强同志任山东省委副书记。",
         "tags": [
-          "钙钛矿太阳能电池",
-          "光电转换效率",
-          "世界纪录"
+          "刘强",
+          "山东省委",
+          "副书记"
         ],
-        "hot_score": 94,
-        "link": "https://m.thepaper.cn/detail/33579317",
+        "hot_score": 99,
+        "link": "https://m.thepaper.cn/detail/33581404",
         "domain": "国内"
       },
       {
         "source": "澎湃新闻",
-        "publish_time": "2026-07-13",
-        "origin_title": "香港资深电影制作人施南生离世，享年75岁",
-        "show_content": "据多家香港媒体报道，香港资深电影人施南生于7月13日在养和医院离世，享年75岁。施南生是香港资深电影制作人，曾与导演徐克被誉为“影坛神雕侠侣”。",
+        "publish_time": "2026-07-14",
+        "origin_title": "马兴瑞被“双开”",
+        "show_content": "新华社7月14日消息，经中央纪委常委会会议研究并报中央政治局会议审议，决定给予马兴瑞开除党籍处分，由国家监委给予其开除公职处分。",
         "tags": [
-          "施南生",
-          "离世",
-          "电影制作人"
+          "马兴瑞",
+          "开除党籍",
+          "开除公职"
         ],
-        "hot_score": 94,
-        "link": "https://m.thepaper.cn/detail/33578951",
-        "domain": "国内"
-      },
-      {
-        "source": "澎湃新闻",
-        "publish_time": "2026-07-13",
-        "origin_title": "最新｜长沙市体育局负责人回应澎湃：有些情况还在核实",
-        "show_content": "长沙市体育局干部彭某某因占车位与闵某发生纠纷，经多次调解后于7月10日和解。体育局负责人表示部分情况仍在核实中。",
-        "tags": [
-          "车位纠纷",
-          "调解和解",
-          "情况核实"
-        ],
-        "hot_score": 93,
-        "link": "https://m.thepaper.cn/detail/33578685",
-        "domain": "国内"
-      },
-      {
-        "source": "澎湃新闻",
-        "publish_time": "2026-07-13",
-        "origin_title": "光明网评论员：“手搓”防汛APP的新闻，为何让人耳目一新？",
-        "show_content": "北京市一基层干部利用编程特长，自主开发了专属防汛APP。该程序收录了全区地灾隐患点、受威胁险户、包保人员等信息，可实时更新山体预警、雨情变化及群众转移状态，并支持直接跳转导航查看隐患点。",
-        "tags": [
-          "防汛APP",
-          "基层干部",
-          "地灾预警"
-        ],
-        "hot_score": 92,
-        "link": "https://m.thepaper.cn/detail/33578947",
-        "domain": "国内"
-      },
-      {
-        "source": "澎湃新闻",
-        "publish_time": "2026-07-13",
-        "origin_title": "麦浪中学生戏剧大赛开幕，百名少年在会昌过戏剧的夏天",
-        "show_content": "第四届麦浪中学生戏剧大赛于7月12日在江西会昌开幕，为期十天，共有来自全国多地及海外的一百多名中学生参与。该赛事由四年前学生自发组织，今年参赛人数和队伍数量均有增加，参与者背景多元。",
-        "tags": [
-          "戏剧大赛",
-          "中学生",
-          "会昌"
-        ],
-        "hot_score": 92,
-        "link": "https://m.thepaper.cn/detail/33577429",
+        "hot_score": 99,
+        "link": "https://m.thepaper.cn/detail/33581328",
         "domain": "国内"
       }
     ],
     "文娱": [
       {
         "source": "机核",
-        "publish_time": "2026-07-13",
+        "publish_time": "2026-07-14",
+        "origin_title": "《守望先锋》“璀璨排位赛”第二赛季将于7月15日正式开赛",
+        "show_content": "《守望先锋》“璀璨排位赛”第二赛季将于7月15日免费开启。该赛事面向钻石1及以上段位玩家，支持单人参赛。玩家完成指定对局任务可获得专属皮肤等奖励。",
+        "tags": [
+          "守望先锋",
+          "璀璨排位赛",
+          "第二赛季"
+        ],
+        "hot_score": 94,
+        "link": "https://www.gcores.com/articles/217119",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-14",
+        "origin_title": "《GTA5》在线模式现已实装“科兹中心豪劫”更新",
+        "show_content": "《GTA5》在线模式已实装“科兹中心豪劫”更新。玩家可联系角色费伯先生及拉夫·德·安吉利斯，开启新的抢劫任务，目标是在科兹中心夺取珍贵展品。",
+        "tags": [
+          "GTA5在线模式",
+          "科兹中心豪劫更新",
+          "游戏内容更新"
+        ],
+        "hot_score": 94,
+        "link": "https://www.gcores.com/articles/217118",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-14",
+        "origin_title": "《恶霸鲁尼》精神续作《阿吉菲尔德高中：震撼校园》定于8月12日发售",
+        "show_content": "《恶霸鲁尼》精神续作《阿吉菲尔德高中：震撼校园》将于8月12日发售。游戏设定于2000年代初期，玩家扮演新学生山姆，在高中最后三个月内协助朋友实施“震撼全校”计划。",
+        "tags": [
+          "游戏发售",
+          "校园题材",
+          "精神续作"
+        ],
+        "hot_score": 93,
+        "link": "https://www.gcores.com/articles/217120",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-14",
         "origin_title": "白话三国 第二回 曹孟德相府相马",
-        "show_content": "曹操在相府宴请群臣时，关羽因马匹有疾迟到。曹操听闻此事后有所考虑。",
+        "show_content": "曹操在相府宴请群臣时，关羽因马匹有疾迟到。曹操对此有所留意。",
         "tags": [
           "曹操",
           "关羽",
-          "迟到"
+          "相府宴请"
         ],
-        "hot_score": 87,
+        "hot_score": 70,
         "link": "https://www.gcores.com/radios/216321",
         "domain": "文娱"
       },
       {
         "source": "机核",
-        "publish_time": "2026-07-13",
+        "publish_time": "2026-07-14",
         "origin_title": "活动预告 | 二十世纪的乐器",
-        "show_content": "8月1日起，北京Pillbox俱乐部将举办为期五周的现代音乐史系列讲座。活动安排在每周六晚和周日下午，共十场，涵盖十个专题。具体日程、收费及主题详情可通过主办方官方渠道查询。",
+        "show_content": "一位音乐爱好者计划于8月1日起在北京Pillbox俱乐部举办系列讲座，主题为二十世纪现代音乐史，共十场，持续五周，每周六晚和周日下午各一场。详细日程及收费信息可参考俱乐部官方推送。",
         "tags": [
-          "现代音乐史讲座",
-          "Pillbox俱乐部",
-          "北京"
+          "音乐讲座",
+          "现代音乐史",
+          "北京Pillbox俱乐部"
         ],
-        "hot_score": 87,
+        "hot_score": 69,
         "link": "https://www.gcores.com/articles/217108",
         "domain": "文娱"
       },
       {
         "source": "机核",
-        "publish_time": "2026-07-13",
+        "publish_time": "2026-07-14",
         "origin_title": "一个镜头，一个道具，看穿 007 隐藏六十多年的秘密",
-        "show_content": "视频通过分析007系列电影中的镜头与道具变化，探讨该系列如何随时代发展而演变，展现其在跨越半个世纪中的持续吸引力。",
+        "show_content": "本期视频通过分析007系列中的特定镜头与道具，探讨该系列作品如何随时代变迁而演进，展现其跨越半个多世纪的持续吸引力。",
         "tags": [
           "007系列",
-          "时代变化",
-          "IP演变"
+          "影视分析",
+          "时代变迁"
         ],
-        "hot_score": 81,
+        "hot_score": 64,
         "link": "https://www.gcores.com/videos/217000",
         "domain": "文娱"
       },
       {
         "source": "机核",
-        "publish_time": "2026-07-13",
+        "publish_time": "2026-07-14",
         "origin_title": "第三阵营单人战役来袭,《风暴崛起》全新维提战役Demo与地图编辑器同步上线",
-        "show_content": "即时战略游戏《风暴崛起》发布全新内容，维提阵营单人战役Demo与地图编辑器同步上线。该作此前在Steam平台获得特别好评，社区对第三阵营战役内容持续关注。",
+        "show_content": "《风暴崛起》推出了第三阵营维提的单人战役Demo，并同步上线了地图编辑器。该作此前已登陆Steam并获得特别好评。",
         "tags": [
-          "风暴崛起",
-          "维提战役",
+          "《风暴崛起》",
+          "维提战役Demo",
           "地图编辑器"
         ],
-        "hot_score": 81,
+        "hot_score": 63,
         "link": "https://www.gcores.com/articles/217107",
         "domain": "文娱"
       },
       {
         "source": "机核",
-        "publish_time": "2026-07-13",
+        "publish_time": "2026-07-14",
         "origin_title": "《零秒：时光的归途》现已发售 首发折后38.4元",
-        "show_content": "Flyway Games开发的快节奏时停动作Roguelike游戏《零秒：时光的归途》已在Steam平台正式发售。游戏首发两周内可享受8折优惠，折后价格为38.4元，原价48元。此外，同步推出的还有支持者包和原声音乐集两款DLC，均定价22元，包含全部内容的豪华版捆绑包将享有更大折扣。",
+        "show_content": "Flyway Games宣布，快节奏时停动作Roguelike游戏《零秒：时光的归途》已正式登陆Steam平台，首发双周享八折优惠，售价38.4元。同步发售的还有支持者包与原声音乐集DLC。",
         "tags": [
-          "《零秒：时光的归途》",
-          "Steam发售",
+          "游戏发售",
+          "Steam平台",
           "首发优惠"
         ],
-        "hot_score": 81,
+        "hot_score": 63,
         "link": "https://www.gcores.com/articles/217106",
         "domain": "文娱"
       },
       {
         "source": "机核",
-        "publish_time": "2026-07-13",
+        "publish_time": "2026-07-14",
         "origin_title": "谁是好人，录音笔 VOL.740",
-        "show_content": "GPASS推出会员专享节目《录音笔》（VOL.740），内容为机核办公室日常记录，每期约十几分钟，形式包括碎碎念、暴言或日常对话，参与者不固定。",
+        "show_content": "《录音笔》是GPASS推出的一档会员专享节目，内容为机核办公室的日常记录，每期时长约十几分钟，参与人员和话题不固定。",
         "tags": [
-          "GPASS节目",
-          "会员专享",
-          "办公室记录"
+          "录音笔",
+          "GPASS",
+          "会员节目"
         ],
-        "hot_score": 80,
+        "hot_score": 62,
         "link": "https://www.gcores.com/radios/217105",
         "domain": "文娱"
       },
       {
         "source": "机核",
-        "publish_time": "2026-07-13",
+        "publish_time": "2026-07-14",
         "origin_title": "电影《侏罗纪公园》系列博士演员山姆·尼尔去世，享年78岁",
-        "show_content": "7月13日，外媒报道，曾在《侏罗纪公园》系列电影中饰演格兰特博士的演员山姆·尼尔于家中离世，享年78岁。",
+        "show_content": "7月13日，外媒报道曾在《侏罗纪公园》系列中饰演格兰特博士的演员山姆·尼尔于家中去世，享年78岁。",
         "tags": [
           "山姆·尼尔",
           "去世",
           "侏罗纪公园"
         ],
-        "hot_score": 80,
+        "hot_score": 62,
         "link": "https://www.gcores.com/articles/217104",
-        "domain": "文娱"
-      },
-      {
-        "source": "机核",
-        "publish_time": "2026-07-13",
-        "origin_title": "纪念《女神异闻录3》发售20周年&《女神异闻录3 Reload》销量破300万份，Atlus公布副岛成记贺图",
-        "show_content": "7月13日，Atlus为纪念《女神异闻录3》发售20周年及《女神异闻录3 Reload》全球销量突破300万份，公布了角色设计师副岛成记绘制的贺图及一支特别纪念MV。",
-        "tags": [
-          "女神异闻录3",
-          "Atlus",
-          "贺图"
-        ],
-        "hot_score": 77,
-        "link": "https://www.gcores.com/articles/217102",
-        "domain": "文娱"
-      },
-      {
-        "source": "机核",
-        "publish_time": "2026-07-13",
-        "origin_title": "【抽奖】土耳其教授单人研发5年，历史4X游戏《帝国的夙愿》今日正式发售",
-        "show_content": "由土耳其教授单人研发的历史4X策略游戏《帝国的夙愿》于7月13日正式发售，国区首发优惠价49.5元。该游戏由电子羊游戏发行。",
-        "tags": [
-          "帝国的夙愿",
-          "历史4X游戏",
-          "正式发售"
-        ],
-        "hot_score": 76,
-        "link": "https://www.gcores.com/articles/217095",
-        "domain": "文娱"
-      },
-      {
-        "source": "机核",
-        "publish_time": "2026-07-13",
-        "origin_title": "【抽奖】双主角幻想 ARPG《星之旅》将于7 月 29 日登陆 PC，一同踏上星之旅",
-        "show_content": "《星之旅》是一款由月相仪工作室开发、Imperfect Games发行的手绘等距视角ARPG，主打双主角玩法。游戏将于2026年7月29日在Steam平台登陆PC，玩家将扮演两位少女艾芙与卢恩，踏上净化破碎世界的冒险旅途。",
-        "tags": [
-          "《星之旅》",
-          "ARPG",
-          "Steam"
-        ],
-        "hot_score": 75,
-        "link": "https://www.gcores.com/articles/217091",
         "domain": "文娱"
       }
     ],
     "国际": [
       {
         "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "Trump reinstating naval blockade of Iranian ports",
-        "show_content": "美国方面表示，将恢复对伊朗港口的海上封锁，并宣布对经霍尔木兹海峡运输的所有货物征收20%的通行费。这一举措可能对地区贸易和能源运输产生直接影响。",
+        "publish_time": "2026-07-14",
+        "origin_title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+        "show_content": "美国对伊朗发动连续第三晚的军事打击，此前特朗普宣布对霍尔木兹海峡实施封锁，并征收20%费用。阿联酋谴责伊朗对油轮的袭击行为。",
         "tags": [
-          "伊朗",
-          "海上封锁",
-          "通行费"
+          "美伊冲突",
+          "霍尔木兹海峡",
+          "阿联酋谴责"
         ],
         "hot_score": 100,
         "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
@@ -586,128 +586,128 @@
       },
       {
         "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-        "show_content": "一名英国男子描述了在西班牙驾车逃离山火的经历，其妻子和朋友在试图逃跑时遇难。据称，一场毁灭性的山火席卷了他们所在的村庄。",
+        "publish_time": "2026-07-14",
+        "origin_title": "Colombian national killed by ICE agent during operation in Maine",
+        "show_content": "一名哥伦比亚公民在美国缅因州的移民执法行动中被ICE特工击毙。此前不到一周，休斯顿也有一名无证移民遭移民特工致命枪击。",
         "tags": [
-          "英国男子",
-          "西班牙山火",
-          "人员遇难"
+          "移民执法",
+          "致命枪击",
+          "哥伦比亚公民"
         ],
-        "hot_score": 96,
-        "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+        "hot_score": 95,
+        "link": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
         "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "show_content": "巴黎附近枫丹白露森林发生大规模火灾，已持续燃烧第二天。当地一家骑术中心在火势逼近时紧急疏散了马匹。官方描述此次火情规模'异常'。",
+        "publish_time": "2026-07-14",
+        "origin_title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
+        "show_content": "悉尼一名托儿所工作人员哈米什·泰特面临329项儿童虐待指控，被控在16年间于五家托儿所虐待136名儿童。",
         "tags": [
-          "枫丹白露森林火灾",
-          "马匹疏散",
-          "巴黎附近"
+          "儿童虐待指控",
+          "悉尼托儿所",
+          "哈米什·泰特"
         ],
-        "hot_score": 94,
-        "link": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&at_campaign=rss",
+        "hot_score": 95,
+        "link": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
         "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
-        "show_content": "英国与瑞士签署了一项新的服务协议。据英方表示，该协议旨在取消漫游费并允许英国公民使用电子通关门，预计长期将使英国每年出口额增加52亿英镑。",
-        "tags": [
-          "英国",
-          "瑞士",
-          "服务协议"
-        ],
-        "hot_score": 93,
-        "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
-        "show_content": "曼谷乍都乍区一家酒吧发生火灾，消防员抵达时发现顾客正穿过火焰逃生。事件造成至少28人死亡，25人严重受伤。",
-        "tags": [
-          "曼谷酒吧火灾",
-          "人员伤亡",
-          "乍都乍区"
-        ],
-        "hot_score": 91,
-        "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "Irish police to engage with Jordanian force in murder investigation",
-        "show_content": "爱尔兰警方本周在凯里郡基拉尼一处房产内发现了杰米·卡尼的遗体。目前，爱尔兰警方正就该案与约旦警方展开合作调查。",
-        "tags": [
-          "爱尔兰警方",
-          "凶杀调查",
-          "国际合作"
-        ],
-        "hot_score": 86,
-        "link": "https://www.bbc.co.uk/news/articles/c621p1zne6qo?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
-        "show_content": "演员萨姆·尼尔去世，享年78岁。其演艺生涯长达五十年，参演了众多影视作品。",
-        "tags": [
-          "萨姆·尼尔",
-          "去世",
-          "演艺生涯"
-        ],
-        "hot_score": 86,
-        "link": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-13",
+        "publish_time": "2026-07-14",
         "origin_title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-        "show_content": "演员萨姆·尼尔去世，享年78岁。他的离世被形容为“突然且出乎意料”。友人、政治人物及电影界同仁纷纷向其表达哀悼与追思。",
+        "show_content": "演员萨姆·尼尔因突发意外去世，享年78岁。其生前参演的《侏罗纪公园》等作品广为人知。社会各界人士对其逝世表示哀悼。",
         "tags": [
           "萨姆·尼尔",
           "演员去世",
-          "悼念"
+          "社会反响"
         ],
-        "hot_score": 85,
+        "hot_score": 95,
         "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
         "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "German court convicts Iraqi couple of enslaving Yazidi girls",
-        "show_content": "德国一家法院裁定一对伊拉克夫妇奴役雅兹迪女孩罪名成立。这对夫妇仅被透露姓名为Twana H.S.和Asia R. A.，于2015年离开德国前往伊拉克，并加入伊斯兰国组织。",
+        "publish_time": "2026-07-14",
+        "origin_title": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
+        "show_content": "印度环境活动人士已持续绝食16天，体重下降8.2公斤，身体状况明显虚弱，引发健康担忧。",
         "tags": [
-          "德国法院",
-          "伊拉克夫妇",
-          "雅兹迪女孩"
+          "印度活动人士",
+          "绝食抗议",
+          "健康状况"
         ],
-        "hot_score": 85,
-        "link": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+        "hot_score": 88,
+        "link": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
         "source": "BBC",
-        "publish_time": "2026-07-13",
-        "origin_title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
-        "show_content": "苏丹快速支援部队指挥官穆罕默德·哈姆丹·达加洛被缺席判处死刑，同案还有15名指挥官及盟友因战争罪被定罪。",
+        "publish_time": "2026-07-14",
+        "origin_title": "Lindsey Graham's sister chosen as replacement after senator's death",
+        "show_content": "南卡罗来纳州州长在参议员林赛·格雷厄姆于周六去世后，选择其妹妹接替其职务，完成剩余任期。",
         "tags": [
-          "苏丹快速支援部队",
-          "缺席审判",
-          "战争罪"
+          "林赛·格雷厄姆",
+          "南卡罗来纳州",
+          "职务接替"
+        ],
+        "hot_score": 87,
+        "link": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-14",
+        "origin_title": "Hungary parliament votes to remove president from office",
+        "show_content": "匈牙利议会投票罢免了总统塔马斯·舒尤克。舒尤克被普遍视为前总理维克托·欧尔班的支持者，欧尔班在执政16年后于今年4月失去了权力。",
+        "tags": [
+          "匈牙利议会",
+          "总统罢免",
+          "塔马斯·舒尤克"
         ],
         "hot_score": 85,
-        "link": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-14",
+        "origin_title": "Wildfire raging south of Paris could have been set deliberately, says minister",
+        "show_content": "法国内政部长表示，巴黎南部发生的野火可能为人为纵火，已有两人被捕。目前火势仍在持续，具体原因正在调查中。",
+        "tags": [
+          "巴黎野火",
+          "人为纵火",
+          "人员被捕"
+        ],
+        "hot_score": 84,
+        "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-14",
+        "origin_title": "Man wanted in connection with murder arrested in Jordan",
+        "show_content": "一名涉嫌谋杀案的男子在约旦被捕。受害者 Jamey Carney 的遗体上周在凯里郡基拉尼的一处房产内被发现。",
+        "tags": [
+          "谋杀案嫌疑人",
+          "约旦被捕",
+          "凯里郡"
+        ],
+        "hot_score": 83,
+        "link": "https://www.bbc.co.uk/news/articles/c621p1zne6qo?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-14",
+        "origin_title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+        "show_content": "英国男子马尔科姆·廷布雷尔的妻子及友人据信在西班牙一场毁灭性野火中丧生。当时大火席卷了他们所在的村庄。",
+        "tags": [
+          "西班牙野火",
+          "人员伤亡",
+          "幸存者叙述"
+        ],
+        "hot_score": 79,
+        "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       }
     ]

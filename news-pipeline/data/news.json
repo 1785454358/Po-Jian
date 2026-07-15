@@ -1,288 +1,429 @@
 {
-  "updated_at": "2026-07-15T04:12:44.351650+00:00",
+  "updated_at": "2026-07-15T14:44:32.819001+00:00",
   "domains": {
     "科技": [
       {
         "source": "Hacker News",
         "publish_time": "2026-07-15",
-        "origin_title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-        "show_content": "温哥华警察局网站新增快速逃离按钮功能，用户点击后可立即清除浏览器历史记录。该功能旨在为家暴受害者等群体提供隐蔽求助渠道，避免施暴者发现访问痕迹。",
+        "origin_title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+        "show_content": "2023年一项研究指出，睡眠规律性相比睡眠时长，是更强的死亡风险预测指标。该研究强调了保持规律作息对健康的重要性。",
         "tags": [
-          "温哥华警察局",
-          "网站功能",
-          "家暴求助"
+          "睡眠规律性",
+          "死亡风险",
+          "健康研究"
         ],
         "hot_score": 100,
-        "link": "https://vpd.ca/",
+        "link": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
         "domain": "科技"
       },
       {
         "source": "Hacker News",
         "publish_time": "2026-07-15",
-        "origin_title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-        "show_content": "近日，名为Bonsai 27B的AI模型发布，该模型参数量为27B级别，官方宣称可在手机等移动设备上运行。",
+        "origin_title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
+        "show_content": "SpaceX发行的债券目前交易价格较发行价下跌约10%，市场分析显示其正面临评级可能被下调至垃圾债券级别的风险。",
         "tags": [
-          "Bonsai 27B模型",
-          "27B参数量",
-          "移动端运行"
+          "SpaceX",
+          "债券价格",
+          "信用评级"
         ],
         "hot_score": 100,
-        "link": "https://prismml.com/news/bonsai-27b",
+        "link": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
         "domain": "科技"
       },
       {
         "source": "Hacker News",
         "publish_time": "2026-07-15",
-        "origin_title": "Dependabot version updates introduce default package cooldown",
-        "show_content": "GitHub旗下的依赖管理工具Dependabot引入了默认包冷却期功能。该功能旨在为版本更新添加等待时间，避免在软件包发布后立即自动升级。此项更新主要面向使用Dependabot进行依赖管理的开发者。",
+        "origin_title": "Jurassic Park computers in excruciating detail",
+        "show_content": "报道对《侏罗纪公园》电影中使用的计算机技术进行了详细分析，展示了影片在90年代初如何通过前沿的计算机图形和渲染技术实现恐龙等特效的逼真呈现。",
         "tags": [
-          "Dependabot",
-          "版本更新",
-          "包冷却期"
+          "侏罗纪公园",
+          "计算机图形",
+          "电影特效"
         ],
         "hot_score": 100,
-        "link": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+        "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+        "domain": "科技"
+      },
+      {
+        "source": "Solidot",
+        "publish_time": "2026-07-15",
+        "origin_title": "第二次怀孕会以新方式改变大脑",
+        "show_content": "《Nature Communications》刊发研究显示，二次怀孕会以不同于首次的方式改变大脑。研究人员对110名女性进行长期追踪扫描发现，首次怀孕对大脑默认模式网络影响最大，涉及自我反思等功能；二次怀孕期间该网络变化较轻，但注意力引导和感官信息反应相关网络变化更显著。",
+        "tags": [
+          "大脑变化",
+          "怀孕",
+          "神经科学"
+        ],
+        "hot_score": 93,
+        "link": "https://www.solidot.org/story?sid=84838",
         "domain": "科技"
       },
       {
         "source": "Hacker News",
         "publish_time": "2026-07-15",
-        "origin_title": "The Tower Keeps Rising",
-        "show_content": "该建筑项目持续推进，结构高度持续增长。目前工程进展顺利，未报告重大延误或安全问题。项目团队按计划进行施工。",
+        "origin_title": "Prioritize mental health, and why communication is so important",
+        "show_content": "该标题强调心理健康的重要性及沟通的关键作用，倡导将心理健康置于优先位置，并阐明有效沟通的必要性。",
         "tags": [
-          "建筑施工",
-          "工程进展",
-          "结构高度"
+          "心理健康",
+          "沟通",
+          "优先级"
         ],
-        "hot_score": 100,
-        "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-        "domain": "科技"
-      },
-      {
-        "source": "Hacker News",
-        "publish_time": "2026-07-15",
-        "origin_title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-        "show_content": "有安全研究人员公开披露了Cursor编辑器的一个零日漏洞，指出该漏洞可能被利用来执行远程代码。目前相关方面正在评估影响范围并准备修复方案。",
-        "tags": [
-          "Cursor编辑器",
-          "零日漏洞",
-          "远程代码执行"
-        ],
-        "hot_score": 100,
-        "link": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-        "domain": "科技"
-      },
-      {
-        "source": "Hacker News",
-        "publish_time": "2026-07-15",
-        "origin_title": "Financing the AI boom: from cash flows to debt [pdf]",
-        "show_content": "报道探讨人工智能行业资金来源的演变。该行业正经历从依赖内部现金流转向更多利用债务工具进行融资的变化。",
-        "tags": [
-          "人工智能",
-          "融资方式",
-          "债务工具"
-        ],
-        "hot_score": 100,
-        "link": "https://www.bis.org/publ/bisbull120.pdf",
-        "domain": "科技"
-      },
-      {
-        "source": "Hacker News",
-        "publish_time": "2026-07-15",
-        "origin_title": "How I use HTMX with Go",
-        "show_content": "开发者分享了如何将HTMX与Go语言结合使用的技术经验。文章介绍了具体的实现方法和应用场景，为前端与后端技术整合提供了实践参考。",
-        "tags": [
-          "HTMX",
-          "Go语言",
-          "技术整合"
-        ],
-        "hot_score": 100,
-        "link": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-        "domain": "科技"
-      },
-      {
-        "source": "Hacker News",
-        "publish_time": "2026-07-15",
-        "origin_title": "Data centers have hiked electricity prices on the public by $23B",
-        "show_content": "报告显示，数据中心扩张推高美国居民电费，累计增加支出达230亿美元。分析指出，数据中心高耗电特性导致区域电力需求上升，进而传导至电价。",
-        "tags": [
-          "数据中心",
-          "电价上涨",
-          "230亿美元"
-        ],
-        "hot_score": 100,
-        "link": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
+        "hot_score": 93,
+        "link": "https://ramones.dev/posts/mental-health/",
         "domain": "科技"
       },
       {
         "source": "爱范儿",
         "publish_time": "2026-07-15",
-        "origin_title": "苹果想要「掐死」OpenAI 手机",
-        "show_content": "苹果在智能手机市场竞争中面临新的挑战。面对OpenAI等科技公司在移动领域的布局，苹果正采取策略应对这一竞争态势。",
+        "origin_title": "实测 PixVerse Game：当游戏可以「随玩随做」，是什么体验",
+        "show_content": "AI视频生成平台PixVerse推出新产品PixVerse Game，将“创造即游玩”理念融入产品设计，让用户能在游戏体验中进行内容创作。",
         "tags": [
-          "苹果",
-          "OpenAI",
-          "智能手机市场竞争"
+          "PixVerse",
+          "AI视频生成",
+          "游戏化创作"
         ],
-        "hot_score": 99,
-        "link": "https://www.ifanr.com/1672040?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "hot_score": 92,
+        "link": "https://www.ifanr.com/1672092?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "domain": "科技"
+      },
+      {
+        "source": "Solidot",
+        "publish_time": "2026-07-15",
+        "origin_title": "纽约州禁止建造大型数据中心一年",
+        "show_content": "纽约州暂停建造用电量50兆瓦及以上的大型数据中心，为期一年。该州成为美国首个实施此类禁令的州。近期，美国多地民众因污染风险、能源成本和水资源问题对数据中心建设表示担忧。佛蒙特州参议员桑德斯等已提案寻求全国范围禁令，但特朗普政府持反对态度。",
+        "tags": [
+          "纽约州",
+          "数据中心禁令",
+          "美国能源政策"
+        ],
+        "hot_score": 91,
+        "link": "https://www.solidot.org/story?sid=84837",
+        "domain": "科技"
+      },
+      {
+        "source": "爱范儿",
+        "publish_time": "2026-07-15",
+        "origin_title": "雷军详解澎程 N90 七座布局：前两排做客厅，第三排多坐一人",
+        "show_content": "小米创始人雷军介绍了澎程N90的七座布局设计理念，将前两排定位为客厅风格，第三排则比传统布局多容纳一名乘客。",
+        "tags": [
+          "雷军",
+          "澎程N90",
+          "七座布局"
+        ],
+        "hot_score": 90,
+        "link": "https://www.ifanr.com/1672080?utm_source=rss&utm_medium=rss&utm_campaign=",
         "domain": "科技"
       },
       {
         "source": "少数派",
         "publish_time": "2026-07-15",
-        "origin_title": "角落新声｜从桌面「长」出来的创业空间，我靠这些好物「偷」一点清闲",
-        "show_content": "「角落新声」征文活动由声擎冠名，邀请读者分享理想放松空间。本文为入围文章，展示作者打造的桌面创业空间及相关好物。活动投稿截止日期为8月7日。",
+        "origin_title": "Leitra 诞生记：一次未完成的实践",
+        "show_content": "Leitra 是一款受马格南摄影师创作方式启发的策展工具，旨在为数码照片生成接触样张和图像序列。其名称源自摄影师索尔·雷特，工具设计关注图像间的联系与停顿，探索与现实互动的创作方式。",
         "tags": [
-          "征文活动",
-          "桌面空间",
-          "好物分享"
+          "Leitra",
+          "策展工具",
+          "数码照片"
         ],
-        "hot_score": 98,
-        "link": "https://sspai.com/post/112243",
+        "hot_score": 89,
+        "link": "https://sspai.com/post/112077",
+        "domain": "科技"
+      },
+      {
+        "source": "Solidot",
+        "publish_time": "2026-07-15",
+        "origin_title": "Linux 内核不反对使用 AI 工具",
+        "show_content": "Linux 内核项目负责人 Linus Torvalds 在邮件列表中表示，该项目不反对使用 AI 工具，并强调其决策主要基于技术优势。他指出，AI 作为有用工具可能给维护者带来挑战，但应通过合理应用来解决，而非简单禁止。",
+        "tags": [
+          "Linux内核",
+          "AI工具",
+          "Linus Torvalds"
+        ],
+        "hot_score": 89,
+        "link": "https://www.solidot.org/story?sid=84836",
         "domain": "科技"
       }
     ],
-    "经济": [],
+    "经济": [
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-15",
+        "origin_title": "二手豪华燃油车，价格“大跳水”",
+        "show_content": "二手豪华燃油车市场近期价格出现显著下滑。据行业从业者反映，6月份部分车型价格呈现断崖式下跌，与3月相比，本地二手燃油豪车价格普遍下降约20%。",
+        "tags": [
+          "二手豪华车",
+          "价格下跌",
+          "市场行情"
+        ],
+        "hot_score": 100,
+        "link": "https://www.huxiu.com/article/4875614.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-15",
+        "origin_title": "为什么低GI食品，成了智商税的新战场？",
+        "show_content": "近日有报道指出，部分商超中低GI食品存在概念滥用与检测失范现象，一些产品以低GI为营销噱头，实际可能为高热高盐食品，引发对低GI食品市场的关注。",
+        "tags": [
+          "低GI食品",
+          "市场规范",
+          "食品安全"
+        ],
+        "hot_score": 100,
+        "link": "https://www.huxiu.com/article/4875613.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-15",
+        "origin_title": "当AI开始自己造自己",
+        "show_content": "近期，“递归自我改进”（RSI）成为AI界焦点。该概念指AI介入自身改进，形成能力提升与研发增强的正反馈循环，有望推动AI能力指数级增长。",
+        "tags": [
+          "递归自我改进",
+          "AI能力",
+          "正反馈循环"
+        ],
+        "hot_score": 99,
+        "link": "https://www.huxiu.com/article/4875609.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-15",
+        "origin_title": "物理AI底座战争：美国公司General Intuition用游戏录像训练机器人，估值23亿美元",
+        "show_content": "2026年7月，美国公司General Intuition完成3.2亿美元A轮融资，估值达23亿美元。该公司专注于机器人智能开发，成立未满一年，总部位于纽约。",
+        "tags": [
+          "机器人智能",
+          "融资",
+          "估值"
+        ],
+        "hot_score": 99,
+        "link": "https://www.huxiu.com/article/4875607.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-15",
+        "origin_title": "你明明很努力，为什么却一直原地踏步？",
+        "show_content": "新闻探讨了不同学习者在投入相同时间精力后进步速度差异的现象，指出这涉及天赋与训练的复杂关系，并提及心理学界对此的长期辩论。",
+        "tags": [
+          "学习效率",
+          "天赋与训练",
+          "心理学研究"
+        ],
+        "hot_score": 99,
+        "link": "https://www.huxiu.com/article/4875606.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-15",
+        "origin_title": "正在消失的麦田：全球粮食危机酝酿中？",
+        "show_content": "2026年7月，霍尔木兹海峡与刻赤海峡航运受阻。美伊冲突导致霍尔木兹海峡通行风险上升，俄罗斯则宣布继续暂停刻赤海峡双向通行。",
+        "tags": [
+          "霍尔木兹海峡",
+          "刻赤海峡",
+          "航运中断"
+        ],
+        "hot_score": 99,
+        "link": "https://www.huxiu.com/article/4875605.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-15",
+        "origin_title": "柠季买哈根达斯：交易锚点在哪里，未来考验有哪些｜独家",
+        "show_content": "柠季作为普通合伙人（GP），计划将哈根达斯中国门店从当前269家扩张至未来三年1000家，此前曾提出更激进的3000家目标。",
+        "tags": [
+          "柠季",
+          "哈根达斯",
+          "门店扩张"
+        ],
+        "hot_score": 99,
+        "link": "https://www.huxiu.com/article/4875604.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-15",
+        "origin_title": "今天的夜店DJ到底应该放什么歌？",
+        "show_content": "一段中国夜店播放《We are Charlie Kirk（DJ版）》的视频在推特获得数千万观看量，引发关注。视频中现场观众在歌曲带动下热情蹦迪。",
+        "tags": [
+          "夜店音乐",
+          "社交媒体",
+          "病毒视频"
+        ],
+        "hot_score": 99,
+        "link": "https://www.huxiu.com/article/4875603.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-15",
+        "origin_title": "阶跃造手机：48小时，7张备案，一个窗口期的消亡",
+        "show_content": "7月15日，网信办公示新一批深度合成服务算法备案，包括苹果、华为、小米等七家手机厂商。此次备案名单中未见第三方模型公司，反映出端侧AI领域的准入规则变化。",
+        "tags": [
+          "算法备案",
+          "手机厂商",
+          "端侧AI"
+        ],
+        "hot_score": 98,
+        "link": "https://www.huxiu.com/article/4875601.html",
+        "domain": "经济"
+      },
+      {
+        "source": "虎嗅",
+        "publish_time": "2026-07-15",
+        "origin_title": "理想掉头、小米逆行：增程告别“黄金时代”",
+        "show_content": "小米汽车近日官宣全新增程式大空间SUV产品系列SkyNomad，中文定名“澎程”。同期，乘联分会数据显示，2026年上半年国内增程车型批发销量为50.4万辆，同比下滑13.1%；6月批发量创近五年最大单月跌幅。",
+        "tags": [
+          "小米汽车",
+          "增程车型",
+          "销量下滑"
+        ],
+        "hot_score": 98,
+        "link": "https://www.huxiu.com/article/4875597.html",
+        "domain": "经济"
+      }
+    ],
     "国内": [
       {
         "source": "澎湃新闻",
         "publish_time": "2026-07-15",
-        "origin_title": "松花江涨水小猫被困江心，无人机飞手耗时一个多小时成功营救",
-        "show_content": "7月14日，吉林省吉林市，松花江涨水致一只小猫被困江心。高女士与丈夫利用无人机吊篮，耗时一个多小时成功将猫救上岸。",
+        "origin_title": "终端价格理性回升！圆通申通韵达二季度净利大涨，上半年至少赚50亿元",
+        "show_content": "圆通、申通、韵达三家快递公司发布业绩预增公告，预计上半年净利润合计超过49.55亿元。其中，圆通预计归母净利润31至34亿元，申通预计9.5至10.6亿元，韵达预计9.05至10.5亿元，均实现同比增长。",
         "tags": [
-          "小猫被困",
-          "无人机救援",
-          "松花江涨水"
+          "快递公司",
+          "业绩预增",
+          "净利润"
         ],
         "hot_score": 100,
-        "link": "https://m.thepaper.cn/detail/33589009",
+        "link": "https://m.thepaper.cn/detail/33593417",
         "domain": "国内"
       },
       {
         "source": "澎湃新闻",
         "publish_time": "2026-07-15",
-        "origin_title": "广西贵港：居民突发重度中暑，多支救援队轮番开展物理降温",
-        "show_content": "7月13日，广西贵港一名群众突发重度中暑。巨野斑马应急救援队等多支救援力量迅速将其转移至阴凉帐篷，轮番进行物理降温与补水。伤者恢复意识后由120救护车送往医院救治。",
+        "origin_title": "四川宝兴：一旅游车坠入河滩，多部门赶往现场救援",
+        "show_content": "7月15日19时许，四川省宝兴县境内一辆成都牌照中型旅游车冲出路基坠入河滩。事发后，当地公安、消防、应急和急救等部门赶赴现场救援，有人员被救出时情况危急。",
         "tags": [
-          "重度中暑",
-          "应急救援",
-          "物理降温"
+          "旅游车坠河",
+          "宝兴救援",
+          "人员危急"
         ],
-        "hot_score": 100,
-        "link": "https://m.thepaper.cn/detail/33585222",
+        "hot_score": 99,
+        "link": "https://m.thepaper.cn/detail/33593964",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-15",
+        "origin_title": "长鑫科技董事长朱一明：上市既是新起点，更是新责任",
+        "show_content": "7月15日，长鑫科技董事长朱一明表示，上市既是新起点，更是新责任，公司将增强市场需求保障能力，努力建设具有全球影响力的半导体存储企业。",
+        "tags": [
+          "长鑫科技",
+          "朱一明",
+          "上市"
+        ],
+        "hot_score": 99,
+        "link": "https://m.thepaper.cn/detail/33593773",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-15",
+        "origin_title": "图集丨习近平在上海考察",
+        "show_content": "7月15日，中共中央总书记、国家主席、中央军委主席习近平在上海考察。期间，他在黄浦区半淞园路街道市民新村居民区考察时，与社区综合服务点工作人员亲切交流。",
+        "tags": [
+          "习近平",
+          "上海考察",
+          "社区交流"
+        ],
+        "hot_score": 99,
+        "link": "https://m.thepaper.cn/detail/33593576",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-15",
+        "origin_title": "IP成为产业增长密钥，逾2000个IP亮相全球授权展",
+        "show_content": "2026全球授权展・上海站于7月15日开幕，展览面积达53000平方米，汇聚420余家展商及超2000个全球IP，覆盖动漫、影视、游戏、文博、潮流文创等领域。",
+        "tags": [
+          "全球授权展",
+          "IP授权",
+          "上海"
+        ],
+        "hot_score": 99,
+        "link": "https://m.thepaper.cn/detail/33591235",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-15",
+        "origin_title": "一图读懂｜上海市家门口养老服务站怎么建？提供哪些服务？",
+        "show_content": "上海市民政局修订《上海市家门口养老服务站设置指引》，在15分钟服务圈基础上升级站点功能，提供微日托、微助餐等基本服务，满足老年人家门口养老需求。",
+        "tags": [
+          "上海",
+          "养老服务站",
+          "政策指引"
+        ],
+        "hot_score": 99,
+        "link": "https://m.thepaper.cn/detail/33593148",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-15",
+        "origin_title": "中报净利预增逾七倍！荣盛石化上半年大赚超50亿",
+        "show_content": "荣盛石化发布2026年上半年业绩预告，预计归母净利润为50亿元至52亿元，同比增长730.45%至763.67%。公司表示，主要受益于石油化工行业回暖、产品毛利改善以及全产业链优势。",
+        "tags": [
+          "荣盛石化",
+          "业绩预告",
+          "净利润增长"
+        ],
+        "hot_score": 98,
+        "link": "https://m.thepaper.cn/detail/33593443",
+        "domain": "国内"
+      },
+      {
+        "source": "澎湃新闻",
+        "publish_time": "2026-07-15",
+        "origin_title": "支付机构再收巨额罚单：成都摩宝被罚没合计超2942万元",
+        "show_content": "中国人民银行四川省分行对成都摩宝网络科技有限公司作出行政处罚，没收违法所得806.424491万元，罚款2136.5万元，违法行为涉及账户、清算及商户管理规定，并对相关责任人汤某东罚款64万元。",
+        "tags": [
+          "支付机构处罚",
+          "成都摩宝",
+          "央行罚单"
+        ],
+        "hot_score": 98,
+        "link": "https://m.thepaper.cn/detail/33593036",
         "domain": "国内"
       },
       {
         "source": "联合早报-中国",
         "publish_time": "2026-07-15",
-        "origin_title": "美媒：歼15T挂四反舰导弹起飞 福建舰突破满载限制",
-        "show_content": "据美国军事媒体报道，一张互联网照片显示，解放军歼-15T舰载战斗机首次同时挂载四枚鹰击-83K反舰导弹，并从福建舰上成功弹射起飞。",
+        "origin_title": "美大学研究团队用宇树科技人形机器人 完成活体外科手术",
+        "show_content": "美国加州大学圣迭戈分校研究团队利用中国企业宇树科技的G1人形机器人，成功为两头活猪完成腹腔镜胆囊切除手术。该研究是全球首例使用人形机器人完成的活体手术，相关论文已发表于国际顶级期刊《自然》。",
         "tags": [
-          "歼-15T",
-          "福建舰",
-          "反舰导弹"
+          "人形机器人",
+          "活体手术",
+          "宇树科技"
         ],
-        "hot_score": 99,
-        "link": "https://www.zaobao.com/news/china/story20260715-9366491",
+        "hot_score": 97,
+        "link": "https://www.zaobao.com/news/china/story20260715-9370179",
         "domain": "国内"
       },
       {
-        "source": "澎湃新闻",
+        "source": "联合早报-中国",
         "publish_time": "2026-07-15",
-        "origin_title": "中菲执法部门合作遣返1名涉赌涉诈嫌疑人，涉案金额数亿元",
-        "show_content": "近日，中菲执法部门合作抓获并遣返一名涉嫌组织跨境赌博、电信诈骗的逃犯林某。该犯罪集团在菲律宾、柬埔寨设立窝点，通过赌博网站及色情诱导APP实施犯罪，涉案金额数亿元。双方将继续加大执法合作，打击跨国犯罪。",
+        "origin_title": "中国6月新房价格持续下跌 跌幅收窄",
+        "show_content": "中国国家统计局数据显示，6月70个大中城市新房价格环比下降0.1%，跌幅较5月收窄。上半年房地产开发投资额等指标呈负增长，房企到位资金跌幅扩大。",
         "tags": [
-          "跨境赌博",
-          "电信诈骗",
-          "执法合作"
+          "新房价格",
+          "跌幅收窄",
+          "房地产开发投资"
         ],
-        "hot_score": 99,
-        "link": "https://m.thepaper.cn/detail/33589102",
-        "domain": "国内"
-      },
-      {
-        "source": "澎湃新闻",
-        "publish_time": "2026-07-15",
-        "origin_title": "特朗普召集会议讨论对伊朗大规模进攻计划",
-        "show_content": "据美国阿克西奥斯新闻网站报道，美国总统特朗普14日在白宫战情室召开会议，讨论对伊朗的大规模进攻计划，议题包括针对霍尔木兹海峡的伊朗目标及战略目标实施打击。会议讨论了扩大军事行动以迫使伊朗在核问题上做出让步的可能性。与会者包括副总统万斯、国务卿鲁比奥等高级官员。",
-        "tags": [
-          "特朗普",
-          "伊朗",
-          "军事打击"
-        ],
-        "hot_score": 99,
-        "link": "https://m.thepaper.cn/detail/33589094",
-        "domain": "国内"
-      },
-      {
-        "source": "澎湃新闻",
-        "publish_time": "2026-07-15",
-        "origin_title": "梅第扬×曾韵解锁MISA：在上海演新作，完全没压力",
-        "show_content": "今年上海夏季音乐节迎来柏林爱乐中提琴首席梅第扬和圆号首席曾韵两位新面孔，均首次参与该活动。他们在演出中展现精湛技艺，与音乐节氛围相融，吸引众多观众关注。",
-        "tags": [
-          "上海夏季音乐节",
-          "梅第扬",
-          "曾韵"
-        ],
-        "hot_score": 99,
-        "link": "https://m.thepaper.cn/detail/33586884",
-        "domain": "国内"
-      },
-      {
-        "source": "澎湃新闻",
-        "publish_time": "2026-07-15",
-        "origin_title": "郎朗专辑获国际大奖，他还要在世界杯活动奏响《茉莉花》",
-        "show_content": "德国古典音乐大奖Opus Klassik公布，郎朗凭借专辑《钢琴书2》获得“年度畅销专辑”奖。这是他继前作《圣-桑》后连续第二年获此奖项。该专辑2025年9月全球发行，收录32首曲目。",
-        "tags": [
-          "郎朗",
-          "Opus Klassik",
-          "钢琴书2"
-        ],
-        "hot_score": 99,
-        "link": "https://m.thepaper.cn/detail/33587469",
-        "domain": "国内"
-      },
-      {
-        "source": "澎湃新闻",
-        "publish_time": "2026-07-15",
-        "origin_title": "亿航回应裁员传闻：核心骨干团队保持稳定，组织效能优化与人才结构焕新属于正常管理动作",
-        "show_content": "7月15日，亿航智能回应裁员传闻称，公司基于AI提效背景进行组织效能优化与人才结构焕新，属正常管理动作。本次调整聚焦低绩效岗位，同时积极引进专业人才，核心骨干团队保持稳定。公司表示此举旨在提升人效、优化费用结构，为中长期发展奠定基础。",
-        "tags": [
-          "亿航智能",
-          "组织优化",
-          "人才结构"
-        ],
-        "hot_score": 99,
-        "link": "https://m.thepaper.cn/detail/33589030",
-        "domain": "国内"
-      },
-      {
-        "source": "澎湃新闻",
-        "publish_time": "2026-07-15",
-        "origin_title": "第九届鲁迅文学奖揭晓，上海实现翻译奖“零的突破”",
-        "show_content": "第九届鲁迅文学奖于7月15日在京揭晓，共评出35篇（部）获奖作品。上海作家薛舒的《生活在临终医院：最后的光阴》获散文杂文奖，戴从容译注的《芬尼根的守灵夜（三卷）》和袁筱一翻译的《战争，战争，战争》获文学翻译奖，实现了上海在该奖项上零的突破。颁奖典礼将于8月在上海举行。",
-        "tags": [
-          "鲁迅文学奖",
-          "上海作家",
-          "文学翻译奖"
-        ],
-        "hot_score": 99,
-        "link": "https://m.thepaper.cn/detail/33589029",
-        "domain": "国内"
-      },
-      {
-        "source": "澎湃新闻",
-        "publish_time": "2026-07-15",
-        "origin_title": "探营2026WAIC：走进上海“含AI量”最高的地方",
-        "show_content": "2026世界人工智能大会将于7月17日在上海世博、张江、西岸三地四馆同步开幕，主题为‘智能伙伴，共创未来’，展览面积超10万平方米，将有3000余项前沿技术成果集中展示，其中超300款AI产品将进行全球首发。",
-        "tags": [
-          "2026世界人工智能大会",
-          "上海",
-          "AI产品全球首发"
-        ],
-        "hot_score": 99,
-        "link": "https://m.thepaper.cn/detail/33582109",
+        "hot_score": 97,
+        "link": "https://www.zaobao.com/news/china/story20260715-9369211",
         "domain": "国内"
       }
     ],
@@ -290,28 +431,108 @@
       {
         "source": "机核",
         "publish_time": "2026-07-15",
-        "origin_title": "【抽奖】开放世界四人合作联机新作《灵伴世界》现已登陆Steam抢先体验",
-        "show_content": "芬兰独立游戏工作室 Bonobo Software 与发行商 Level Up Gaming 宣布，合作冒险 RPG《灵伴世界》（Taival）已登陆 Steam 开启抢先体验。游戏支持最多4人联机或本地合作，原价77元，首发八折优惠价61.6元，支持中文。",
+        "origin_title": "上海谍战风云录 第零期丨间谍往事",
+        "show_content": "该系列视频以陈赓大将晚年漫步为引，追溯从夏商周至清末民初的情报发展历程。内容涵盖历朝情报手段、皇权监察机构，并对比中西方早期情报体系，呈现上海在近代成为情报交锋核心舞台的过程。",
         "tags": [
-          "《灵伴世界》",
-          "Steam抢先体验",
-          "多人合作RPG"
+          "情报历史",
+          "上海谍战",
+          "监察体系"
         ],
-        "hot_score": 99,
+        "hot_score": 97,
+        "link": "https://www.gcores.com/radios/217103",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-15",
+        "origin_title": "洛阳三万里，录音笔 VOL.742",
+        "show_content": "洛阳三万里，录音笔 VOL.742 是 GPASS 推出的会员专享节目，内容来自机核办公室日常记录，每期时长约十几分钟，形式包括碎碎念、暴言或真实对话录音，参与者和内容不固定。",
+        "tags": [
+          "GPASS",
+          "会员专享",
+          "办公室记录"
+        ],
+        "hot_score": 89,
+        "link": "https://www.gcores.com/radios/217178",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-15",
+        "origin_title": "【抽奖】真人互动影游《主角》今日上线：入局谎言戏台",
+        "show_content": "真人互动影游《主角》于7月15日16:00登陆Steam平台全球首发，首发86折售价36.12元。该游戏由顶顶阳光开发，凤麟工作室与一相逢互动娱乐联合发行。",
+        "tags": [
+          "真人互动影游",
+          "Steam上线",
+          "游戏发行"
+        ],
+        "hot_score": 87,
+        "link": "https://www.gcores.com/articles/217177",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-15",
+        "origin_title": "元RPG《Attack Only: 唯有战斗》Steam 商店页面公开",
+        "show_content": "<img src=\"https://image.gcores.com/9b39d676a7e90218e34566f77b42bd01-1920-1080.png?x-oss-pr",
+        "tags": [],
+        "hot_score": 85,
+        "link": "https://www.gcores.com/articles/217136",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-15",
+        "origin_title": "《死亡空间》之父Glen Schofield宣布退休，结束35年游戏开发生涯",
+        "show_content": "知名游戏制作人Glen Schofield宣布从游戏开发一线退休，结束约35年的职业生涯。他曾主导《死亡空间》《使命召唤》系列及《木卫四协议》等作品的开发。",
+        "tags": [
+          "Glen Schofield",
+          "退休",
+          "游戏开发"
+        ],
+        "hot_score": 82,
+        "link": "https://www.gcores.com/articles/217174",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-15",
+        "origin_title": "【抽奖】开放世界四人合作联机新作《灵伴世界》现已登陆Steam抢先体验",
+        "show_content": "芬兰独立游戏工作室 Bonobo Software 与发行商 Level Up Gaming 宣布，合作冒险RPG《灵伴世界》（Taival）现已登陆Steam抢先体验。游戏支持最多4人联机或本地合作，原价77元人民币，首发八折特惠中。",
+        "tags": [
+          "灵伴世界",
+          "Steam抢先体验",
+          "合作冒险RPG"
+        ],
+        "hot_score": 78,
         "link": "https://www.gcores.com/articles/217166",
         "domain": "文娱"
       },
       {
         "source": "机核",
         "publish_time": "2026-07-15",
-        "origin_title": "《湮灭之潮》成都线下试玩会招募开启，主创团队携成都特色邀玩家赴约",
-        "show_content": "7月15日，《湮灭之潮》官方宣布开启首次线下试玩会·成都站全球招募，报名时间为7月15日至23日。活动计划于8月15日至16日在成都东郊记忆举行。",
+        "origin_title": "Vol.127 用逆练功法的思路走进八年后的《太吾绘卷: 天幕心帷》",
+        "show_content": "《太吾绘卷》自2018年首次发布至今已八年，期间经历了早期体验、正式版及近期推出的1.0完全版。该作品作为一款武侠角色扮演独立游戏，其持续改进与设计特点引发讨论。节目邀请爱好者劲哥，从游戏争议性特点出发探讨其设计意图与世界观构建。",
         "tags": [
-          "线下试玩会",
-          "成都站",
-          "全球招募"
+          "太吾绘卷",
+          "游戏更新",
+          "游戏讨论"
         ],
-        "hot_score": 98,
+        "hot_score": 77,
+        "link": "https://www.gcores.com/radios/217170",
+        "domain": "文娱"
+      },
+      {
+        "source": "机核",
+        "publish_time": "2026-07-15",
+        "origin_title": "《湮灭之潮》成都线下试玩会招募开启，主创团队携成都特色邀玩家赴约",
+        "show_content": "7月15日，《湮灭之潮》官方启动首次线下试玩会·成都站全球招募，报名时间为7月15日至7月23日。活动定于8月15日至16日在成都东郊记忆举行。",
+        "tags": [
+          "湮灭之潮",
+          "线下试玩会",
+          "成都"
+        ],
+        "hot_score": 77,
         "link": "https://www.gcores.com/articles/217141",
         "domain": "文娱"
       },
@@ -319,13 +540,13 @@
         "source": "机核",
         "publish_time": "2026-07-15",
         "origin_title": "总结过去，放眼未来：机核采访《空之轨迹 2nd》制作人近藤季洋",
-        "show_content": "《空之轨迹the 2nd》基于《空之轨迹SC》全面重制，将于2026年9月17日全球发售。Falcom社长近藤季洋在2026云豹新作发布会上同步了本作最新消息。",
+        "show_content": "《空之轨迹 the 2nd》将于2026年9月17日全球发售。该作基于《空之轨迹SC》全面重制，由Falcom社长近藤季洋在东京发布会上公布最新消息。",
         "tags": [
-          "空之轨迹the 2nd",
-          "Falcom",
+          "空之轨迹 the 2nd",
+          "重制版",
           "近藤季洋"
         ],
-        "hot_score": 96,
+        "hot_score": 75,
         "link": "https://www.gcores.com/articles/216959",
         "domain": "文娱"
       },
@@ -333,98 +554,14 @@
         "source": "机核",
         "publish_time": "2026-07-15",
         "origin_title": "Steam周销量排行榜:《刺客信条：黑旗 记忆重置》登顶|2026年7月第2周",
-        "show_content": "V社公布2026年7月第二周Steam全球销量排行榜。本周榜单中，《刺客信条：黑旗 记忆重置》位居榜首，《幻兽帕鲁》位列第二。该榜单排除免费游戏，旨在为玩家提供游戏及硬件选购参考。",
+        "show_content": "Steam公布了2026年7月第2周全球销量排行榜。本周《刺客信条：黑旗 记忆重置》位列第一，《幻兽帕鲁》排名第二。该榜单排除了免费游戏。",
         "tags": [
-          "Steam周销量榜",
+          "Steam销量榜",
           "刺客信条：黑旗 记忆重置",
           "幻兽帕鲁"
         ],
-        "hot_score": 95,
-        "link": "https://www.gcores.com/articles/217153",
-        "domain": "文娱"
-      },
-      {
-        "source": "机核",
-        "publish_time": "2026-07-15",
-        "origin_title": "真人电影《蓦然回首》公布正式预告片，9月11日上映",
-        "show_content": "是枝裕和执导的真人电影《蓦然回首》发布正式预告片，影片将于9月11日在日本上映。",
-        "tags": [
-          "《蓦然回首》",
-          "正式预告片",
-          "9月11日上映"
-        ],
-        "hot_score": 94,
-        "link": "https://www.gcores.com/articles/217157",
-        "domain": "文娱"
-      },
-      {
-        "source": "机核",
-        "publish_time": "2026-07-15",
-        "origin_title": "二战卡牌游戏《Kards》“击剑节”现已隆重开幕",
-        "show_content": "二战题材卡牌游戏《Kards》推出“击剑节”活动，持续至8月4日。活动期间包含每日奖励、特别活动、独家优惠及重温乱斗、参与新赛事等内容。",
-        "tags": [
-          "Kards",
-          "击剑节",
-          "游戏活动"
-        ],
-        "hot_score": 94,
-        "link": "https://www.gcores.com/articles/217152",
-        "domain": "文娱"
-      },
-      {
-        "source": "机核",
-        "publish_time": "2026-07-15",
-        "origin_title": "《鬼武者》现已推出性能测试软件",
-        "show_content": "《鬼武者》现已推出性能测试软件，玩家可在Steam平台点击加入游戏测试按钮下载，Epic平台可直接下载。该软件可展示游戏游玩内容并测试设备运行性能，测试结果以分数形式显示。",
-        "tags": [
-          "鬼武者",
-          "性能测试",
-          "卡普空"
-        ],
-        "hot_score": 94,
-        "link": "https://www.gcores.com/articles/217151",
-        "domain": "文娱"
-      },
-      {
-        "source": "机核",
-        "publish_time": "2026-07-15",
-        "origin_title": "《远征军：武士》定于8月7日以抢先体验发售",
-        "show_content": "THQ Nordic发行的团队制RPG游戏《远征军：武士》将于8月7日开启抢先体验。游戏背景设定于真实历史事件，包含分支剧情与角色选择。",
-        "tags": [
-          "《远征军：武士》",
-          "THQ Nordic",
-          "抢先体验"
-        ],
-        "hot_score": 93,
-        "link": "https://www.gcores.com/articles/217154",
-        "domain": "文娱"
-      },
-      {
-        "source": "机核",
-        "publish_time": "2026-07-15",
-        "origin_title": "恐怖爱好者的入坑指南，这里集合 中元节SP",
-        "show_content": "中元节活动期间，机核网“这里集合”栏目邀请资深恐怖作品爱好者夜長月，探讨恐怖作品的吸引力、评价标准、宇宙恐怖概念、经典恐怖形象及日常生活中的惊悚瞬间，并预告机组中元节故事征稿活动。",
-        "tags": [
-          "恐怖作品爱好者",
-          "中元节活动",
-          "访谈"
-        ],
         "hot_score": 74,
-        "link": "https://www.gcores.com/radios/217005",
-        "domain": "文娱"
-      },
-      {
-        "source": "机核",
-        "publish_time": "2026-07-15",
-        "origin_title": "《遗忘之海》体验分享｜此人的忧郁恐在我之上 机浪 Vol.126",
-        "show_content": "《遗忘之海》移动端定于7月23日上线。游戏电台栏目GadioWave以分享对新事物的快速感受为特色。",
-        "tags": [
-          "遗忘之海",
-          "移动端上线",
-          "GadioWave"
-        ],
-        "hot_score": 70,
-        "link": "https://www.gcores.com/radios/217143",
+        "link": "https://www.gcores.com/articles/217153",
         "domain": "文娱"
       }
     ],
@@ -432,56 +569,112 @@
       {
         "source": "BBC",
         "publish_time": "2026-07-15",
-        "origin_title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-        "show_content": "在美伊两国连续第四天相互开火并恢复对伊朗港口封锁的同时，特朗普发出威胁，称除非伊朗恢复谈判，否则将轰炸桥梁和发电厂。",
+        "origin_title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
+        "show_content": "乌克兰四个地区报告平民伤亡，共八人在俄罗斯袭击中丧生。与此同时，基辅方面对黑海区域的俄罗斯船只发动打击，据报命中二十艘。",
         "tags": [
-          "美伊冲突",
-          "特朗普威胁",
-          "谈判僵局"
+          "乌克兰冲突",
+          "平民伤亡",
+          "黑海袭击"
         ],
-        "hot_score": 100,
-        "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+        "hot_score": 98,
+        "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-15",
+        "origin_title": "Iran threatens to block more trade routes as US launches fresh strikes",
+        "show_content": "美国总统特朗普表示，若伊朗不重返谈判，下周将打击其桥梁和发电厂。伊朗方面则威胁称将封锁更多贸易路线作为回应。目前双方紧张局势持续升级。",
+        "tags": [
+          "美伊关系",
+          "军事威胁",
+          "贸易封锁"
+        ],
+        "hot_score": 95,
+        "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-15",
+        "origin_title": "Venezuela government to launch formal talks with opposition members",
+        "show_content": "委内瑞拉政府宣布将与反对派成员启动正式对话。反对派方面表示，此次对话旨在加强民主制度与选举体系。",
+        "tags": [
+          "委内瑞拉",
+          "政府对话",
+          "反对派"
+        ],
+        "hot_score": 95,
+        "link": "https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
         "source": "BBC",
         "publish_time": "2026-07-15",
         "origin_title": "Seven Britons among those killed in Spain wildfires",
-        "show_content": "西班牙当局周二称，该国林火已造成13人死亡，其中12人为外国国民，英国公民占7人。",
+        "show_content": "西班牙当局周二称，西班牙林火造成的13名遇难者中有12人为外国国民。报道称，遇难者中包括7名英国公民。",
         "tags": [
           "西班牙林火",
-          "人员伤亡",
+          "遇难者",
           "外国国民"
         ],
-        "hot_score": 94,
+        "hot_score": 95,
         "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
         "source": "BBC",
         "publish_time": "2026-07-15",
-        "origin_title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-        "show_content": "美国总统特朗普就霍尔木兹海峡通行费问题立场发生转变。此举是这场已持续四个多月的冲突中的最新进展。",
+        "origin_title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
+        "show_content": "意大利总理梅洛尼在选举改革相关表决中遭遇意外挫败。反对派借此次投票结果，要求梅洛尼在明年大选前辞去总理职务。",
         "tags": [
-          "霍尔木兹海峡",
-          "特朗普",
-          "伊朗冲突"
+          "意大利",
+          "选举改革",
+          "梅洛尼"
         ],
-        "hot_score": 90,
-        "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+        "hot_score": 94,
+        "link": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-15",
+        "origin_title": "Heatwave prompts Italy's delivery riders to strike for extra rights",
+        "show_content": "米兰、博洛尼亚和佛罗伦萨的配送员发起罢工，要求在高温天气下获得额外健康保障和薪资保护。",
+        "tags": [
+          "配送员罢工",
+          "高温天气",
+          "权益保护"
+        ],
+        "hot_score": 94,
+        "link": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
+        "domain": "国际"
+      },
+      {
+        "source": "BBC",
+        "publish_time": "2026-07-15",
+        "origin_title": "Sierra Leone drops treason charge against ex-president over attempted coup",
+        "show_content": "塞拉利昂撤销了对前总统科罗马的叛国指控。科罗马于2023年被捕，此前武装人员曾闯入军火库和监狱，释放了囚犯。",
+        "tags": [
+          "塞拉利昂",
+          "科罗马",
+          "叛国指控"
+        ],
+        "hot_score": 94,
+        "link": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
         "source": "BBC",
         "publish_time": "2026-07-15",
         "origin_title": "US Congress takes next step to make daylight saving time permanent",
-        "show_content": "美国众议院通过了一项由特朗普支持的法案，旨在结束美国民众每年需两次调整时钟的现行夏令时制度，为永久实施夏令时迈出关键一步。",
+        "show_content": "美国国会众议院通过一项由特朗普支持的法案，该法案旨在终止美国数十年来每年两次调整时钟的做法，使夏令时成为永久时间标准。",
         "tags": [
           "美国国会",
-          "夏令时",
-          "法案"
+          "夏令时法案",
+          "众议院表决"
         ],
-        "hot_score": 90,
+        "hot_score": 94,
         "link": "https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
@@ -489,80 +682,28 @@
         "source": "BBC",
         "publish_time": "2026-07-15",
         "origin_title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
-        "show_content": "Vusimusi 'Cat' Matlala将出席Madlanga委员会调查。他早年曾以街头谋生，目前是南非警方腐败调查中的关键人物。",
+        "show_content": "Vusimusi 'Cat' Matlala，一位出身街头的谋生者，将出席Madlanga委员会就南非警方腐败调查作证。他的成长经历使其成为该调查中的关键人物。",
         "tags": [
-          "Vusimusi Matlala",
+          "南非警方腐败调查",
           "Madlanga委员会",
-          "警方腐败调查"
+          "Vusimusi Matlala"
         ],
-        "hot_score": 90,
+        "hot_score": 93,
         "link": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       },
       {
         "source": "BBC",
         "publish_time": "2026-07-15",
-        "origin_title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
-        "show_content": "印度与英国之间的自由贸易协定已正式生效。该协定涉及世界第五大和第六大经济体之间的贸易往来，目前正关注其实施效果与影响。",
+        "origin_title": "Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes",
+        "show_content": "肯尼亚法院驳回了拉斯塔法里教徒为宗教目的合法化大麻的请求，但承认在该国需要就大麻政策进行更广泛的全国辩论。",
         "tags": [
-          "自由贸易协定",
-          "印度",
-          "英国"
+          "大麻合法化",
+          "宗教自由",
+          "肯尼亚法院"
         ],
-        "hot_score": 88,
-        "link": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-15",
-        "origin_title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-        "show_content": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
-        "tags": [],
-        "hot_score": 83,
-        "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-15",
-        "origin_title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-        "show_content": "霍尔木兹海峡的控制权成为美伊之间的关键争议点，与此同时，双方达成的停火协议陷入困境。",
-        "tags": [
-          "霍尔木兹海峡",
-          "美伊关系",
-          "停火协议"
-        ],
-        "hot_score": 82,
-        "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-15",
-        "origin_title": "Colombian national killed by ICE agent during operation in Maine",
-        "show_content": "一名哥伦比亚公民在缅因州的一次行动中被美国移民与海关执法局特工击毙。该事件发生不到一周前，一名无证移民在休斯敦被一名移民特工致命枪杀。",
-        "tags": [
-          "哥伦比亚公民",
-          "ICE特工",
-          "缅因州"
-        ],
-        "hot_score": 82,
-        "link": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
-        "domain": "国际"
-      },
-      {
-        "source": "BBC",
-        "publish_time": "2026-07-15",
-        "origin_title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "show_content": "以色列军方袭击加沙北部一处警察哨所，造成7人死亡，其中包括一名哈马斯警察部队高级官员。以军表示此次行动针对的是“恐怖分子”。",
-        "tags": [
-          "以色列",
-          "加沙北部",
-          "袭击"
-        ],
-        "hot_score": 78,
-        "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+        "hot_score": 92,
+        "link": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
         "domain": "国际"
       }
     ]
